@@ -1,0 +1,2161 @@
+county_name,FIPS,population,date,month_year,Series,Permits,permit_ratio_pop
+Cherokee,13057,286602,2022-01-01,Jan 2022,Total Permits,306.0,10.676827098205875
+Cherokee,13057,286602,2022-02-01,Feb 2022,Total Permits,353.0,12.316731913943379
+Cherokee,13057,286602,2022-03-01,Mar 2022,Total Permits,317.0,11.0606346082721
+Cherokee,13057,286602,2022-04-01,Apr 2022,Total Permits,380.0,13.258804893196837
+Cherokee,13057,286602,2022-05-01,May 2022,Total Permits,306.0,10.676827098205875
+Cherokee,13057,286602,2022-06-01,Jun 2022,Total Permits,302.0,10.537260730909066
+Cherokee,13057,286602,2022-07-01,Jul 2022,Total Permits,147.0,5.129063998157724
+Cherokee,13057,286602,2022-08-01,Aug 2022,Total Permits,452.0,15.770999504539395
+Cherokee,13057,286602,2022-09-01,Sep 2022,Total Permits,105.0,3.6636171415412315
+Cherokee,13057,286602,2022-10-01,Oct 2022,Total Permits,122.0,4.256774202552669
+Cherokee,13057,286602,2022-11-01,Nov 2022,Total Permits,139.0,4.849931263564106
+Cherokee,13057,286602,2022-12-01,Dec 2022,Total Permits,92.0,3.210026447826603
+Cherokee,13057,286602,2022-01-01,Jan 2022,All Single-Family Permits,194.0,6.768968813895228
+Cherokee,13057,286602,2022-02-01,Feb 2022,All Single-Family Permits,317.0,11.0606346082721
+Cherokee,13057,286602,2022-03-01,Mar 2022,All Single-Family Permits,317.0,11.0606346082721
+Cherokee,13057,286602,2022-04-01,Apr 2022,All Single-Family Permits,344.0,12.002707587525558
+Cherokee,13057,286602,2022-05-01,May 2022,All Single-Family Permits,298.0,10.397694363612256
+Cherokee,13057,286602,2022-06-01,Jun 2022,All Single-Family Permits,302.0,10.537260730909066
+Cherokee,13057,286602,2022-07-01,Jul 2022,All Single-Family Permits,143.0,4.989497630860916
+Cherokee,13057,286602,2022-08-01,Aug 2022,All Single-Family Permits,158.0,5.512871508223949
+Cherokee,13057,286602,2022-09-01,Sep 2022,All Single-Family Permits,101.0,3.5240507742444227
+Cherokee,13057,286602,2022-10-01,Oct 2022,All Single-Family Permits,122.0,4.256774202552669
+Cherokee,13057,286602,2022-11-01,Nov 2022,All Single-Family Permits,113.0,3.9427498761348487
+Cherokee,13057,286602,2022-12-01,Dec 2022,All Single-Family Permits,86.0,3.0006768968813895
+Cherokee,13057,286602,2022-01-01,Jan 2022,All Multi-Family Permits,112.0,3.9078582843106466
+Cherokee,13057,286602,2022-02-01,Feb 2022,All Multi-Family Permits,36.0,1.2560973056712792
+Cherokee,13057,286602,2022-03-01,Mar 2022,All Multi-Family Permits,0.0,0.0
+Cherokee,13057,286602,2022-04-01,Apr 2022,All Multi-Family Permits,36.0,1.2560973056712792
+Cherokee,13057,286602,2022-05-01,May 2022,All Multi-Family Permits,8.0,0.2791327345936176
+Cherokee,13057,286602,2022-06-01,Jun 2022,All Multi-Family Permits,0.0,0.0
+Cherokee,13057,286602,2022-07-01,Jul 2022,All Multi-Family Permits,4.0,0.1395663672968088
+Cherokee,13057,286602,2022-08-01,Aug 2022,All Multi-Family Permits,294.0,10.258127996315448
+Cherokee,13057,286602,2022-09-01,Sep 2022,All Multi-Family Permits,4.0,0.1395663672968088
+Cherokee,13057,286602,2022-10-01,Oct 2022,All Multi-Family Permits,0.0,0.0
+Cherokee,13057,286602,2022-11-01,Nov 2022,All Multi-Family Permits,26.0,0.9071813874292572
+Cherokee,13057,286602,2022-12-01,Dec 2022,All Multi-Family Permits,6.0,0.20934955094521324
+Cherokee,13057,286602,2022-01-01,Jan 2022,Multi-Family Permits (2 units),4.0,0.1395663672968088
+Cherokee,13057,286602,2022-02-01,Feb 2022,Multi-Family Permits (2 units),0.0,0.0
+Cherokee,13057,286602,2022-03-01,Mar 2022,Multi-Family Permits (2 units),0.0,0.0
+Cherokee,13057,286602,2022-04-01,Apr 2022,Multi-Family Permits (2 units),0.0,0.0
+Cherokee,13057,286602,2022-05-01,May 2022,Multi-Family Permits (2 units),8.0,0.2791327345936176
+Cherokee,13057,286602,2022-06-01,Jun 2022,Multi-Family Permits (2 units),0.0,0.0
+Cherokee,13057,286602,2022-07-01,Jul 2022,Multi-Family Permits (2 units),4.0,0.1395663672968088
+Cherokee,13057,286602,2022-08-01,Aug 2022,Multi-Family Permits (2 units),4.0,0.1395663672968088
+Cherokee,13057,286602,2022-09-01,Sep 2022,Multi-Family Permits (2 units),4.0,0.1395663672968088
+Cherokee,13057,286602,2022-10-01,Oct 2022,Multi-Family Permits (2 units),0.0,0.0
+Cherokee,13057,286602,2022-11-01,Nov 2022,Multi-Family Permits (2 units),2.0,0.0697831836484044
+Cherokee,13057,286602,2022-12-01,Dec 2022,Multi-Family Permits (2 units),6.0,0.20934955094521324
+Cherokee,13057,286602,2022-01-01,Jan 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Cherokee,13057,286602,2022-02-01,Feb 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Cherokee,13057,286602,2022-03-01,Mar 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Cherokee,13057,286602,2022-04-01,Apr 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Cherokee,13057,286602,2022-05-01,May 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Cherokee,13057,286602,2022-06-01,Jun 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Cherokee,13057,286602,2022-07-01,Jul 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Cherokee,13057,286602,2022-08-01,Aug 2022,Multi-Family Permits (3-4 units),12.0,0.4186991018904265
+Cherokee,13057,286602,2022-09-01,Sep 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Cherokee,13057,286602,2022-10-01,Oct 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Cherokee,13057,286602,2022-11-01,Nov 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Cherokee,13057,286602,2022-12-01,Dec 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Cherokee,13057,286602,2022-01-01,Jan 2022,Multi-Family Permits (5+ units),108.0,3.768291917013838
+Cherokee,13057,286602,2022-02-01,Feb 2022,Multi-Family Permits (5+ units),36.0,1.2560973056712792
+Cherokee,13057,286602,2022-03-01,Mar 2022,Multi-Family Permits (5+ units),0.0,0.0
+Cherokee,13057,286602,2022-04-01,Apr 2022,Multi-Family Permits (5+ units),36.0,1.2560973056712792
+Cherokee,13057,286602,2022-05-01,May 2022,Multi-Family Permits (5+ units),0.0,0.0
+Cherokee,13057,286602,2022-06-01,Jun 2022,Multi-Family Permits (5+ units),0.0,0.0
+Cherokee,13057,286602,2022-07-01,Jul 2022,Multi-Family Permits (5+ units),0.0,0.0
+Cherokee,13057,286602,2022-08-01,Aug 2022,Multi-Family Permits (5+ units),278.0,9.699862527128213
+Cherokee,13057,286602,2022-09-01,Sep 2022,Multi-Family Permits (5+ units),0.0,0.0
+Cherokee,13057,286602,2022-10-01,Oct 2022,Multi-Family Permits (5+ units),0.0,0.0
+Cherokee,13057,286602,2022-11-01,Nov 2022,Multi-Family Permits (5+ units),24.0,0.837398203780853
+Cherokee,13057,286602,2022-12-01,Dec 2022,Multi-Family Permits (5+ units),0.0,0.0
+Cherokee,13057,286602,2023-01-01,Jan 2023,Total Permits,99.0,3.454267590596018
+Cherokee,13057,286602,2023-02-01,Feb 2023,Total Permits,146.0,5.094172406333522
+Cherokee,13057,286602,2023-03-01,Mar 2023,Total Permits,197.0,6.873643589367834
+Cherokee,13057,286602,2023-04-01,Apr 2023,Total Permits,247.0,8.618223180577944
+Cherokee,13057,286602,2023-05-01,May 2023,Total Permits,272.0,9.490512976183
+Cherokee,13057,286602,2023-06-01,Jun 2023,Total Permits,275.0,9.595187751655606
+Cherokee,13057,286602,2023-07-01,Jul 2023,Total Permits,204.0,7.11788473213725
+Cherokee,13057,286602,2023-08-01,Aug 2023,Total Permits,198.0,6.908535181192036
+Cherokee,13057,286602,2023-09-01,Sep 2023,Total Permits,179.0,6.2455949365321946
+Cherokee,13057,286602,2023-10-01,Oct 2023,Total Permits,152.0,5.303521957278734
+Cherokee,13057,286602,2023-11-01,Nov 2023,Total Permits,126.0,4.396340569849478
+Cherokee,13057,286602,2023-12-01,Dec 2023,Total Permits,131.0,4.570798528970489
+Cherokee,13057,286602,2023-01-01,Jan 2023,All Single-Family Permits,99.0,3.454267590596018
+Cherokee,13057,286602,2023-02-01,Feb 2023,All Single-Family Permits,140.0,4.884822855388309
+Cherokee,13057,286602,2023-03-01,Mar 2023,All Single-Family Permits,189.0,6.594510854774216
+Cherokee,13057,286602,2023-04-01,Apr 2023,All Single-Family Permits,245.0,8.54843999692954
+Cherokee,13057,286602,2023-05-01,May 2023,All Single-Family Permits,266.0,9.281163425237786
+Cherokee,13057,286602,2023-06-01,Jun 2023,All Single-Family Permits,273.0,9.525404568007202
+Cherokee,13057,286602,2023-07-01,Jul 2023,All Single-Family Permits,204.0,7.11788473213725
+Cherokee,13057,286602,2023-08-01,Aug 2023,All Single-Family Permits,196.0,6.838751997543633
+Cherokee,13057,286602,2023-09-01,Sep 2023,All Single-Family Permits,179.0,6.2455949365321946
+Cherokee,13057,286602,2023-10-01,Oct 2023,All Single-Family Permits,150.0,5.233738773630331
+Cherokee,13057,286602,2023-11-01,Nov 2023,All Single-Family Permits,124.0,4.326557386201073
+Cherokee,13057,286602,2023-12-01,Dec 2023,All Single-Family Permits,131.0,4.570798528970489
+Cherokee,13057,286602,2023-01-01,Jan 2023,All Multi-Family Permits,0.0,0.0
+Cherokee,13057,286602,2023-02-01,Feb 2023,All Multi-Family Permits,6.0,0.20934955094521324
+Cherokee,13057,286602,2023-03-01,Mar 2023,All Multi-Family Permits,8.0,0.2791327345936176
+Cherokee,13057,286602,2023-04-01,Apr 2023,All Multi-Family Permits,2.0,0.0697831836484044
+Cherokee,13057,286602,2023-05-01,May 2023,All Multi-Family Permits,6.0,0.20934955094521324
+Cherokee,13057,286602,2023-06-01,Jun 2023,All Multi-Family Permits,2.0,0.0697831836484044
+Cherokee,13057,286602,2023-07-01,Jul 2023,All Multi-Family Permits,0.0,0.0
+Cherokee,13057,286602,2023-08-01,Aug 2023,All Multi-Family Permits,2.0,0.0697831836484044
+Cherokee,13057,286602,2023-09-01,Sep 2023,All Multi-Family Permits,0.0,0.0
+Cherokee,13057,286602,2023-10-01,Oct 2023,All Multi-Family Permits,2.0,0.0697831836484044
+Cherokee,13057,286602,2023-11-01,Nov 2023,All Multi-Family Permits,2.0,0.0697831836484044
+Cherokee,13057,286602,2023-12-01,Dec 2023,All Multi-Family Permits,0.0,0.0
+Cherokee,13057,286602,2023-01-01,Jan 2023,Multi-Family Permits (2 units),0.0,0.0
+Cherokee,13057,286602,2023-02-01,Feb 2023,Multi-Family Permits (2 units),6.0,0.20934955094521324
+Cherokee,13057,286602,2023-03-01,Mar 2023,Multi-Family Permits (2 units),8.0,0.2791327345936176
+Cherokee,13057,286602,2023-04-01,Apr 2023,Multi-Family Permits (2 units),2.0,0.0697831836484044
+Cherokee,13057,286602,2023-05-01,May 2023,Multi-Family Permits (2 units),6.0,0.20934955094521324
+Cherokee,13057,286602,2023-06-01,Jun 2023,Multi-Family Permits (2 units),2.0,0.0697831836484044
+Cherokee,13057,286602,2023-07-01,Jul 2023,Multi-Family Permits (2 units),0.0,0.0
+Cherokee,13057,286602,2023-08-01,Aug 2023,Multi-Family Permits (2 units),2.0,0.0697831836484044
+Cherokee,13057,286602,2023-09-01,Sep 2023,Multi-Family Permits (2 units),0.0,0.0
+Cherokee,13057,286602,2023-10-01,Oct 2023,Multi-Family Permits (2 units),2.0,0.0697831836484044
+Cherokee,13057,286602,2023-11-01,Nov 2023,Multi-Family Permits (2 units),2.0,0.0697831836484044
+Cherokee,13057,286602,2023-12-01,Dec 2023,Multi-Family Permits (2 units),0.0,0.0
+Cherokee,13057,286602,2023-01-01,Jan 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Cherokee,13057,286602,2023-02-01,Feb 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Cherokee,13057,286602,2023-03-01,Mar 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Cherokee,13057,286602,2023-04-01,Apr 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Cherokee,13057,286602,2023-05-01,May 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Cherokee,13057,286602,2023-06-01,Jun 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Cherokee,13057,286602,2023-07-01,Jul 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Cherokee,13057,286602,2023-08-01,Aug 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Cherokee,13057,286602,2023-09-01,Sep 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Cherokee,13057,286602,2023-10-01,Oct 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Cherokee,13057,286602,2023-11-01,Nov 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Cherokee,13057,286602,2023-12-01,Dec 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Cherokee,13057,286602,2023-01-01,Jan 2023,Multi-Family Permits (5+ units),0.0,0.0
+Cherokee,13057,286602,2023-02-01,Feb 2023,Multi-Family Permits (5+ units),0.0,0.0
+Cherokee,13057,286602,2023-03-01,Mar 2023,Multi-Family Permits (5+ units),0.0,0.0
+Cherokee,13057,286602,2023-04-01,Apr 2023,Multi-Family Permits (5+ units),0.0,0.0
+Cherokee,13057,286602,2023-05-01,May 2023,Multi-Family Permits (5+ units),0.0,0.0
+Cherokee,13057,286602,2023-06-01,Jun 2023,Multi-Family Permits (5+ units),0.0,0.0
+Cherokee,13057,286602,2023-07-01,Jul 2023,Multi-Family Permits (5+ units),0.0,0.0
+Cherokee,13057,286602,2023-08-01,Aug 2023,Multi-Family Permits (5+ units),0.0,0.0
+Cherokee,13057,286602,2023-09-01,Sep 2023,Multi-Family Permits (5+ units),0.0,0.0
+Cherokee,13057,286602,2023-10-01,Oct 2023,Multi-Family Permits (5+ units),0.0,0.0
+Cherokee,13057,286602,2023-11-01,Nov 2023,Multi-Family Permits (5+ units),0.0,0.0
+Cherokee,13057,286602,2023-12-01,Dec 2023,Multi-Family Permits (5+ units),0.0,0.0
+Cherokee,13057,286602,2024-01-01,Jan 2024,Total Permits,202.0,7.048101548488845
+Cherokee,13057,286602,2024-02-01,Feb 2024,Total Permits,159.0,5.54776310004815
+Cherokee,13057,286602,2024-03-01,Mar 2024,Total Permits,188.0,6.559619262950014
+Cherokee,13057,286602,2024-04-01,Apr 2024,Total Permits,492.0,17.166663177507484
+Cherokee,13057,286602,2024-05-01,May 2024,Total Permits,402.0,14.026419913329285
+Cherokee,13057,286602,2024-06-01,Jun 2024,Total Permits,203.0,7.0829931403130475
+Cherokee,13057,286602,2024-01-01,Jan 2024,All Single-Family Permits,191.0,6.6642940384226215
+Cherokee,13057,286602,2024-02-01,Feb 2024,All Single-Family Permits,159.0,5.54776310004815
+Cherokee,13057,286602,2024-03-01,Mar 2024,All Single-Family Permits,188.0,6.559619262950014
+Cherokee,13057,286602,2024-04-01,Apr 2024,All Single-Family Permits,144.0,5.024389222685117
+Cherokee,13057,286602,2024-05-01,May 2024,All Single-Family Permits,202.0,7.048101548488845
+Cherokee,13057,286602,2024-06-01,Jun 2024,All Single-Family Permits,201.0,7.013209956664642
+Cherokee,13057,286602,2024-01-01,Jan 2024,All Multi-Family Permits,11.0,0.38380751006622427
+Cherokee,13057,286602,2024-02-01,Feb 2024,All Multi-Family Permits,0.0,0.0
+Cherokee,13057,286602,2024-03-01,Mar 2024,All Multi-Family Permits,0.0,0.0
+Cherokee,13057,286602,2024-04-01,Apr 2024,All Multi-Family Permits,348.0,12.142273954822366
+Cherokee,13057,286602,2024-05-01,May 2024,All Multi-Family Permits,200.0,6.97831836484044
+Cherokee,13057,286602,2024-06-01,Jun 2024,All Multi-Family Permits,2.0,0.0697831836484044
+Cherokee,13057,286602,2024-01-01,Jan 2024,Multi-Family Permits (2 units),0.0,0.0
+Cherokee,13057,286602,2024-02-01,Feb 2024,Multi-Family Permits (2 units),0.0,0.0
+Cherokee,13057,286602,2024-03-01,Mar 2024,Multi-Family Permits (2 units),0.0,0.0
+Cherokee,13057,286602,2024-04-01,Apr 2024,Multi-Family Permits (2 units),4.0,0.1395663672968088
+Cherokee,13057,286602,2024-05-01,May 2024,Multi-Family Permits (2 units),0.0,0.0
+Cherokee,13057,286602,2024-06-01,Jun 2024,Multi-Family Permits (2 units),2.0,0.0697831836484044
+Cherokee,13057,286602,2024-01-01,Jan 2024,Multi-Family Permits (3-4 units),11.0,0.38380751006622427
+Cherokee,13057,286602,2024-02-01,Feb 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Cherokee,13057,286602,2024-03-01,Mar 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Cherokee,13057,286602,2024-04-01,Apr 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Cherokee,13057,286602,2024-05-01,May 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Cherokee,13057,286602,2024-06-01,Jun 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Cherokee,13057,286602,2024-01-01,Jan 2024,Multi-Family Permits (5+ units),0.0,0.0
+Cherokee,13057,286602,2024-02-01,Feb 2024,Multi-Family Permits (5+ units),0.0,0.0
+Cherokee,13057,286602,2024-03-01,Mar 2024,Multi-Family Permits (5+ units),0.0,0.0
+Cherokee,13057,286602,2024-04-01,Apr 2024,Multi-Family Permits (5+ units),344.0,12.002707587525558
+Cherokee,13057,286602,2024-05-01,May 2024,Multi-Family Permits (5+ units),200.0,6.97831836484044
+Cherokee,13057,286602,2024-06-01,Jun 2024,Multi-Family Permits (5+ units),0.0,0.0
+Clayton,13063,298300,2022-01-01,Jan 2022,Total Permits,21.0,0.7039892725444183
+Clayton,13063,298300,2022-02-01,Feb 2022,Total Permits,28.0,0.9386523633925578
+Clayton,13063,298300,2022-03-01,Mar 2022,Total Permits,54.0,1.810258129399933
+Clayton,13063,298300,2022-04-01,Apr 2022,Total Permits,32.0,1.0727455581629233
+Clayton,13063,298300,2022-05-01,May 2022,Total Permits,91.0,3.050620181025813
+Clayton,13063,298300,2022-06-01,Jun 2022,Total Permits,23.0,0.771035869929601
+Clayton,13063,298300,2022-07-01,Jul 2022,Total Permits,21.0,0.7039892725444183
+Clayton,13063,298300,2022-08-01,Aug 2022,Total Permits,11.0,0.3687562856185049
+Clayton,13063,298300,2022-09-01,Sep 2022,Total Permits,29.0,0.9721756620851492
+Clayton,13063,298300,2022-10-01,Oct 2022,Total Permits,24.0,0.8045591686221925
+Clayton,13063,298300,2022-11-01,Nov 2022,Total Permits,22.0,0.7375125712370098
+Clayton,13063,298300,2022-12-01,Dec 2022,Total Permits,17.0,0.5698960777740529
+Clayton,13063,298300,2022-01-01,Jan 2022,All Single-Family Permits,21.0,0.7039892725444183
+Clayton,13063,298300,2022-02-01,Feb 2022,All Single-Family Permits,28.0,0.9386523633925578
+Clayton,13063,298300,2022-03-01,Mar 2022,All Single-Family Permits,54.0,1.810258129399933
+Clayton,13063,298300,2022-04-01,Apr 2022,All Single-Family Permits,32.0,1.0727455581629233
+Clayton,13063,298300,2022-05-01,May 2022,All Single-Family Permits,91.0,3.050620181025813
+Clayton,13063,298300,2022-06-01,Jun 2022,All Single-Family Permits,23.0,0.771035869929601
+Clayton,13063,298300,2022-07-01,Jul 2022,All Single-Family Permits,21.0,0.7039892725444183
+Clayton,13063,298300,2022-08-01,Aug 2022,All Single-Family Permits,11.0,0.3687562856185049
+Clayton,13063,298300,2022-09-01,Sep 2022,All Single-Family Permits,29.0,0.9721756620851492
+Clayton,13063,298300,2022-10-01,Oct 2022,All Single-Family Permits,24.0,0.8045591686221925
+Clayton,13063,298300,2022-11-01,Nov 2022,All Single-Family Permits,22.0,0.7375125712370098
+Clayton,13063,298300,2022-12-01,Dec 2022,All Single-Family Permits,17.0,0.5698960777740529
+Clayton,13063,298300,2022-01-01,Jan 2022,All Multi-Family Permits,0.0,0.0
+Clayton,13063,298300,2022-02-01,Feb 2022,All Multi-Family Permits,0.0,0.0
+Clayton,13063,298300,2022-03-01,Mar 2022,All Multi-Family Permits,0.0,0.0
+Clayton,13063,298300,2022-04-01,Apr 2022,All Multi-Family Permits,0.0,0.0
+Clayton,13063,298300,2022-05-01,May 2022,All Multi-Family Permits,0.0,0.0
+Clayton,13063,298300,2022-06-01,Jun 2022,All Multi-Family Permits,0.0,0.0
+Clayton,13063,298300,2022-07-01,Jul 2022,All Multi-Family Permits,0.0,0.0
+Clayton,13063,298300,2022-08-01,Aug 2022,All Multi-Family Permits,0.0,0.0
+Clayton,13063,298300,2022-09-01,Sep 2022,All Multi-Family Permits,0.0,0.0
+Clayton,13063,298300,2022-10-01,Oct 2022,All Multi-Family Permits,0.0,0.0
+Clayton,13063,298300,2022-11-01,Nov 2022,All Multi-Family Permits,0.0,0.0
+Clayton,13063,298300,2022-12-01,Dec 2022,All Multi-Family Permits,0.0,0.0
+Clayton,13063,298300,2022-01-01,Jan 2022,Multi-Family Permits (2 units),0.0,0.0
+Clayton,13063,298300,2022-02-01,Feb 2022,Multi-Family Permits (2 units),0.0,0.0
+Clayton,13063,298300,2022-03-01,Mar 2022,Multi-Family Permits (2 units),0.0,0.0
+Clayton,13063,298300,2022-04-01,Apr 2022,Multi-Family Permits (2 units),0.0,0.0
+Clayton,13063,298300,2022-05-01,May 2022,Multi-Family Permits (2 units),0.0,0.0
+Clayton,13063,298300,2022-06-01,Jun 2022,Multi-Family Permits (2 units),0.0,0.0
+Clayton,13063,298300,2022-07-01,Jul 2022,Multi-Family Permits (2 units),0.0,0.0
+Clayton,13063,298300,2022-08-01,Aug 2022,Multi-Family Permits (2 units),0.0,0.0
+Clayton,13063,298300,2022-09-01,Sep 2022,Multi-Family Permits (2 units),0.0,0.0
+Clayton,13063,298300,2022-10-01,Oct 2022,Multi-Family Permits (2 units),0.0,0.0
+Clayton,13063,298300,2022-11-01,Nov 2022,Multi-Family Permits (2 units),0.0,0.0
+Clayton,13063,298300,2022-12-01,Dec 2022,Multi-Family Permits (2 units),0.0,0.0
+Clayton,13063,298300,2022-01-01,Jan 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Clayton,13063,298300,2022-02-01,Feb 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Clayton,13063,298300,2022-03-01,Mar 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Clayton,13063,298300,2022-04-01,Apr 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Clayton,13063,298300,2022-05-01,May 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Clayton,13063,298300,2022-06-01,Jun 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Clayton,13063,298300,2022-07-01,Jul 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Clayton,13063,298300,2022-08-01,Aug 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Clayton,13063,298300,2022-09-01,Sep 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Clayton,13063,298300,2022-10-01,Oct 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Clayton,13063,298300,2022-11-01,Nov 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Clayton,13063,298300,2022-12-01,Dec 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Clayton,13063,298300,2022-01-01,Jan 2022,Multi-Family Permits (5+ units),0.0,0.0
+Clayton,13063,298300,2022-02-01,Feb 2022,Multi-Family Permits (5+ units),0.0,0.0
+Clayton,13063,298300,2022-03-01,Mar 2022,Multi-Family Permits (5+ units),0.0,0.0
+Clayton,13063,298300,2022-04-01,Apr 2022,Multi-Family Permits (5+ units),0.0,0.0
+Clayton,13063,298300,2022-05-01,May 2022,Multi-Family Permits (5+ units),0.0,0.0
+Clayton,13063,298300,2022-06-01,Jun 2022,Multi-Family Permits (5+ units),0.0,0.0
+Clayton,13063,298300,2022-07-01,Jul 2022,Multi-Family Permits (5+ units),0.0,0.0
+Clayton,13063,298300,2022-08-01,Aug 2022,Multi-Family Permits (5+ units),0.0,0.0
+Clayton,13063,298300,2022-09-01,Sep 2022,Multi-Family Permits (5+ units),0.0,0.0
+Clayton,13063,298300,2022-10-01,Oct 2022,Multi-Family Permits (5+ units),0.0,0.0
+Clayton,13063,298300,2022-11-01,Nov 2022,Multi-Family Permits (5+ units),0.0,0.0
+Clayton,13063,298300,2022-12-01,Dec 2022,Multi-Family Permits (5+ units),0.0,0.0
+Clayton,13063,298300,2023-01-01,Jan 2023,Total Permits,38.0,1.2738853503184713
+Clayton,13063,298300,2023-02-01,Feb 2023,Total Permits,39.0,1.3074086490110626
+Clayton,13063,298300,2023-03-01,Mar 2023,Total Permits,36.0,1.2068387529332887
+Clayton,13063,298300,2023-04-01,Apr 2023,Total Permits,25.0,0.8380824673147839
+Clayton,13063,298300,2023-05-01,May 2023,Total Permits,27.0,0.9051290646999665
+Clayton,13063,298300,2023-06-01,Jun 2023,Total Permits,14.0,0.4693261816962789
+Clayton,13063,298300,2023-07-01,Jul 2023,Total Permits,5.0,0.16761649346295673
+Clayton,13063,298300,2023-08-01,Aug 2023,Total Permits,52.0,1.7432115320147503
+Clayton,13063,298300,2023-09-01,Sep 2023,Total Permits,8.0,0.2681863895407308
+Clayton,13063,298300,2023-10-01,Oct 2023,Total Permits,39.0,1.3074086490110626
+Clayton,13063,298300,2023-11-01,Nov 2023,Total Permits,27.0,0.9051290646999665
+Clayton,13063,298300,2023-12-01,Dec 2023,Total Permits,27.0,0.9051290646999665
+Clayton,13063,298300,2023-01-01,Jan 2023,All Single-Family Permits,38.0,1.2738853503184713
+Clayton,13063,298300,2023-02-01,Feb 2023,All Single-Family Permits,39.0,1.3074086490110626
+Clayton,13063,298300,2023-03-01,Mar 2023,All Single-Family Permits,36.0,1.2068387529332887
+Clayton,13063,298300,2023-04-01,Apr 2023,All Single-Family Permits,25.0,0.8380824673147839
+Clayton,13063,298300,2023-05-01,May 2023,All Single-Family Permits,27.0,0.9051290646999665
+Clayton,13063,298300,2023-06-01,Jun 2023,All Single-Family Permits,14.0,0.4693261816962789
+Clayton,13063,298300,2023-07-01,Jul 2023,All Single-Family Permits,5.0,0.16761649346295673
+Clayton,13063,298300,2023-08-01,Aug 2023,All Single-Family Permits,27.0,0.9051290646999665
+Clayton,13063,298300,2023-09-01,Sep 2023,All Single-Family Permits,8.0,0.2681863895407308
+Clayton,13063,298300,2023-10-01,Oct 2023,All Single-Family Permits,39.0,1.3074086490110626
+Clayton,13063,298300,2023-11-01,Nov 2023,All Single-Family Permits,27.0,0.9051290646999665
+Clayton,13063,298300,2023-12-01,Dec 2023,All Single-Family Permits,27.0,0.9051290646999665
+Clayton,13063,298300,2023-01-01,Jan 2023,All Multi-Family Permits,0.0,0.0
+Clayton,13063,298300,2023-02-01,Feb 2023,All Multi-Family Permits,0.0,0.0
+Clayton,13063,298300,2023-03-01,Mar 2023,All Multi-Family Permits,0.0,0.0
+Clayton,13063,298300,2023-04-01,Apr 2023,All Multi-Family Permits,0.0,0.0
+Clayton,13063,298300,2023-05-01,May 2023,All Multi-Family Permits,0.0,0.0
+Clayton,13063,298300,2023-06-01,Jun 2023,All Multi-Family Permits,0.0,0.0
+Clayton,13063,298300,2023-07-01,Jul 2023,All Multi-Family Permits,0.0,0.0
+Clayton,13063,298300,2023-08-01,Aug 2023,All Multi-Family Permits,25.0,0.8380824673147839
+Clayton,13063,298300,2023-09-01,Sep 2023,All Multi-Family Permits,0.0,0.0
+Clayton,13063,298300,2023-10-01,Oct 2023,All Multi-Family Permits,0.0,0.0
+Clayton,13063,298300,2023-11-01,Nov 2023,All Multi-Family Permits,0.0,0.0
+Clayton,13063,298300,2023-12-01,Dec 2023,All Multi-Family Permits,0.0,0.0
+Clayton,13063,298300,2023-01-01,Jan 2023,Multi-Family Permits (2 units),0.0,0.0
+Clayton,13063,298300,2023-02-01,Feb 2023,Multi-Family Permits (2 units),0.0,0.0
+Clayton,13063,298300,2023-03-01,Mar 2023,Multi-Family Permits (2 units),0.0,0.0
+Clayton,13063,298300,2023-04-01,Apr 2023,Multi-Family Permits (2 units),0.0,0.0
+Clayton,13063,298300,2023-05-01,May 2023,Multi-Family Permits (2 units),0.0,0.0
+Clayton,13063,298300,2023-06-01,Jun 2023,Multi-Family Permits (2 units),0.0,0.0
+Clayton,13063,298300,2023-07-01,Jul 2023,Multi-Family Permits (2 units),0.0,0.0
+Clayton,13063,298300,2023-08-01,Aug 2023,Multi-Family Permits (2 units),0.0,0.0
+Clayton,13063,298300,2023-09-01,Sep 2023,Multi-Family Permits (2 units),0.0,0.0
+Clayton,13063,298300,2023-10-01,Oct 2023,Multi-Family Permits (2 units),0.0,0.0
+Clayton,13063,298300,2023-11-01,Nov 2023,Multi-Family Permits (2 units),0.0,0.0
+Clayton,13063,298300,2023-12-01,Dec 2023,Multi-Family Permits (2 units),0.0,0.0
+Clayton,13063,298300,2023-01-01,Jan 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Clayton,13063,298300,2023-02-01,Feb 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Clayton,13063,298300,2023-03-01,Mar 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Clayton,13063,298300,2023-04-01,Apr 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Clayton,13063,298300,2023-05-01,May 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Clayton,13063,298300,2023-06-01,Jun 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Clayton,13063,298300,2023-07-01,Jul 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Clayton,13063,298300,2023-08-01,Aug 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Clayton,13063,298300,2023-09-01,Sep 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Clayton,13063,298300,2023-10-01,Oct 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Clayton,13063,298300,2023-11-01,Nov 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Clayton,13063,298300,2023-12-01,Dec 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Clayton,13063,298300,2023-01-01,Jan 2023,Multi-Family Permits (5+ units),0.0,0.0
+Clayton,13063,298300,2023-02-01,Feb 2023,Multi-Family Permits (5+ units),0.0,0.0
+Clayton,13063,298300,2023-03-01,Mar 2023,Multi-Family Permits (5+ units),0.0,0.0
+Clayton,13063,298300,2023-04-01,Apr 2023,Multi-Family Permits (5+ units),0.0,0.0
+Clayton,13063,298300,2023-05-01,May 2023,Multi-Family Permits (5+ units),0.0,0.0
+Clayton,13063,298300,2023-06-01,Jun 2023,Multi-Family Permits (5+ units),0.0,0.0
+Clayton,13063,298300,2023-07-01,Jul 2023,Multi-Family Permits (5+ units),0.0,0.0
+Clayton,13063,298300,2023-08-01,Aug 2023,Multi-Family Permits (5+ units),25.0,0.8380824673147839
+Clayton,13063,298300,2023-09-01,Sep 2023,Multi-Family Permits (5+ units),0.0,0.0
+Clayton,13063,298300,2023-10-01,Oct 2023,Multi-Family Permits (5+ units),0.0,0.0
+Clayton,13063,298300,2023-11-01,Nov 2023,Multi-Family Permits (5+ units),0.0,0.0
+Clayton,13063,298300,2023-12-01,Dec 2023,Multi-Family Permits (5+ units),0.0,0.0
+Clayton,13063,298300,2024-01-01,Jan 2024,Total Permits,58.0,1.9443513241702983
+Clayton,13063,298300,2024-02-01,Feb 2024,Total Permits,63.0,2.1119678176332553
+Clayton,13063,298300,2024-03-01,Mar 2024,Total Permits,100.0,3.3523298692591355
+Clayton,13063,298300,2024-04-01,Apr 2024,Total Permits,208.0,6.972846128059001
+Clayton,13063,298300,2024-05-01,May 2024,Total Permits,178.0,5.967147167281261
+Clayton,13063,298300,2024-06-01,Jun 2024,Total Permits,38.0,1.2738853503184713
+Clayton,13063,298300,2024-01-01,Jan 2024,All Single-Family Permits,31.0,1.039222259470332
+Clayton,13063,298300,2024-02-01,Feb 2024,All Single-Family Permits,19.0,0.6369426751592356
+Clayton,13063,298300,2024-03-01,Mar 2024,All Single-Family Permits,50.0,1.6761649346295677
+Clayton,13063,298300,2024-04-01,Apr 2024,All Single-Family Permits,52.0,1.7432115320147503
+Clayton,13063,298300,2024-05-01,May 2024,All Single-Family Permits,7.0,0.23466309084813944
+Clayton,13063,298300,2024-06-01,Jun 2024,All Single-Family Permits,38.0,1.2738853503184713
+Clayton,13063,298300,2024-01-01,Jan 2024,All Multi-Family Permits,27.0,0.9051290646999665
+Clayton,13063,298300,2024-02-01,Feb 2024,All Multi-Family Permits,44.0,1.4750251424740195
+Clayton,13063,298300,2024-03-01,Mar 2024,All Multi-Family Permits,50.0,1.6761649346295677
+Clayton,13063,298300,2024-04-01,Apr 2024,All Multi-Family Permits,156.0,5.22963459604425
+Clayton,13063,298300,2024-05-01,May 2024,All Multi-Family Permits,171.0,5.732484076433121
+Clayton,13063,298300,2024-06-01,Jun 2024,All Multi-Family Permits,0.0,0.0
+Clayton,13063,298300,2024-01-01,Jan 2024,Multi-Family Permits (2 units),0.0,0.0
+Clayton,13063,298300,2024-02-01,Feb 2024,Multi-Family Permits (2 units),0.0,0.0
+Clayton,13063,298300,2024-03-01,Mar 2024,Multi-Family Permits (2 units),0.0,0.0
+Clayton,13063,298300,2024-04-01,Apr 2024,Multi-Family Permits (2 units),0.0,0.0
+Clayton,13063,298300,2024-05-01,May 2024,Multi-Family Permits (2 units),0.0,0.0
+Clayton,13063,298300,2024-06-01,Jun 2024,Multi-Family Permits (2 units),0.0,0.0
+Clayton,13063,298300,2024-01-01,Jan 2024,Multi-Family Permits (3-4 units),8.0,0.2681863895407308
+Clayton,13063,298300,2024-02-01,Feb 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Clayton,13063,298300,2024-03-01,Mar 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Clayton,13063,298300,2024-04-01,Apr 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Clayton,13063,298300,2024-05-01,May 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Clayton,13063,298300,2024-06-01,Jun 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Clayton,13063,298300,2024-01-01,Jan 2024,Multi-Family Permits (5+ units),19.0,0.6369426751592356
+Clayton,13063,298300,2024-02-01,Feb 2024,Multi-Family Permits (5+ units),44.0,1.4750251424740195
+Clayton,13063,298300,2024-03-01,Mar 2024,Multi-Family Permits (5+ units),50.0,1.6761649346295677
+Clayton,13063,298300,2024-04-01,Apr 2024,Multi-Family Permits (5+ units),156.0,5.22963459604425
+Clayton,13063,298300,2024-05-01,May 2024,Multi-Family Permits (5+ units),171.0,5.732484076433121
+Clayton,13063,298300,2024-06-01,Jun 2024,Multi-Family Permits (5+ units),0.0,0.0
+Cobb,13067,776743,2022-01-01,Jan 2022,Total Permits,220.0,2.8323396541713284
+Cobb,13067,776743,2022-02-01,Feb 2022,Total Permits,201.0,2.587728502220168
+Cobb,13067,776743,2022-03-01,Mar 2022,Total Permits,205.0,2.639225586841465
+Cobb,13067,776743,2022-04-01,Apr 2022,Total Permits,144.0,1.8538950463666877
+Cobb,13067,776743,2022-05-01,May 2022,Total Permits,148.0,1.9053921309879844
+Cobb,13067,776743,2022-06-01,Jun 2022,Total Permits,476.0,6.128153069934328
+Cobb,13067,776743,2022-07-01,Jul 2022,Total Permits,107.0,1.3775470136196915
+Cobb,13067,776743,2022-08-01,Aug 2022,Total Permits,392.0,5.046714292887095
+Cobb,13067,776743,2022-09-01,Sep 2022,Total Permits,108.0,1.3904212847750157
+Cobb,13067,776743,2022-10-01,Oct 2022,Total Permits,350.0,4.505994904363477
+Cobb,13067,776743,2022-11-01,Nov 2022,Total Permits,449.0,5.780547748740575
+Cobb,13067,776743,2022-12-01,Dec 2022,Total Permits,73.0,0.939821794338668
+Cobb,13067,776743,2022-01-01,Jan 2022,All Single-Family Permits,201.0,2.587728502220168
+Cobb,13067,776743,2022-02-01,Feb 2022,All Single-Family Permits,197.0,2.536231417598871
+Cobb,13067,776743,2022-03-01,Mar 2022,All Single-Family Permits,162.0,2.0856319271625234
+Cobb,13067,776743,2022-04-01,Apr 2022,All Single-Family Permits,117.0,1.5062897251729337
+Cobb,13067,776743,2022-05-01,May 2022,All Single-Family Permits,115.0,1.4805411828622852
+Cobb,13067,776743,2022-06-01,Jun 2022,All Single-Family Permits,137.0,1.763775148279418
+Cobb,13067,776743,2022-07-01,Jul 2022,All Single-Family Permits,84.0,1.0814387770472345
+Cobb,13067,776743,2022-08-01,Aug 2022,All Single-Family Permits,75.0,0.9655703366493165
+Cobb,13067,776743,2022-09-01,Sep 2022,All Single-Family Permits,43.0,0.5535936596789415
+Cobb,13067,776743,2022-10-01,Oct 2022,All Single-Family Permits,121.0,1.5577868097942305
+Cobb,13067,776743,2022-11-01,Nov 2022,All Single-Family Permits,65.0,0.8368276250960742
+Cobb,13067,776743,2022-12-01,Dec 2022,All Single-Family Permits,54.0,0.6952106423875078
+Cobb,13067,776743,2022-01-01,Jan 2022,All Multi-Family Permits,19.0,0.24461115195116018
+Cobb,13067,776743,2022-02-01,Feb 2022,All Multi-Family Permits,4.0,0.05149708462129688
+Cobb,13067,776743,2022-03-01,Mar 2022,All Multi-Family Permits,43.0,0.5535936596789415
+Cobb,13067,776743,2022-04-01,Apr 2022,All Multi-Family Permits,27.0,0.3476053211937539
+Cobb,13067,776743,2022-05-01,May 2022,All Multi-Family Permits,33.0,0.42485094812569923
+Cobb,13067,776743,2022-06-01,Jun 2022,All Multi-Family Permits,339.0,4.364377921654911
+Cobb,13067,776743,2022-07-01,Jul 2022,All Multi-Family Permits,23.0,0.29610823657245705
+Cobb,13067,776743,2022-08-01,Aug 2022,All Multi-Family Permits,317.0,4.081143956237778
+Cobb,13067,776743,2022-09-01,Sep 2022,All Multi-Family Permits,65.0,0.8368276250960742
+Cobb,13067,776743,2022-10-01,Oct 2022,All Multi-Family Permits,229.0,2.948208094569246
+Cobb,13067,776743,2022-11-01,Nov 2022,All Multi-Family Permits,384.0,4.943720123644501
+Cobb,13067,776743,2022-12-01,Dec 2022,All Multi-Family Permits,19.0,0.24461115195116018
+Cobb,13067,776743,2022-01-01,Jan 2022,Multi-Family Permits (2 units),2.0,0.02574854231064844
+Cobb,13067,776743,2022-02-01,Feb 2022,Multi-Family Permits (2 units),0.0,0.0
+Cobb,13067,776743,2022-03-01,Mar 2022,Multi-Family Permits (2 units),12.0,0.15449125386389065
+Cobb,13067,776743,2022-04-01,Apr 2022,Multi-Family Permits (2 units),8.0,0.10299416924259376
+Cobb,13067,776743,2022-05-01,May 2022,Multi-Family Permits (2 units),0.0,0.0
+Cobb,13067,776743,2022-06-01,Jun 2022,Multi-Family Permits (2 units),4.0,0.05149708462129688
+Cobb,13067,776743,2022-07-01,Jul 2022,Multi-Family Permits (2 units),0.0,0.0
+Cobb,13067,776743,2022-08-01,Aug 2022,Multi-Family Permits (2 units),6.0,0.07724562693194532
+Cobb,13067,776743,2022-09-01,Sep 2022,Multi-Family Permits (2 units),0.0,0.0
+Cobb,13067,776743,2022-10-01,Oct 2022,Multi-Family Permits (2 units),8.0,0.10299416924259376
+Cobb,13067,776743,2022-11-01,Nov 2022,Multi-Family Permits (2 units),0.0,0.0
+Cobb,13067,776743,2022-12-01,Dec 2022,Multi-Family Permits (2 units),0.0,0.0
+Cobb,13067,776743,2022-01-01,Jan 2022,Multi-Family Permits (3-4 units),7.0,0.09011989808726954
+Cobb,13067,776743,2022-02-01,Feb 2022,Multi-Family Permits (3-4 units),4.0,0.05149708462129688
+Cobb,13067,776743,2022-03-01,Mar 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Cobb,13067,776743,2022-04-01,Apr 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Cobb,13067,776743,2022-05-01,May 2022,Multi-Family Permits (3-4 units),4.0,0.05149708462129688
+Cobb,13067,776743,2022-06-01,Jun 2022,Multi-Family Permits (3-4 units),3.0,0.03862281346597266
+Cobb,13067,776743,2022-07-01,Jul 2022,Multi-Family Permits (3-4 units),12.0,0.15449125386389065
+Cobb,13067,776743,2022-08-01,Aug 2022,Multi-Family Permits (3-4 units),6.0,0.07724562693194532
+Cobb,13067,776743,2022-09-01,Sep 2022,Multi-Family Permits (3-4 units),14.0,0.18023979617453909
+Cobb,13067,776743,2022-10-01,Oct 2022,Multi-Family Permits (3-4 units),12.0,0.15449125386389065
+Cobb,13067,776743,2022-11-01,Nov 2022,Multi-Family Permits (3-4 units),12.0,0.15449125386389065
+Cobb,13067,776743,2022-12-01,Dec 2022,Multi-Family Permits (3-4 units),9.0,0.11586844039791798
+Cobb,13067,776743,2022-01-01,Jan 2022,Multi-Family Permits (5+ units),10.0,0.1287427115532422
+Cobb,13067,776743,2022-02-01,Feb 2022,Multi-Family Permits (5+ units),0.0,0.0
+Cobb,13067,776743,2022-03-01,Mar 2022,Multi-Family Permits (5+ units),31.0,0.3991024058150508
+Cobb,13067,776743,2022-04-01,Apr 2022,Multi-Family Permits (5+ units),19.0,0.24461115195116018
+Cobb,13067,776743,2022-05-01,May 2022,Multi-Family Permits (5+ units),29.0,0.37335386350440236
+Cobb,13067,776743,2022-06-01,Jun 2022,Multi-Family Permits (5+ units),332.0,4.274258023567641
+Cobb,13067,776743,2022-07-01,Jul 2022,Multi-Family Permits (5+ units),11.0,0.14161698270856643
+Cobb,13067,776743,2022-08-01,Aug 2022,Multi-Family Permits (5+ units),305.0,3.926652702373887
+Cobb,13067,776743,2022-09-01,Sep 2022,Multi-Family Permits (5+ units),51.0,0.6565878289215352
+Cobb,13067,776743,2022-10-01,Oct 2022,Multi-Family Permits (5+ units),209.0,2.6907226714627615
+Cobb,13067,776743,2022-11-01,Nov 2022,Multi-Family Permits (5+ units),372.0,4.78922886978061
+Cobb,13067,776743,2022-12-01,Dec 2022,Multi-Family Permits (5+ units),10.0,0.1287427115532422
+Cobb,13067,776743,2023-01-01,Jan 2023,Total Permits,400.0,5.149708462129688
+Cobb,13067,776743,2023-02-01,Feb 2023,Total Permits,664.0,8.548516047135282
+Cobb,13067,776743,2023-03-01,Mar 2023,Total Permits,103.0,1.3260499289983945
+Cobb,13067,776743,2023-04-01,Apr 2023,Total Permits,109.0,1.40329555593034
+Cobb,13067,776743,2023-05-01,May 2023,Total Permits,481.0,6.19252442571095
+Cobb,13067,776743,2023-06-01,Jun 2023,Total Permits,185.0,2.3817401637349804
+Cobb,13067,776743,2023-07-01,Jul 2023,Total Permits,315.0,4.055395413927129
+Cobb,13067,776743,2023-08-01,Aug 2023,Total Permits,183.0,2.355991621424332
+Cobb,13067,776743,2023-09-01,Sep 2023,Total Permits,127.0,1.6350324367261757
+Cobb,13067,776743,2023-10-01,Oct 2023,Total Permits,106.0,1.3646727424643672
+Cobb,13067,776743,2023-11-01,Nov 2023,Total Permits,133.0,1.7122780636581212
+Cobb,13067,776743,2023-12-01,Dec 2023,Total Permits,150.0,1.931140673298633
+Cobb,13067,776743,2023-01-01,Jan 2023,All Single-Family Permits,56.0,0.7209591846981563
+Cobb,13067,776743,2023-02-01,Feb 2023,All Single-Family Permits,56.0,0.7209591846981563
+Cobb,13067,776743,2023-03-01,Mar 2023,All Single-Family Permits,87.0,1.1200615905132072
+Cobb,13067,776743,2023-04-01,Apr 2023,All Single-Family Permits,68.0,0.875450438562047
+Cobb,13067,776743,2023-05-01,May 2023,All Single-Family Permits,133.0,1.7122780636581212
+Cobb,13067,776743,2023-06-01,Jun 2023,All Single-Family Permits,149.0,1.918266402143309
+Cobb,13067,776743,2023-07-01,Jul 2023,All Single-Family Permits,116.0,1.4934154540176094
+Cobb,13067,776743,2023-08-01,Aug 2023,All Single-Family Permits,126.0,1.6221581655708517
+Cobb,13067,776743,2023-09-01,Sep 2023,All Single-Family Permits,98.0,1.2616785732217737
+Cobb,13067,776743,2023-10-01,Oct 2023,All Single-Family Permits,64.0,0.8239533539407501
+Cobb,13067,776743,2023-11-01,Nov 2023,All Single-Family Permits,108.0,1.3904212847750157
+Cobb,13067,776743,2023-12-01,Dec 2023,All Single-Family Permits,91.0,1.171558675134504
+Cobb,13067,776743,2023-01-01,Jan 2023,All Multi-Family Permits,344.0,4.428749277431532
+Cobb,13067,776743,2023-02-01,Feb 2023,All Multi-Family Permits,608.0,7.827556862437126
+Cobb,13067,776743,2023-03-01,Mar 2023,All Multi-Family Permits,16.0,0.20598833848518752
+Cobb,13067,776743,2023-04-01,Apr 2023,All Multi-Family Permits,41.0,0.527845117368293
+Cobb,13067,776743,2023-05-01,May 2023,All Multi-Family Permits,348.0,4.480246362052829
+Cobb,13067,776743,2023-06-01,Jun 2023,All Multi-Family Permits,36.0,0.4634737615916719
+Cobb,13067,776743,2023-07-01,Jul 2023,All Multi-Family Permits,199.0,2.56197995990952
+Cobb,13067,776743,2023-08-01,Aug 2023,All Multi-Family Permits,57.0,0.7338334558534805
+Cobb,13067,776743,2023-09-01,Sep 2023,All Multi-Family Permits,29.0,0.37335386350440236
+Cobb,13067,776743,2023-10-01,Oct 2023,All Multi-Family Permits,42.0,0.5407193885236172
+Cobb,13067,776743,2023-11-01,Nov 2023,All Multi-Family Permits,25.0,0.3218567788831055
+Cobb,13067,776743,2023-12-01,Dec 2023,All Multi-Family Permits,59.0,0.759581998164129
+Cobb,13067,776743,2023-01-01,Jan 2023,Multi-Family Permits (2 units),4.0,0.05149708462129688
+Cobb,13067,776743,2023-02-01,Feb 2023,Multi-Family Permits (2 units),0.0,0.0
+Cobb,13067,776743,2023-03-01,Mar 2023,Multi-Family Permits (2 units),0.0,0.0
+Cobb,13067,776743,2023-04-01,Apr 2023,Multi-Family Permits (2 units),4.0,0.05149708462129688
+Cobb,13067,776743,2023-05-01,May 2023,Multi-Family Permits (2 units),4.0,0.05149708462129688
+Cobb,13067,776743,2023-06-01,Jun 2023,Multi-Family Permits (2 units),0.0,0.0
+Cobb,13067,776743,2023-07-01,Jul 2023,Multi-Family Permits (2 units),0.0,0.0
+Cobb,13067,776743,2023-08-01,Aug 2023,Multi-Family Permits (2 units),10.0,0.1287427115532422
+Cobb,13067,776743,2023-09-01,Sep 2023,Multi-Family Permits (2 units),0.0,0.0
+Cobb,13067,776743,2023-10-01,Oct 2023,Multi-Family Permits (2 units),0.0,0.0
+Cobb,13067,776743,2023-11-01,Nov 2023,Multi-Family Permits (2 units),2.0,0.02574854231064844
+Cobb,13067,776743,2023-12-01,Dec 2023,Multi-Family Permits (2 units),2.0,0.02574854231064844
+Cobb,13067,776743,2023-01-01,Jan 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Cobb,13067,776743,2023-02-01,Feb 2023,Multi-Family Permits (3-4 units),7.0,0.09011989808726954
+Cobb,13067,776743,2023-03-01,Mar 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Cobb,13067,776743,2023-04-01,Apr 2023,Multi-Family Permits (3-4 units),18.0,0.23173688079583596
+Cobb,13067,776743,2023-05-01,May 2023,Multi-Family Permits (3-4 units),20.0,0.2574854231064844
+Cobb,13067,776743,2023-06-01,Jun 2023,Multi-Family Permits (3-4 units),10.0,0.1287427115532422
+Cobb,13067,776743,2023-07-01,Jul 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Cobb,13067,776743,2023-08-01,Aug 2023,Multi-Family Permits (3-4 units),27.0,0.3476053211937539
+Cobb,13067,776743,2023-09-01,Sep 2023,Multi-Family Permits (3-4 units),11.0,0.14161698270856643
+Cobb,13067,776743,2023-10-01,Oct 2023,Multi-Family Permits (3-4 units),8.0,0.10299416924259376
+Cobb,13067,776743,2023-11-01,Nov 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Cobb,13067,776743,2023-12-01,Dec 2023,Multi-Family Permits (3-4 units),4.0,0.05149708462129688
+Cobb,13067,776743,2023-01-01,Jan 2023,Multi-Family Permits (5+ units),340.0,4.377252192810234
+Cobb,13067,776743,2023-02-01,Feb 2023,Multi-Family Permits (5+ units),601.0,7.737436964349856
+Cobb,13067,776743,2023-03-01,Mar 2023,Multi-Family Permits (5+ units),16.0,0.20598833848518752
+Cobb,13067,776743,2023-04-01,Apr 2023,Multi-Family Permits (5+ units),19.0,0.24461115195116018
+Cobb,13067,776743,2023-05-01,May 2023,Multi-Family Permits (5+ units),324.0,4.171263854325047
+Cobb,13067,776743,2023-06-01,Jun 2023,Multi-Family Permits (5+ units),26.0,0.33473105003842973
+Cobb,13067,776743,2023-07-01,Jul 2023,Multi-Family Permits (5+ units),199.0,2.56197995990952
+Cobb,13067,776743,2023-08-01,Aug 2023,Multi-Family Permits (5+ units),20.0,0.2574854231064844
+Cobb,13067,776743,2023-09-01,Sep 2023,Multi-Family Permits (5+ units),18.0,0.23173688079583596
+Cobb,13067,776743,2023-10-01,Oct 2023,Multi-Family Permits (5+ units),34.0,0.4377252192810235
+Cobb,13067,776743,2023-11-01,Nov 2023,Multi-Family Permits (5+ units),23.0,0.29610823657245705
+Cobb,13067,776743,2023-12-01,Dec 2023,Multi-Family Permits (5+ units),53.0,0.6823363712321836
+Cobb,13067,776743,2024-01-01,Jan 2024,Total Permits,148.0,1.9053921309879844
+Cobb,13067,776743,2024-02-01,Feb 2024,Total Permits,118.0,1.519163996328258
+Cobb,13067,776743,2024-03-01,Mar 2024,Total Permits,181.0,2.3302430791136834
+Cobb,13067,776743,2024-04-01,Apr 2024,Total Permits,129.0,1.6607809790368242
+Cobb,13067,776743,2024-05-01,May 2024,Total Permits,100.0,1.287427115532422
+Cobb,13067,776743,2024-06-01,Jun 2024,Total Permits,84.0,1.0814387770472345
+Cobb,13067,776743,2024-01-01,Jan 2024,All Single-Family Permits,112.0,1.4419183693963127
+Cobb,13067,776743,2024-02-01,Feb 2024,All Single-Family Permits,69.0,0.8883247097173711
+Cobb,13067,776743,2024-03-01,Mar 2024,All Single-Family Permits,109.0,1.40329555593034
+Cobb,13067,776743,2024-04-01,Apr 2024,All Single-Family Permits,105.0,1.351798471309043
+Cobb,13067,776743,2024-05-01,May 2024,All Single-Family Permits,90.0,1.1586844039791797
+Cobb,13067,776743,2024-06-01,Jun 2024,All Single-Family Permits,68.0,0.875450438562047
+Cobb,13067,776743,2024-01-01,Jan 2024,All Multi-Family Permits,36.0,0.4634737615916719
+Cobb,13067,776743,2024-02-01,Feb 2024,All Multi-Family Permits,49.0,0.6308392866108868
+Cobb,13067,776743,2024-03-01,Mar 2024,All Multi-Family Permits,72.0,0.9269475231833438
+Cobb,13067,776743,2024-04-01,Apr 2024,All Multi-Family Permits,24.0,0.3089825077277813
+Cobb,13067,776743,2024-05-01,May 2024,All Multi-Family Permits,10.0,0.1287427115532422
+Cobb,13067,776743,2024-06-01,Jun 2024,All Multi-Family Permits,16.0,0.20598833848518752
+Cobb,13067,776743,2024-01-01,Jan 2024,Multi-Family Permits (2 units),0.0,0.0
+Cobb,13067,776743,2024-02-01,Feb 2024,Multi-Family Permits (2 units),0.0,0.0
+Cobb,13067,776743,2024-03-01,Mar 2024,Multi-Family Permits (2 units),2.0,0.02574854231064844
+Cobb,13067,776743,2024-04-01,Apr 2024,Multi-Family Permits (2 units),0.0,0.0
+Cobb,13067,776743,2024-05-01,May 2024,Multi-Family Permits (2 units),0.0,0.0
+Cobb,13067,776743,2024-06-01,Jun 2024,Multi-Family Permits (2 units),0.0,0.0
+Cobb,13067,776743,2024-01-01,Jan 2024,Multi-Family Permits (3-4 units),7.0,0.09011989808726954
+Cobb,13067,776743,2024-02-01,Feb 2024,Multi-Family Permits (3-4 units),15.0,0.1931140673298633
+Cobb,13067,776743,2024-03-01,Mar 2024,Multi-Family Permits (3-4 units),12.0,0.15449125386389065
+Cobb,13067,776743,2024-04-01,Apr 2024,Multi-Family Permits (3-4 units),13.0,0.16736552501921487
+Cobb,13067,776743,2024-05-01,May 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Cobb,13067,776743,2024-06-01,Jun 2024,Multi-Family Permits (3-4 units),11.0,0.14161698270856643
+Cobb,13067,776743,2024-01-01,Jan 2024,Multi-Family Permits (5+ units),29.0,0.37335386350440236
+Cobb,13067,776743,2024-02-01,Feb 2024,Multi-Family Permits (5+ units),34.0,0.4377252192810235
+Cobb,13067,776743,2024-03-01,Mar 2024,Multi-Family Permits (5+ units),58.0,0.7467077270088047
+Cobb,13067,776743,2024-04-01,Apr 2024,Multi-Family Permits (5+ units),11.0,0.14161698270856643
+Cobb,13067,776743,2024-05-01,May 2024,Multi-Family Permits (5+ units),10.0,0.1287427115532422
+Cobb,13067,776743,2024-06-01,Jun 2024,Multi-Family Permits (5+ units),5.0,0.0643713557766211
+DeKalb,13089,762992,2022-01-01,Jan 2022,Total Permits,96.0,1.258204542118397
+DeKalb,13089,762992,2022-02-01,Feb 2022,Total Permits,114.0,1.4941178937655966
+DeKalb,13089,762992,2022-03-01,Mar 2022,Total Permits,400.0,5.242518925493321
+DeKalb,13089,762992,2022-04-01,Apr 2022,Total Permits,91.0,1.1926730555497305
+DeKalb,13089,762992,2022-05-01,May 2022,Total Permits,123.0,1.612074569589196
+DeKalb,13089,762992,2022-06-01,Jun 2022,Total Permits,140.0,1.8348816239226624
+DeKalb,13089,762992,2022-07-01,Jul 2022,Total Permits,142.0,1.861094218550129
+DeKalb,13089,762992,2022-08-01,Aug 2022,Total Permits,484.0,6.343447899846918
+DeKalb,13089,762992,2022-09-01,Sep 2022,Total Permits,319.0,4.180908843080923
+DeKalb,13089,762992,2022-10-01,Oct 2022,Total Permits,129.0,1.6907123534715962
+DeKalb,13089,762992,2022-11-01,Nov 2022,Total Permits,122.0,1.5989682722754628
+DeKalb,13089,762992,2022-12-01,Dec 2022,Total Permits,252.0,3.302786923060792
+DeKalb,13089,762992,2022-01-01,Jan 2022,All Single-Family Permits,96.0,1.258204542118397
+DeKalb,13089,762992,2022-02-01,Feb 2022,All Single-Family Permits,90.0,1.1795667582359972
+DeKalb,13089,762992,2022-03-01,Mar 2022,All Single-Family Permits,82.0,1.0747163797261308
+DeKalb,13089,762992,2022-04-01,Apr 2022,All Single-Family Permits,91.0,1.1926730555497305
+DeKalb,13089,762992,2022-05-01,May 2022,All Single-Family Permits,123.0,1.612074569589196
+DeKalb,13089,762992,2022-06-01,Jun 2022,All Single-Family Permits,88.0,1.1533541636085307
+DeKalb,13089,762992,2022-07-01,Jul 2022,All Single-Family Permits,102.0,1.3368423260007967
+DeKalb,13089,762992,2022-08-01,Aug 2022,All Single-Family Permits,99.0,1.297523434059597
+DeKalb,13089,762992,2022-09-01,Sep 2022,All Single-Family Permits,71.0,0.9305471092750645
+DeKalb,13089,762992,2022-10-01,Oct 2022,All Single-Family Permits,129.0,1.6907123534715962
+DeKalb,13089,762992,2022-11-01,Nov 2022,All Single-Family Permits,97.0,1.2713108394321304
+DeKalb,13089,762992,2022-12-01,Dec 2022,All Single-Family Permits,76.0,0.996078595843731
+DeKalb,13089,762992,2022-01-01,Jan 2022,All Multi-Family Permits,0.0,0.0
+DeKalb,13089,762992,2022-02-01,Feb 2022,All Multi-Family Permits,24.0,0.31455113552959924
+DeKalb,13089,762992,2022-03-01,Mar 2022,All Multi-Family Permits,318.0,4.167802545767191
+DeKalb,13089,762992,2022-04-01,Apr 2022,All Multi-Family Permits,0.0,0.0
+DeKalb,13089,762992,2022-05-01,May 2022,All Multi-Family Permits,0.0,0.0
+DeKalb,13089,762992,2022-06-01,Jun 2022,All Multi-Family Permits,52.0,0.6815274603141317
+DeKalb,13089,762992,2022-07-01,Jul 2022,All Multi-Family Permits,40.0,0.5242518925493321
+DeKalb,13089,762992,2022-08-01,Aug 2022,All Multi-Family Permits,385.0,5.045924465787321
+DeKalb,13089,762992,2022-09-01,Sep 2022,All Multi-Family Permits,248.0,3.250361733805859
+DeKalb,13089,762992,2022-10-01,Oct 2022,All Multi-Family Permits,0.0,0.0
+DeKalb,13089,762992,2022-11-01,Nov 2022,All Multi-Family Permits,25.0,0.32765743284333254
+DeKalb,13089,762992,2022-12-01,Dec 2022,All Multi-Family Permits,176.0,2.3067083272170614
+DeKalb,13089,762992,2022-01-01,Jan 2022,Multi-Family Permits (2 units),0.0,0.0
+DeKalb,13089,762992,2022-02-01,Feb 2022,Multi-Family Permits (2 units),0.0,0.0
+DeKalb,13089,762992,2022-03-01,Mar 2022,Multi-Family Permits (2 units),0.0,0.0
+DeKalb,13089,762992,2022-04-01,Apr 2022,Multi-Family Permits (2 units),0.0,0.0
+DeKalb,13089,762992,2022-05-01,May 2022,Multi-Family Permits (2 units),0.0,0.0
+DeKalb,13089,762992,2022-06-01,Jun 2022,Multi-Family Permits (2 units),0.0,0.0
+DeKalb,13089,762992,2022-07-01,Jul 2022,Multi-Family Permits (2 units),0.0,0.0
+DeKalb,13089,762992,2022-08-01,Aug 2022,Multi-Family Permits (2 units),0.0,0.0
+DeKalb,13089,762992,2022-09-01,Sep 2022,Multi-Family Permits (2 units),0.0,0.0
+DeKalb,13089,762992,2022-10-01,Oct 2022,Multi-Family Permits (2 units),0.0,0.0
+DeKalb,13089,762992,2022-11-01,Nov 2022,Multi-Family Permits (2 units),0.0,0.0
+DeKalb,13089,762992,2022-12-01,Dec 2022,Multi-Family Permits (2 units),0.0,0.0
+DeKalb,13089,762992,2022-01-01,Jan 2022,Multi-Family Permits (3-4 units),0.0,0.0
+DeKalb,13089,762992,2022-02-01,Feb 2022,Multi-Family Permits (3-4 units),0.0,0.0
+DeKalb,13089,762992,2022-03-01,Mar 2022,Multi-Family Permits (3-4 units),0.0,0.0
+DeKalb,13089,762992,2022-04-01,Apr 2022,Multi-Family Permits (3-4 units),0.0,0.0
+DeKalb,13089,762992,2022-05-01,May 2022,Multi-Family Permits (3-4 units),0.0,0.0
+DeKalb,13089,762992,2022-06-01,Jun 2022,Multi-Family Permits (3-4 units),0.0,0.0
+DeKalb,13089,762992,2022-07-01,Jul 2022,Multi-Family Permits (3-4 units),0.0,0.0
+DeKalb,13089,762992,2022-08-01,Aug 2022,Multi-Family Permits (3-4 units),0.0,0.0
+DeKalb,13089,762992,2022-09-01,Sep 2022,Multi-Family Permits (3-4 units),0.0,0.0
+DeKalb,13089,762992,2022-10-01,Oct 2022,Multi-Family Permits (3-4 units),0.0,0.0
+DeKalb,13089,762992,2022-11-01,Nov 2022,Multi-Family Permits (3-4 units),0.0,0.0
+DeKalb,13089,762992,2022-12-01,Dec 2022,Multi-Family Permits (3-4 units),0.0,0.0
+DeKalb,13089,762992,2022-01-01,Jan 2022,Multi-Family Permits (5+ units),0.0,0.0
+DeKalb,13089,762992,2022-02-01,Feb 2022,Multi-Family Permits (5+ units),24.0,0.31455113552959924
+DeKalb,13089,762992,2022-03-01,Mar 2022,Multi-Family Permits (5+ units),318.0,4.167802545767191
+DeKalb,13089,762992,2022-04-01,Apr 2022,Multi-Family Permits (5+ units),0.0,0.0
+DeKalb,13089,762992,2022-05-01,May 2022,Multi-Family Permits (5+ units),0.0,0.0
+DeKalb,13089,762992,2022-06-01,Jun 2022,Multi-Family Permits (5+ units),52.0,0.6815274603141317
+DeKalb,13089,762992,2022-07-01,Jul 2022,Multi-Family Permits (5+ units),40.0,0.5242518925493321
+DeKalb,13089,762992,2022-08-01,Aug 2022,Multi-Family Permits (5+ units),385.0,5.045924465787321
+DeKalb,13089,762992,2022-09-01,Sep 2022,Multi-Family Permits (5+ units),248.0,3.250361733805859
+DeKalb,13089,762992,2022-10-01,Oct 2022,Multi-Family Permits (5+ units),0.0,0.0
+DeKalb,13089,762992,2022-11-01,Nov 2022,Multi-Family Permits (5+ units),25.0,0.32765743284333254
+DeKalb,13089,762992,2022-12-01,Dec 2022,Multi-Family Permits (5+ units),176.0,2.3067083272170614
+DeKalb,13089,762992,2023-01-01,Jan 2023,Total Permits,59.0,0.7732715415102649
+DeKalb,13089,762992,2023-02-01,Feb 2023,Total Permits,59.0,0.7732715415102649
+DeKalb,13089,762992,2023-03-01,Mar 2023,Total Permits,48.0,0.6291022710591985
+DeKalb,13089,762992,2023-04-01,Apr 2023,Total Permits,57.0,0.7470589468827983
+DeKalb,13089,762992,2023-05-01,May 2023,Total Permits,691.0,9.056451443789712
+DeKalb,13089,762992,2023-06-01,Jun 2023,Total Permits,206.0,2.6998972466290603
+DeKalb,13089,762992,2023-07-01,Jul 2023,Total Permits,270.0,3.538700274707992
+DeKalb,13089,762992,2023-08-01,Aug 2023,Total Permits,78.0,1.0222911904711975
+DeKalb,13089,762992,2023-09-01,Sep 2023,Total Permits,34.0,0.4456141086669323
+DeKalb,13089,762992,2023-10-01,Oct 2023,Total Permits,669.0,8.768112902887578
+DeKalb,13089,762992,2023-11-01,Nov 2023,Total Permits,66.0,0.865015622706398
+DeKalb,13089,762992,2023-12-01,Dec 2023,Total Permits,62.0,0.8125904334514648
+DeKalb,13089,762992,2023-01-01,Jan 2023,All Single-Family Permits,59.0,0.7732715415102649
+DeKalb,13089,762992,2023-02-01,Feb 2023,All Single-Family Permits,59.0,0.7732715415102649
+DeKalb,13089,762992,2023-03-01,Mar 2023,All Single-Family Permits,48.0,0.6291022710591985
+DeKalb,13089,762992,2023-04-01,Apr 2023,All Single-Family Permits,57.0,0.7470589468827983
+DeKalb,13089,762992,2023-05-01,May 2023,All Single-Family Permits,61.0,0.7994841361377314
+DeKalb,13089,762992,2023-06-01,Jun 2023,All Single-Family Permits,68.0,0.8912282173338646
+DeKalb,13089,762992,2023-07-01,Jul 2023,All Single-Family Permits,86.0,1.127141568981064
+DeKalb,13089,762992,2023-08-01,Aug 2023,All Single-Family Permits,78.0,1.0222911904711975
+DeKalb,13089,762992,2023-09-01,Sep 2023,All Single-Family Permits,34.0,0.4456141086669323
+DeKalb,13089,762992,2023-10-01,Oct 2023,All Single-Family Permits,58.0,0.7601652441965315
+DeKalb,13089,762992,2023-11-01,Nov 2023,All Single-Family Permits,64.0,0.8388030280789315
+DeKalb,13089,762992,2023-12-01,Dec 2023,All Single-Family Permits,62.0,0.8125904334514648
+DeKalb,13089,762992,2023-01-01,Jan 2023,All Multi-Family Permits,0.0,0.0
+DeKalb,13089,762992,2023-02-01,Feb 2023,All Multi-Family Permits,0.0,0.0
+DeKalb,13089,762992,2023-03-01,Mar 2023,All Multi-Family Permits,0.0,0.0
+DeKalb,13089,762992,2023-04-01,Apr 2023,All Multi-Family Permits,0.0,0.0
+DeKalb,13089,762992,2023-05-01,May 2023,All Multi-Family Permits,630.0,8.25696730765198
+DeKalb,13089,762992,2023-06-01,Jun 2023,All Multi-Family Permits,138.0,1.8086690292951957
+DeKalb,13089,762992,2023-07-01,Jul 2023,All Multi-Family Permits,184.0,2.411558705726928
+DeKalb,13089,762992,2023-08-01,Aug 2023,All Multi-Family Permits,0.0,0.0
+DeKalb,13089,762992,2023-09-01,Sep 2023,All Multi-Family Permits,0.0,0.0
+DeKalb,13089,762992,2023-10-01,Oct 2023,All Multi-Family Permits,611.0,8.007947658691048
+DeKalb,13089,762992,2023-11-01,Nov 2023,All Multi-Family Permits,2.0,0.02621259462746661
+DeKalb,13089,762992,2023-12-01,Dec 2023,All Multi-Family Permits,0.0,0.0
+DeKalb,13089,762992,2023-01-01,Jan 2023,Multi-Family Permits (2 units),0.0,0.0
+DeKalb,13089,762992,2023-02-01,Feb 2023,Multi-Family Permits (2 units),0.0,0.0
+DeKalb,13089,762992,2023-03-01,Mar 2023,Multi-Family Permits (2 units),0.0,0.0
+DeKalb,13089,762992,2023-04-01,Apr 2023,Multi-Family Permits (2 units),0.0,0.0
+DeKalb,13089,762992,2023-05-01,May 2023,Multi-Family Permits (2 units),0.0,0.0
+DeKalb,13089,762992,2023-06-01,Jun 2023,Multi-Family Permits (2 units),0.0,0.0
+DeKalb,13089,762992,2023-07-01,Jul 2023,Multi-Family Permits (2 units),0.0,0.0
+DeKalb,13089,762992,2023-08-01,Aug 2023,Multi-Family Permits (2 units),0.0,0.0
+DeKalb,13089,762992,2023-09-01,Sep 2023,Multi-Family Permits (2 units),0.0,0.0
+DeKalb,13089,762992,2023-10-01,Oct 2023,Multi-Family Permits (2 units),0.0,0.0
+DeKalb,13089,762992,2023-11-01,Nov 2023,Multi-Family Permits (2 units),2.0,0.02621259462746661
+DeKalb,13089,762992,2023-12-01,Dec 2023,Multi-Family Permits (2 units),0.0,0.0
+DeKalb,13089,762992,2023-01-01,Jan 2023,Multi-Family Permits (3-4 units),0.0,0.0
+DeKalb,13089,762992,2023-02-01,Feb 2023,Multi-Family Permits (3-4 units),0.0,0.0
+DeKalb,13089,762992,2023-03-01,Mar 2023,Multi-Family Permits (3-4 units),0.0,0.0
+DeKalb,13089,762992,2023-04-01,Apr 2023,Multi-Family Permits (3-4 units),0.0,0.0
+DeKalb,13089,762992,2023-05-01,May 2023,Multi-Family Permits (3-4 units),0.0,0.0
+DeKalb,13089,762992,2023-06-01,Jun 2023,Multi-Family Permits (3-4 units),0.0,0.0
+DeKalb,13089,762992,2023-07-01,Jul 2023,Multi-Family Permits (3-4 units),0.0,0.0
+DeKalb,13089,762992,2023-08-01,Aug 2023,Multi-Family Permits (3-4 units),0.0,0.0
+DeKalb,13089,762992,2023-09-01,Sep 2023,Multi-Family Permits (3-4 units),0.0,0.0
+DeKalb,13089,762992,2023-10-01,Oct 2023,Multi-Family Permits (3-4 units),0.0,0.0
+DeKalb,13089,762992,2023-11-01,Nov 2023,Multi-Family Permits (3-4 units),0.0,0.0
+DeKalb,13089,762992,2023-12-01,Dec 2023,Multi-Family Permits (3-4 units),0.0,0.0
+DeKalb,13089,762992,2023-01-01,Jan 2023,Multi-Family Permits (5+ units),0.0,0.0
+DeKalb,13089,762992,2023-02-01,Feb 2023,Multi-Family Permits (5+ units),0.0,0.0
+DeKalb,13089,762992,2023-03-01,Mar 2023,Multi-Family Permits (5+ units),0.0,0.0
+DeKalb,13089,762992,2023-04-01,Apr 2023,Multi-Family Permits (5+ units),0.0,0.0
+DeKalb,13089,762992,2023-05-01,May 2023,Multi-Family Permits (5+ units),630.0,8.25696730765198
+DeKalb,13089,762992,2023-06-01,Jun 2023,Multi-Family Permits (5+ units),138.0,1.8086690292951957
+DeKalb,13089,762992,2023-07-01,Jul 2023,Multi-Family Permits (5+ units),184.0,2.411558705726928
+DeKalb,13089,762992,2023-08-01,Aug 2023,Multi-Family Permits (5+ units),0.0,0.0
+DeKalb,13089,762992,2023-09-01,Sep 2023,Multi-Family Permits (5+ units),0.0,0.0
+DeKalb,13089,762992,2023-10-01,Oct 2023,Multi-Family Permits (5+ units),611.0,8.007947658691048
+DeKalb,13089,762992,2023-11-01,Nov 2023,Multi-Family Permits (5+ units),0.0,0.0
+DeKalb,13089,762992,2023-12-01,Dec 2023,Multi-Family Permits (5+ units),0.0,0.0
+DeKalb,13089,762992,2024-01-01,Jan 2024,Total Permits,118.0,1.5465430830205298
+DeKalb,13089,762992,2024-02-01,Feb 2024,Total Permits,450.0,5.897833791179986
+DeKalb,13089,762992,2024-03-01,Mar 2024,Total Permits,55.0,0.7208463522553317
+DeKalb,13089,762992,2024-04-01,Apr 2024,Total Permits,57.0,0.7470589468827983
+DeKalb,13089,762992,2024-05-01,May 2024,Total Permits,106.0,1.3892675152557301
+DeKalb,13089,762992,2024-06-01,Jun 2024,Total Permits,64.0,0.8388030280789315
+DeKalb,13089,762992,2024-01-01,Jan 2024,All Single-Family Permits,108.0,1.4154801098831968
+DeKalb,13089,762992,2024-02-01,Feb 2024,All Single-Family Permits,75.0,0.9829722985299977
+DeKalb,13089,762992,2024-03-01,Mar 2024,All Single-Family Permits,55.0,0.7208463522553317
+DeKalb,13089,762992,2024-04-01,Apr 2024,All Single-Family Permits,57.0,0.7470589468827983
+DeKalb,13089,762992,2024-05-01,May 2024,All Single-Family Permits,106.0,1.3892675152557301
+DeKalb,13089,762992,2024-06-01,Jun 2024,All Single-Family Permits,64.0,0.8388030280789315
+DeKalb,13089,762992,2024-01-01,Jan 2024,All Multi-Family Permits,10.0,0.13106297313733303
+DeKalb,13089,762992,2024-02-01,Feb 2024,All Multi-Family Permits,375.0,4.9148614926499885
+DeKalb,13089,762992,2024-03-01,Mar 2024,All Multi-Family Permits,0.0,0.0
+DeKalb,13089,762992,2024-04-01,Apr 2024,All Multi-Family Permits,0.0,0.0
+DeKalb,13089,762992,2024-05-01,May 2024,All Multi-Family Permits,0.0,0.0
+DeKalb,13089,762992,2024-06-01,Jun 2024,All Multi-Family Permits,0.0,0.0
+DeKalb,13089,762992,2024-01-01,Jan 2024,Multi-Family Permits (2 units),0.0,0.0
+DeKalb,13089,762992,2024-02-01,Feb 2024,Multi-Family Permits (2 units),0.0,0.0
+DeKalb,13089,762992,2024-03-01,Mar 2024,Multi-Family Permits (2 units),0.0,0.0
+DeKalb,13089,762992,2024-04-01,Apr 2024,Multi-Family Permits (2 units),0.0,0.0
+DeKalb,13089,762992,2024-05-01,May 2024,Multi-Family Permits (2 units),0.0,0.0
+DeKalb,13089,762992,2024-06-01,Jun 2024,Multi-Family Permits (2 units),0.0,0.0
+DeKalb,13089,762992,2024-01-01,Jan 2024,Multi-Family Permits (3-4 units),0.0,0.0
+DeKalb,13089,762992,2024-02-01,Feb 2024,Multi-Family Permits (3-4 units),0.0,0.0
+DeKalb,13089,762992,2024-03-01,Mar 2024,Multi-Family Permits (3-4 units),0.0,0.0
+DeKalb,13089,762992,2024-04-01,Apr 2024,Multi-Family Permits (3-4 units),0.0,0.0
+DeKalb,13089,762992,2024-05-01,May 2024,Multi-Family Permits (3-4 units),0.0,0.0
+DeKalb,13089,762992,2024-06-01,Jun 2024,Multi-Family Permits (3-4 units),0.0,0.0
+DeKalb,13089,762992,2024-01-01,Jan 2024,Multi-Family Permits (5+ units),10.0,0.13106297313733303
+DeKalb,13089,762992,2024-02-01,Feb 2024,Multi-Family Permits (5+ units),375.0,4.9148614926499885
+DeKalb,13089,762992,2024-03-01,Mar 2024,Multi-Family Permits (5+ units),0.0,0.0
+DeKalb,13089,762992,2024-04-01,Apr 2024,Multi-Family Permits (5+ units),0.0,0.0
+DeKalb,13089,762992,2024-05-01,May 2024,Multi-Family Permits (5+ units),0.0,0.0
+DeKalb,13089,762992,2024-06-01,Jun 2024,Multi-Family Permits (5+ units),0.0,0.0
+Douglas,13097,149160,2022-01-01,Jan 2022,Total Permits,41.0,2.7487262000536337
+Douglas,13097,149160,2022-02-01,Feb 2022,Total Permits,128.0,8.581389112362563
+Douglas,13097,149160,2022-03-01,Mar 2022,Total Permits,76.0,5.0951997854652715
+Douglas,13097,149160,2022-04-01,Apr 2022,Total Permits,18.0,1.2067578439259856
+Douglas,13097,149160,2022-05-01,May 2022,Total Permits,29.0,1.9442209707696434
+Douglas,13097,149160,2022-06-01,Jun 2022,Total Permits,38.0,2.5475998927326358
+Douglas,13097,149160,2022-07-01,Jul 2022,Total Permits,18.0,1.2067578439259856
+Douglas,13097,149160,2022-08-01,Aug 2022,Total Permits,25.0,1.6760525610083132
+Douglas,13097,149160,2022-09-01,Sep 2022,Total Permits,142.0,9.519978546527218
+Douglas,13097,149160,2022-10-01,Oct 2022,Total Permits,32.0,2.145347278090641
+Douglas,13097,149160,2022-11-01,Nov 2022,Total Permits,106.0,7.106462858675249
+Douglas,13097,149160,2022-12-01,Dec 2022,Total Permits,12.0,0.8045052292839904
+Douglas,13097,149160,2022-01-01,Jan 2022,All Single-Family Permits,41.0,2.7487262000536337
+Douglas,13097,149160,2022-02-01,Feb 2022,All Single-Family Permits,32.0,2.145347278090641
+Douglas,13097,149160,2022-03-01,Mar 2022,All Single-Family Permits,76.0,5.0951997854652715
+Douglas,13097,149160,2022-04-01,Apr 2022,All Single-Family Permits,18.0,1.2067578439259856
+Douglas,13097,149160,2022-05-01,May 2022,All Single-Family Permits,29.0,1.9442209707696434
+Douglas,13097,149160,2022-06-01,Jun 2022,All Single-Family Permits,38.0,2.5475998927326358
+Douglas,13097,149160,2022-07-01,Jul 2022,All Single-Family Permits,18.0,1.2067578439259856
+Douglas,13097,149160,2022-08-01,Aug 2022,All Single-Family Permits,25.0,1.6760525610083132
+Douglas,13097,149160,2022-09-01,Sep 2022,All Single-Family Permits,32.0,2.145347278090641
+Douglas,13097,149160,2022-10-01,Oct 2022,All Single-Family Permits,32.0,2.145347278090641
+Douglas,13097,149160,2022-11-01,Nov 2022,All Single-Family Permits,21.0,1.4078841512469833
+Douglas,13097,149160,2022-12-01,Dec 2022,All Single-Family Permits,12.0,0.8045052292839904
+Douglas,13097,149160,2022-01-01,Jan 2022,All Multi-Family Permits,0.0,0.0
+Douglas,13097,149160,2022-02-01,Feb 2022,All Multi-Family Permits,96.0,6.436041834271923
+Douglas,13097,149160,2022-03-01,Mar 2022,All Multi-Family Permits,0.0,0.0
+Douglas,13097,149160,2022-04-01,Apr 2022,All Multi-Family Permits,0.0,0.0
+Douglas,13097,149160,2022-05-01,May 2022,All Multi-Family Permits,0.0,0.0
+Douglas,13097,149160,2022-06-01,Jun 2022,All Multi-Family Permits,0.0,0.0
+Douglas,13097,149160,2022-07-01,Jul 2022,All Multi-Family Permits,0.0,0.0
+Douglas,13097,149160,2022-08-01,Aug 2022,All Multi-Family Permits,0.0,0.0
+Douglas,13097,149160,2022-09-01,Sep 2022,All Multi-Family Permits,110.0,7.374631268436578
+Douglas,13097,149160,2022-10-01,Oct 2022,All Multi-Family Permits,0.0,0.0
+Douglas,13097,149160,2022-11-01,Nov 2022,All Multi-Family Permits,85.0,5.698578707428265
+Douglas,13097,149160,2022-12-01,Dec 2022,All Multi-Family Permits,0.0,0.0
+Douglas,13097,149160,2022-01-01,Jan 2022,Multi-Family Permits (2 units),0.0,0.0
+Douglas,13097,149160,2022-02-01,Feb 2022,Multi-Family Permits (2 units),0.0,0.0
+Douglas,13097,149160,2022-03-01,Mar 2022,Multi-Family Permits (2 units),0.0,0.0
+Douglas,13097,149160,2022-04-01,Apr 2022,Multi-Family Permits (2 units),0.0,0.0
+Douglas,13097,149160,2022-05-01,May 2022,Multi-Family Permits (2 units),0.0,0.0
+Douglas,13097,149160,2022-06-01,Jun 2022,Multi-Family Permits (2 units),0.0,0.0
+Douglas,13097,149160,2022-07-01,Jul 2022,Multi-Family Permits (2 units),0.0,0.0
+Douglas,13097,149160,2022-08-01,Aug 2022,Multi-Family Permits (2 units),0.0,0.0
+Douglas,13097,149160,2022-09-01,Sep 2022,Multi-Family Permits (2 units),0.0,0.0
+Douglas,13097,149160,2022-10-01,Oct 2022,Multi-Family Permits (2 units),0.0,0.0
+Douglas,13097,149160,2022-11-01,Nov 2022,Multi-Family Permits (2 units),0.0,0.0
+Douglas,13097,149160,2022-12-01,Dec 2022,Multi-Family Permits (2 units),0.0,0.0
+Douglas,13097,149160,2022-01-01,Jan 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Douglas,13097,149160,2022-02-01,Feb 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Douglas,13097,149160,2022-03-01,Mar 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Douglas,13097,149160,2022-04-01,Apr 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Douglas,13097,149160,2022-05-01,May 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Douglas,13097,149160,2022-06-01,Jun 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Douglas,13097,149160,2022-07-01,Jul 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Douglas,13097,149160,2022-08-01,Aug 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Douglas,13097,149160,2022-09-01,Sep 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Douglas,13097,149160,2022-10-01,Oct 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Douglas,13097,149160,2022-11-01,Nov 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Douglas,13097,149160,2022-12-01,Dec 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Douglas,13097,149160,2022-01-01,Jan 2022,Multi-Family Permits (5+ units),0.0,0.0
+Douglas,13097,149160,2022-02-01,Feb 2022,Multi-Family Permits (5+ units),96.0,6.436041834271923
+Douglas,13097,149160,2022-03-01,Mar 2022,Multi-Family Permits (5+ units),0.0,0.0
+Douglas,13097,149160,2022-04-01,Apr 2022,Multi-Family Permits (5+ units),0.0,0.0
+Douglas,13097,149160,2022-05-01,May 2022,Multi-Family Permits (5+ units),0.0,0.0
+Douglas,13097,149160,2022-06-01,Jun 2022,Multi-Family Permits (5+ units),0.0,0.0
+Douglas,13097,149160,2022-07-01,Jul 2022,Multi-Family Permits (5+ units),0.0,0.0
+Douglas,13097,149160,2022-08-01,Aug 2022,Multi-Family Permits (5+ units),0.0,0.0
+Douglas,13097,149160,2022-09-01,Sep 2022,Multi-Family Permits (5+ units),110.0,7.374631268436578
+Douglas,13097,149160,2022-10-01,Oct 2022,Multi-Family Permits (5+ units),0.0,0.0
+Douglas,13097,149160,2022-11-01,Nov 2022,Multi-Family Permits (5+ units),85.0,5.698578707428265
+Douglas,13097,149160,2022-12-01,Dec 2022,Multi-Family Permits (5+ units),0.0,0.0
+Douglas,13097,149160,2023-01-01,Jan 2023,Total Permits,25.0,1.6760525610083132
+Douglas,13097,149160,2023-02-01,Feb 2023,Total Permits,418.0,28.023598820058996
+Douglas,13097,149160,2023-03-01,Mar 2023,Total Permits,39.0,2.6146419951729687
+Douglas,13097,149160,2023-04-01,Apr 2023,Total Permits,143.0,9.58702064896755
+Douglas,13097,149160,2023-05-01,May 2023,Total Permits,72.0,4.8270313757039425
+Douglas,13097,149160,2023-06-01,Jun 2023,Total Permits,55.0,3.687315634218289
+Douglas,13097,149160,2023-07-01,Jul 2023,Total Permits,82.0,5.497452400107267
+Douglas,13097,149160,2023-08-01,Aug 2023,Total Permits,28.0,1.8771788683293107
+Douglas,13097,149160,2023-09-01,Sep 2023,Total Permits,28.0,1.8771788683293107
+Douglas,13097,149160,2023-10-01,Oct 2023,Total Permits,53.0,3.5532314293376244
+Douglas,13097,149160,2023-11-01,Nov 2023,Total Permits,56.0,3.7543577366586214
+Douglas,13097,149160,2023-12-01,Dec 2023,Total Permits,25.0,1.6760525610083132
+Douglas,13097,149160,2023-01-01,Jan 2023,All Single-Family Permits,25.0,1.6760525610083132
+Douglas,13097,149160,2023-02-01,Feb 2023,All Single-Family Permits,24.0,1.6090104585679808
+Douglas,13097,149160,2023-03-01,Mar 2023,All Single-Family Permits,39.0,2.6146419951729687
+Douglas,13097,149160,2023-04-01,Apr 2023,All Single-Family Permits,53.0,3.5532314293376244
+Douglas,13097,149160,2023-05-01,May 2023,All Single-Family Permits,72.0,4.8270313757039425
+Douglas,13097,149160,2023-06-01,Jun 2023,All Single-Family Permits,55.0,3.687315634218289
+Douglas,13097,149160,2023-07-01,Jul 2023,All Single-Family Permits,82.0,5.497452400107267
+Douglas,13097,149160,2023-08-01,Aug 2023,All Single-Family Permits,28.0,1.8771788683293107
+Douglas,13097,149160,2023-09-01,Sep 2023,All Single-Family Permits,28.0,1.8771788683293107
+Douglas,13097,149160,2023-10-01,Oct 2023,All Single-Family Permits,53.0,3.5532314293376244
+Douglas,13097,149160,2023-11-01,Nov 2023,All Single-Family Permits,56.0,3.7543577366586214
+Douglas,13097,149160,2023-12-01,Dec 2023,All Single-Family Permits,25.0,1.6760525610083132
+Douglas,13097,149160,2023-01-01,Jan 2023,All Multi-Family Permits,0.0,0.0
+Douglas,13097,149160,2023-02-01,Feb 2023,All Multi-Family Permits,394.0,26.414588361491017
+Douglas,13097,149160,2023-03-01,Mar 2023,All Multi-Family Permits,0.0,0.0
+Douglas,13097,149160,2023-04-01,Apr 2023,All Multi-Family Permits,90.0,6.033789219629927
+Douglas,13097,149160,2023-05-01,May 2023,All Multi-Family Permits,0.0,0.0
+Douglas,13097,149160,2023-06-01,Jun 2023,All Multi-Family Permits,0.0,0.0
+Douglas,13097,149160,2023-07-01,Jul 2023,All Multi-Family Permits,0.0,0.0
+Douglas,13097,149160,2023-08-01,Aug 2023,All Multi-Family Permits,0.0,0.0
+Douglas,13097,149160,2023-09-01,Sep 2023,All Multi-Family Permits,0.0,0.0
+Douglas,13097,149160,2023-10-01,Oct 2023,All Multi-Family Permits,0.0,0.0
+Douglas,13097,149160,2023-11-01,Nov 2023,All Multi-Family Permits,0.0,0.0
+Douglas,13097,149160,2023-12-01,Dec 2023,All Multi-Family Permits,0.0,0.0
+Douglas,13097,149160,2023-01-01,Jan 2023,Multi-Family Permits (2 units),0.0,0.0
+Douglas,13097,149160,2023-02-01,Feb 2023,Multi-Family Permits (2 units),0.0,0.0
+Douglas,13097,149160,2023-03-01,Mar 2023,Multi-Family Permits (2 units),0.0,0.0
+Douglas,13097,149160,2023-04-01,Apr 2023,Multi-Family Permits (2 units),0.0,0.0
+Douglas,13097,149160,2023-05-01,May 2023,Multi-Family Permits (2 units),0.0,0.0
+Douglas,13097,149160,2023-06-01,Jun 2023,Multi-Family Permits (2 units),0.0,0.0
+Douglas,13097,149160,2023-07-01,Jul 2023,Multi-Family Permits (2 units),0.0,0.0
+Douglas,13097,149160,2023-08-01,Aug 2023,Multi-Family Permits (2 units),0.0,0.0
+Douglas,13097,149160,2023-09-01,Sep 2023,Multi-Family Permits (2 units),0.0,0.0
+Douglas,13097,149160,2023-10-01,Oct 2023,Multi-Family Permits (2 units),0.0,0.0
+Douglas,13097,149160,2023-11-01,Nov 2023,Multi-Family Permits (2 units),0.0,0.0
+Douglas,13097,149160,2023-12-01,Dec 2023,Multi-Family Permits (2 units),0.0,0.0
+Douglas,13097,149160,2023-01-01,Jan 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Douglas,13097,149160,2023-02-01,Feb 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Douglas,13097,149160,2023-03-01,Mar 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Douglas,13097,149160,2023-04-01,Apr 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Douglas,13097,149160,2023-05-01,May 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Douglas,13097,149160,2023-06-01,Jun 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Douglas,13097,149160,2023-07-01,Jul 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Douglas,13097,149160,2023-08-01,Aug 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Douglas,13097,149160,2023-09-01,Sep 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Douglas,13097,149160,2023-10-01,Oct 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Douglas,13097,149160,2023-11-01,Nov 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Douglas,13097,149160,2023-12-01,Dec 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Douglas,13097,149160,2023-01-01,Jan 2023,Multi-Family Permits (5+ units),0.0,0.0
+Douglas,13097,149160,2023-02-01,Feb 2023,Multi-Family Permits (5+ units),394.0,26.414588361491017
+Douglas,13097,149160,2023-03-01,Mar 2023,Multi-Family Permits (5+ units),0.0,0.0
+Douglas,13097,149160,2023-04-01,Apr 2023,Multi-Family Permits (5+ units),90.0,6.033789219629927
+Douglas,13097,149160,2023-05-01,May 2023,Multi-Family Permits (5+ units),0.0,0.0
+Douglas,13097,149160,2023-06-01,Jun 2023,Multi-Family Permits (5+ units),0.0,0.0
+Douglas,13097,149160,2023-07-01,Jul 2023,Multi-Family Permits (5+ units),0.0,0.0
+Douglas,13097,149160,2023-08-01,Aug 2023,Multi-Family Permits (5+ units),0.0,0.0
+Douglas,13097,149160,2023-09-01,Sep 2023,Multi-Family Permits (5+ units),0.0,0.0
+Douglas,13097,149160,2023-10-01,Oct 2023,Multi-Family Permits (5+ units),0.0,0.0
+Douglas,13097,149160,2023-11-01,Nov 2023,Multi-Family Permits (5+ units),0.0,0.0
+Douglas,13097,149160,2023-12-01,Dec 2023,Multi-Family Permits (5+ units),0.0,0.0
+Douglas,13097,149160,2024-01-01,Jan 2024,Total Permits,49.0,3.2850630195762935
+Douglas,13097,149160,2024-02-01,Feb 2024,Total Permits,71.0,4.759989273263609
+Douglas,13097,149160,2024-03-01,Mar 2024,Total Permits,69.0,4.625905068382944
+Douglas,13097,149160,2024-04-01,Apr 2024,Total Permits,70.0,4.692947170823277
+Douglas,13097,149160,2024-05-01,May 2024,Total Permits,69.0,4.625905068382944
+Douglas,13097,149160,2024-06-01,Jun 2024,Total Permits,44.0,2.949852507374631
+Douglas,13097,149160,2024-01-01,Jan 2024,All Single-Family Permits,49.0,3.2850630195762935
+Douglas,13097,149160,2024-02-01,Feb 2024,All Single-Family Permits,71.0,4.759989273263609
+Douglas,13097,149160,2024-03-01,Mar 2024,All Single-Family Permits,69.0,4.625905068382944
+Douglas,13097,149160,2024-04-01,Apr 2024,All Single-Family Permits,70.0,4.692947170823277
+Douglas,13097,149160,2024-05-01,May 2024,All Single-Family Permits,40.0,2.681684097613301
+Douglas,13097,149160,2024-06-01,Jun 2024,All Single-Family Permits,44.0,2.949852507374631
+Douglas,13097,149160,2024-01-01,Jan 2024,All Multi-Family Permits,0.0,0.0
+Douglas,13097,149160,2024-02-01,Feb 2024,All Multi-Family Permits,0.0,0.0
+Douglas,13097,149160,2024-03-01,Mar 2024,All Multi-Family Permits,0.0,0.0
+Douglas,13097,149160,2024-04-01,Apr 2024,All Multi-Family Permits,0.0,0.0
+Douglas,13097,149160,2024-05-01,May 2024,All Multi-Family Permits,29.0,1.9442209707696434
+Douglas,13097,149160,2024-06-01,Jun 2024,All Multi-Family Permits,0.0,0.0
+Douglas,13097,149160,2024-01-01,Jan 2024,Multi-Family Permits (2 units),0.0,0.0
+Douglas,13097,149160,2024-02-01,Feb 2024,Multi-Family Permits (2 units),0.0,0.0
+Douglas,13097,149160,2024-03-01,Mar 2024,Multi-Family Permits (2 units),0.0,0.0
+Douglas,13097,149160,2024-04-01,Apr 2024,Multi-Family Permits (2 units),0.0,0.0
+Douglas,13097,149160,2024-05-01,May 2024,Multi-Family Permits (2 units),0.0,0.0
+Douglas,13097,149160,2024-06-01,Jun 2024,Multi-Family Permits (2 units),0.0,0.0
+Douglas,13097,149160,2024-01-01,Jan 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Douglas,13097,149160,2024-02-01,Feb 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Douglas,13097,149160,2024-03-01,Mar 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Douglas,13097,149160,2024-04-01,Apr 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Douglas,13097,149160,2024-05-01,May 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Douglas,13097,149160,2024-06-01,Jun 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Douglas,13097,149160,2024-01-01,Jan 2024,Multi-Family Permits (5+ units),0.0,0.0
+Douglas,13097,149160,2024-02-01,Feb 2024,Multi-Family Permits (5+ units),0.0,0.0
+Douglas,13097,149160,2024-03-01,Mar 2024,Multi-Family Permits (5+ units),0.0,0.0
+Douglas,13097,149160,2024-04-01,Apr 2024,Multi-Family Permits (5+ units),0.0,0.0
+Douglas,13097,149160,2024-05-01,May 2024,Multi-Family Permits (5+ units),29.0,1.9442209707696434
+Douglas,13097,149160,2024-06-01,Jun 2024,Multi-Family Permits (5+ units),0.0,0.0
+Fayette,13113,123351,2022-01-01,Jan 2022,Total Permits,50.0,4.053473421374776
+Fayette,13113,123351,2022-02-01,Feb 2022,Total Permits,64.0,5.188445979359713
+Fayette,13113,123351,2022-03-01,Mar 2022,Total Permits,82.0,6.647696411054633
+Fayette,13113,123351,2022-04-01,Apr 2022,Total Permits,64.0,5.188445979359713
+Fayette,13113,123351,2022-05-01,May 2022,Total Permits,68.0,5.512723853069695
+Fayette,13113,123351,2022-06-01,Jun 2022,Total Permits,55.0,4.458820763512254
+Fayette,13113,123351,2022-07-01,Jul 2022,Total Permits,80.0,6.485557474199641
+Fayette,13113,123351,2022-08-01,Aug 2022,Total Permits,38.0,3.0806398002448296
+Fayette,13113,123351,2022-09-01,Sep 2022,Total Permits,25.0,2.026736710687388
+Fayette,13113,123351,2022-10-01,Oct 2022,Total Permits,21.0,1.702458836977406
+Fayette,13113,123351,2022-11-01,Nov 2022,Total Permits,20.0,1.6213893685499103
+Fayette,13113,123351,2022-12-01,Dec 2022,Total Permits,35.0,2.8374313949623433
+Fayette,13113,123351,2022-01-01,Jan 2022,All Single-Family Permits,50.0,4.053473421374776
+Fayette,13113,123351,2022-02-01,Feb 2022,All Single-Family Permits,64.0,5.188445979359713
+Fayette,13113,123351,2022-03-01,Mar 2022,All Single-Family Permits,82.0,6.647696411054633
+Fayette,13113,123351,2022-04-01,Apr 2022,All Single-Family Permits,64.0,5.188445979359713
+Fayette,13113,123351,2022-05-01,May 2022,All Single-Family Permits,68.0,5.512723853069695
+Fayette,13113,123351,2022-06-01,Jun 2022,All Single-Family Permits,55.0,4.458820763512254
+Fayette,13113,123351,2022-07-01,Jul 2022,All Single-Family Permits,80.0,6.485557474199641
+Fayette,13113,123351,2022-08-01,Aug 2022,All Single-Family Permits,38.0,3.0806398002448296
+Fayette,13113,123351,2022-09-01,Sep 2022,All Single-Family Permits,25.0,2.026736710687388
+Fayette,13113,123351,2022-10-01,Oct 2022,All Single-Family Permits,21.0,1.702458836977406
+Fayette,13113,123351,2022-11-01,Nov 2022,All Single-Family Permits,20.0,1.6213893685499103
+Fayette,13113,123351,2022-12-01,Dec 2022,All Single-Family Permits,30.0,2.432084052824866
+Fayette,13113,123351,2022-01-01,Jan 2022,All Multi-Family Permits,0.0,0.0
+Fayette,13113,123351,2022-02-01,Feb 2022,All Multi-Family Permits,0.0,0.0
+Fayette,13113,123351,2022-03-01,Mar 2022,All Multi-Family Permits,0.0,0.0
+Fayette,13113,123351,2022-04-01,Apr 2022,All Multi-Family Permits,0.0,0.0
+Fayette,13113,123351,2022-05-01,May 2022,All Multi-Family Permits,0.0,0.0
+Fayette,13113,123351,2022-06-01,Jun 2022,All Multi-Family Permits,0.0,0.0
+Fayette,13113,123351,2022-07-01,Jul 2022,All Multi-Family Permits,0.0,0.0
+Fayette,13113,123351,2022-08-01,Aug 2022,All Multi-Family Permits,0.0,0.0
+Fayette,13113,123351,2022-09-01,Sep 2022,All Multi-Family Permits,0.0,0.0
+Fayette,13113,123351,2022-10-01,Oct 2022,All Multi-Family Permits,0.0,0.0
+Fayette,13113,123351,2022-11-01,Nov 2022,All Multi-Family Permits,0.0,0.0
+Fayette,13113,123351,2022-12-01,Dec 2022,All Multi-Family Permits,5.0,0.4053473421374776
+Fayette,13113,123351,2022-01-01,Jan 2022,Multi-Family Permits (2 units),0.0,0.0
+Fayette,13113,123351,2022-02-01,Feb 2022,Multi-Family Permits (2 units),0.0,0.0
+Fayette,13113,123351,2022-03-01,Mar 2022,Multi-Family Permits (2 units),0.0,0.0
+Fayette,13113,123351,2022-04-01,Apr 2022,Multi-Family Permits (2 units),0.0,0.0
+Fayette,13113,123351,2022-05-01,May 2022,Multi-Family Permits (2 units),0.0,0.0
+Fayette,13113,123351,2022-06-01,Jun 2022,Multi-Family Permits (2 units),0.0,0.0
+Fayette,13113,123351,2022-07-01,Jul 2022,Multi-Family Permits (2 units),0.0,0.0
+Fayette,13113,123351,2022-08-01,Aug 2022,Multi-Family Permits (2 units),0.0,0.0
+Fayette,13113,123351,2022-09-01,Sep 2022,Multi-Family Permits (2 units),0.0,0.0
+Fayette,13113,123351,2022-10-01,Oct 2022,Multi-Family Permits (2 units),0.0,0.0
+Fayette,13113,123351,2022-11-01,Nov 2022,Multi-Family Permits (2 units),0.0,0.0
+Fayette,13113,123351,2022-12-01,Dec 2022,Multi-Family Permits (2 units),2.0,0.16213893685499103
+Fayette,13113,123351,2022-01-01,Jan 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Fayette,13113,123351,2022-02-01,Feb 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Fayette,13113,123351,2022-03-01,Mar 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Fayette,13113,123351,2022-04-01,Apr 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Fayette,13113,123351,2022-05-01,May 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Fayette,13113,123351,2022-06-01,Jun 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Fayette,13113,123351,2022-07-01,Jul 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Fayette,13113,123351,2022-08-01,Aug 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Fayette,13113,123351,2022-09-01,Sep 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Fayette,13113,123351,2022-10-01,Oct 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Fayette,13113,123351,2022-11-01,Nov 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Fayette,13113,123351,2022-12-01,Dec 2022,Multi-Family Permits (3-4 units),3.0,0.24320840528248658
+Fayette,13113,123351,2022-01-01,Jan 2022,Multi-Family Permits (5+ units),0.0,0.0
+Fayette,13113,123351,2022-02-01,Feb 2022,Multi-Family Permits (5+ units),0.0,0.0
+Fayette,13113,123351,2022-03-01,Mar 2022,Multi-Family Permits (5+ units),0.0,0.0
+Fayette,13113,123351,2022-04-01,Apr 2022,Multi-Family Permits (5+ units),0.0,0.0
+Fayette,13113,123351,2022-05-01,May 2022,Multi-Family Permits (5+ units),0.0,0.0
+Fayette,13113,123351,2022-06-01,Jun 2022,Multi-Family Permits (5+ units),0.0,0.0
+Fayette,13113,123351,2022-07-01,Jul 2022,Multi-Family Permits (5+ units),0.0,0.0
+Fayette,13113,123351,2022-08-01,Aug 2022,Multi-Family Permits (5+ units),0.0,0.0
+Fayette,13113,123351,2022-09-01,Sep 2022,Multi-Family Permits (5+ units),0.0,0.0
+Fayette,13113,123351,2022-10-01,Oct 2022,Multi-Family Permits (5+ units),0.0,0.0
+Fayette,13113,123351,2022-11-01,Nov 2022,Multi-Family Permits (5+ units),0.0,0.0
+Fayette,13113,123351,2022-12-01,Dec 2022,Multi-Family Permits (5+ units),0.0,0.0
+Fayette,13113,123351,2023-01-01,Jan 2023,Total Permits,18.0,1.4592504316949195
+Fayette,13113,123351,2023-02-01,Feb 2023,Total Permits,19.0,1.5403199001224148
+Fayette,13113,123351,2023-03-01,Mar 2023,Total Permits,31.0,2.513153521252361
+Fayette,13113,123351,2023-04-01,Apr 2023,Total Permits,31.0,2.513153521252361
+Fayette,13113,123351,2023-05-01,May 2023,Total Permits,45.0,3.6481260792372985
+Fayette,13113,123351,2023-06-01,Jun 2023,Total Permits,31.0,2.513153521252361
+Fayette,13113,123351,2023-07-01,Jul 2023,Total Permits,34.0,2.7563619265348476
+Fayette,13113,123351,2023-08-01,Aug 2023,Total Permits,45.0,3.6481260792372985
+Fayette,13113,123351,2023-09-01,Sep 2023,Total Permits,37.0,2.999570331817334
+Fayette,13113,123351,2023-10-01,Oct 2023,Total Permits,28.0,2.2699451159698745
+Fayette,13113,123351,2023-11-01,Nov 2023,Total Permits,26.0,2.1078061791148834
+Fayette,13113,123351,2023-12-01,Dec 2023,Total Permits,9.0,0.7296252158474598
+Fayette,13113,123351,2023-01-01,Jan 2023,All Single-Family Permits,18.0,1.4592504316949195
+Fayette,13113,123351,2023-02-01,Feb 2023,All Single-Family Permits,19.0,1.5403199001224148
+Fayette,13113,123351,2023-03-01,Mar 2023,All Single-Family Permits,31.0,2.513153521252361
+Fayette,13113,123351,2023-04-01,Apr 2023,All Single-Family Permits,31.0,2.513153521252361
+Fayette,13113,123351,2023-05-01,May 2023,All Single-Family Permits,45.0,3.6481260792372985
+Fayette,13113,123351,2023-06-01,Jun 2023,All Single-Family Permits,31.0,2.513153521252361
+Fayette,13113,123351,2023-07-01,Jul 2023,All Single-Family Permits,34.0,2.7563619265348476
+Fayette,13113,123351,2023-08-01,Aug 2023,All Single-Family Permits,45.0,3.6481260792372985
+Fayette,13113,123351,2023-09-01,Sep 2023,All Single-Family Permits,37.0,2.999570331817334
+Fayette,13113,123351,2023-10-01,Oct 2023,All Single-Family Permits,28.0,2.2699451159698745
+Fayette,13113,123351,2023-11-01,Nov 2023,All Single-Family Permits,26.0,2.1078061791148834
+Fayette,13113,123351,2023-12-01,Dec 2023,All Single-Family Permits,9.0,0.7296252158474598
+Fayette,13113,123351,2023-01-01,Jan 2023,All Multi-Family Permits,0.0,0.0
+Fayette,13113,123351,2023-02-01,Feb 2023,All Multi-Family Permits,0.0,0.0
+Fayette,13113,123351,2023-03-01,Mar 2023,All Multi-Family Permits,0.0,0.0
+Fayette,13113,123351,2023-04-01,Apr 2023,All Multi-Family Permits,0.0,0.0
+Fayette,13113,123351,2023-05-01,May 2023,All Multi-Family Permits,0.0,0.0
+Fayette,13113,123351,2023-06-01,Jun 2023,All Multi-Family Permits,0.0,0.0
+Fayette,13113,123351,2023-07-01,Jul 2023,All Multi-Family Permits,0.0,0.0
+Fayette,13113,123351,2023-08-01,Aug 2023,All Multi-Family Permits,0.0,0.0
+Fayette,13113,123351,2023-09-01,Sep 2023,All Multi-Family Permits,0.0,0.0
+Fayette,13113,123351,2023-10-01,Oct 2023,All Multi-Family Permits,0.0,0.0
+Fayette,13113,123351,2023-11-01,Nov 2023,All Multi-Family Permits,0.0,0.0
+Fayette,13113,123351,2023-12-01,Dec 2023,All Multi-Family Permits,0.0,0.0
+Fayette,13113,123351,2023-01-01,Jan 2023,Multi-Family Permits (2 units),0.0,0.0
+Fayette,13113,123351,2023-02-01,Feb 2023,Multi-Family Permits (2 units),0.0,0.0
+Fayette,13113,123351,2023-03-01,Mar 2023,Multi-Family Permits (2 units),0.0,0.0
+Fayette,13113,123351,2023-04-01,Apr 2023,Multi-Family Permits (2 units),0.0,0.0
+Fayette,13113,123351,2023-05-01,May 2023,Multi-Family Permits (2 units),0.0,0.0
+Fayette,13113,123351,2023-06-01,Jun 2023,Multi-Family Permits (2 units),0.0,0.0
+Fayette,13113,123351,2023-07-01,Jul 2023,Multi-Family Permits (2 units),0.0,0.0
+Fayette,13113,123351,2023-08-01,Aug 2023,Multi-Family Permits (2 units),0.0,0.0
+Fayette,13113,123351,2023-09-01,Sep 2023,Multi-Family Permits (2 units),0.0,0.0
+Fayette,13113,123351,2023-10-01,Oct 2023,Multi-Family Permits (2 units),0.0,0.0
+Fayette,13113,123351,2023-11-01,Nov 2023,Multi-Family Permits (2 units),0.0,0.0
+Fayette,13113,123351,2023-12-01,Dec 2023,Multi-Family Permits (2 units),0.0,0.0
+Fayette,13113,123351,2023-01-01,Jan 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Fayette,13113,123351,2023-02-01,Feb 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Fayette,13113,123351,2023-03-01,Mar 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Fayette,13113,123351,2023-04-01,Apr 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Fayette,13113,123351,2023-05-01,May 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Fayette,13113,123351,2023-06-01,Jun 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Fayette,13113,123351,2023-07-01,Jul 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Fayette,13113,123351,2023-08-01,Aug 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Fayette,13113,123351,2023-09-01,Sep 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Fayette,13113,123351,2023-10-01,Oct 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Fayette,13113,123351,2023-11-01,Nov 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Fayette,13113,123351,2023-12-01,Dec 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Fayette,13113,123351,2023-01-01,Jan 2023,Multi-Family Permits (5+ units),0.0,0.0
+Fayette,13113,123351,2023-02-01,Feb 2023,Multi-Family Permits (5+ units),0.0,0.0
+Fayette,13113,123351,2023-03-01,Mar 2023,Multi-Family Permits (5+ units),0.0,0.0
+Fayette,13113,123351,2023-04-01,Apr 2023,Multi-Family Permits (5+ units),0.0,0.0
+Fayette,13113,123351,2023-05-01,May 2023,Multi-Family Permits (5+ units),0.0,0.0
+Fayette,13113,123351,2023-06-01,Jun 2023,Multi-Family Permits (5+ units),0.0,0.0
+Fayette,13113,123351,2023-07-01,Jul 2023,Multi-Family Permits (5+ units),0.0,0.0
+Fayette,13113,123351,2023-08-01,Aug 2023,Multi-Family Permits (5+ units),0.0,0.0
+Fayette,13113,123351,2023-09-01,Sep 2023,Multi-Family Permits (5+ units),0.0,0.0
+Fayette,13113,123351,2023-10-01,Oct 2023,Multi-Family Permits (5+ units),0.0,0.0
+Fayette,13113,123351,2023-11-01,Nov 2023,Multi-Family Permits (5+ units),0.0,0.0
+Fayette,13113,123351,2023-12-01,Dec 2023,Multi-Family Permits (5+ units),0.0,0.0
+Fayette,13113,123351,2024-01-01,Jan 2024,Total Permits,28.0,2.2699451159698745
+Fayette,13113,123351,2024-02-01,Feb 2024,Total Permits,32.0,2.5942229896798565
+Fayette,13113,123351,2024-03-01,Mar 2024,Total Permits,38.0,3.0806398002448296
+Fayette,13113,123351,2024-04-01,Apr 2024,Total Permits,26.0,2.1078061791148834
+Fayette,13113,123351,2024-05-01,May 2024,Total Permits,23.0,1.8645977738323969
+Fayette,13113,123351,2024-06-01,Jun 2024,Total Permits,24.0,1.9456672422598926
+Fayette,13113,123351,2024-01-01,Jan 2024,All Single-Family Permits,28.0,2.2699451159698745
+Fayette,13113,123351,2024-02-01,Feb 2024,All Single-Family Permits,32.0,2.5942229896798565
+Fayette,13113,123351,2024-03-01,Mar 2024,All Single-Family Permits,38.0,3.0806398002448296
+Fayette,13113,123351,2024-04-01,Apr 2024,All Single-Family Permits,26.0,2.1078061791148834
+Fayette,13113,123351,2024-05-01,May 2024,All Single-Family Permits,23.0,1.8645977738323969
+Fayette,13113,123351,2024-06-01,Jun 2024,All Single-Family Permits,24.0,1.9456672422598926
+Fayette,13113,123351,2024-01-01,Jan 2024,All Multi-Family Permits,0.0,0.0
+Fayette,13113,123351,2024-02-01,Feb 2024,All Multi-Family Permits,0.0,0.0
+Fayette,13113,123351,2024-03-01,Mar 2024,All Multi-Family Permits,0.0,0.0
+Fayette,13113,123351,2024-04-01,Apr 2024,All Multi-Family Permits,0.0,0.0
+Fayette,13113,123351,2024-05-01,May 2024,All Multi-Family Permits,0.0,0.0
+Fayette,13113,123351,2024-06-01,Jun 2024,All Multi-Family Permits,0.0,0.0
+Fayette,13113,123351,2024-01-01,Jan 2024,Multi-Family Permits (2 units),0.0,0.0
+Fayette,13113,123351,2024-02-01,Feb 2024,Multi-Family Permits (2 units),0.0,0.0
+Fayette,13113,123351,2024-03-01,Mar 2024,Multi-Family Permits (2 units),0.0,0.0
+Fayette,13113,123351,2024-04-01,Apr 2024,Multi-Family Permits (2 units),0.0,0.0
+Fayette,13113,123351,2024-05-01,May 2024,Multi-Family Permits (2 units),0.0,0.0
+Fayette,13113,123351,2024-06-01,Jun 2024,Multi-Family Permits (2 units),0.0,0.0
+Fayette,13113,123351,2024-01-01,Jan 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Fayette,13113,123351,2024-02-01,Feb 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Fayette,13113,123351,2024-03-01,Mar 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Fayette,13113,123351,2024-04-01,Apr 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Fayette,13113,123351,2024-05-01,May 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Fayette,13113,123351,2024-06-01,Jun 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Fayette,13113,123351,2024-01-01,Jan 2024,Multi-Family Permits (5+ units),0.0,0.0
+Fayette,13113,123351,2024-02-01,Feb 2024,Multi-Family Permits (5+ units),0.0,0.0
+Fayette,13113,123351,2024-03-01,Mar 2024,Multi-Family Permits (5+ units),0.0,0.0
+Fayette,13113,123351,2024-04-01,Apr 2024,Multi-Family Permits (5+ units),0.0,0.0
+Fayette,13113,123351,2024-05-01,May 2024,Multi-Family Permits (5+ units),0.0,0.0
+Fayette,13113,123351,2024-06-01,Jun 2024,Multi-Family Permits (5+ units),0.0,0.0
+Forsyth,13117,272887,2022-01-01,Jan 2022,Total Permits,111.0,4.067617731881695
+Forsyth,13117,272887,2022-02-01,Feb 2022,Total Permits,148.0,5.423490309175594
+Forsyth,13117,272887,2022-03-01,Mar 2022,Total Permits,208.0,7.6222025966792115
+Forsyth,13117,272887,2022-04-01,Apr 2022,Total Permits,815.0,29.86584190525749
+Forsyth,13117,272887,2022-05-01,May 2022,Total Permits,168.0,6.156394405010133
+Forsyth,13117,272887,2022-06-01,Jun 2022,Total Permits,89.0,3.261423226463701
+Forsyth,13117,272887,2022-07-01,Jul 2022,Total Permits,111.0,4.067617731881695
+Forsyth,13117,272887,2022-08-01,Aug 2022,Total Permits,434.0,15.904018879609508
+Forsyth,13117,272887,2022-09-01,Sep 2022,Total Permits,100.0,3.664520479172698
+Forsyth,13117,272887,2022-10-01,Oct 2022,Total Permits,121.0,4.434069779798964
+Forsyth,13117,272887,2022-11-01,Nov 2022,Total Permits,243.0,8.904784764389655
+Forsyth,13117,272887,2022-12-01,Dec 2022,Total Permits,53.0,1.94219585396153
+Forsyth,13117,272887,2022-01-01,Jan 2022,All Single-Family Permits,107.0,3.921036912714787
+Forsyth,13117,272887,2022-02-01,Feb 2022,All Single-Family Permits,141.0,5.166973875633504
+Forsyth,13117,272887,2022-03-01,Mar 2022,All Single-Family Permits,208.0,7.6222025966792115
+Forsyth,13117,272887,2022-04-01,Apr 2022,All Single-Family Permits,117.0,4.287488960632056
+Forsyth,13117,272887,2022-05-01,May 2022,All Single-Family Permits,114.0,4.177553346256876
+Forsyth,13117,272887,2022-06-01,Jun 2022,All Single-Family Permits,89.0,3.261423226463701
+Forsyth,13117,272887,2022-07-01,Jul 2022,All Single-Family Permits,111.0,4.067617731881695
+Forsyth,13117,272887,2022-08-01,Aug 2022,All Single-Family Permits,124.0,4.544005394174145
+Forsyth,13117,272887,2022-09-01,Sep 2022,All Single-Family Permits,95.0,3.481294455214063
+Forsyth,13117,272887,2022-10-01,Oct 2022,All Single-Family Permits,92.0,3.371358840838882
+Forsyth,13117,272887,2022-11-01,Nov 2022,All Single-Family Permits,103.0,3.774456093547879
+Forsyth,13117,272887,2022-12-01,Dec 2022,All Single-Family Permits,53.0,1.94219585396153
+Forsyth,13117,272887,2022-01-01,Jan 2022,All Multi-Family Permits,4.0,0.1465808191669079
+Forsyth,13117,272887,2022-02-01,Feb 2022,All Multi-Family Permits,7.0,0.25651643354208886
+Forsyth,13117,272887,2022-03-01,Mar 2022,All Multi-Family Permits,0.0,0.0
+Forsyth,13117,272887,2022-04-01,Apr 2022,All Multi-Family Permits,698.0,25.57835294462543
+Forsyth,13117,272887,2022-05-01,May 2022,All Multi-Family Permits,54.0,1.9788410587532568
+Forsyth,13117,272887,2022-06-01,Jun 2022,All Multi-Family Permits,0.0,0.0
+Forsyth,13117,272887,2022-07-01,Jul 2022,All Multi-Family Permits,0.0,0.0
+Forsyth,13117,272887,2022-08-01,Aug 2022,All Multi-Family Permits,310.0,11.360013485435362
+Forsyth,13117,272887,2022-09-01,Sep 2022,All Multi-Family Permits,5.0,0.18322602395863488
+Forsyth,13117,272887,2022-10-01,Oct 2022,All Multi-Family Permits,29.0,1.0627109389600824
+Forsyth,13117,272887,2022-11-01,Nov 2022,All Multi-Family Permits,140.0,5.130328670841777
+Forsyth,13117,272887,2022-12-01,Dec 2022,All Multi-Family Permits,0.0,0.0
+Forsyth,13117,272887,2022-01-01,Jan 2022,Multi-Family Permits (2 units),0.0,0.0
+Forsyth,13117,272887,2022-02-01,Feb 2022,Multi-Family Permits (2 units),0.0,0.0
+Forsyth,13117,272887,2022-03-01,Mar 2022,Multi-Family Permits (2 units),0.0,0.0
+Forsyth,13117,272887,2022-04-01,Apr 2022,Multi-Family Permits (2 units),0.0,0.0
+Forsyth,13117,272887,2022-05-01,May 2022,Multi-Family Permits (2 units),0.0,0.0
+Forsyth,13117,272887,2022-06-01,Jun 2022,Multi-Family Permits (2 units),0.0,0.0
+Forsyth,13117,272887,2022-07-01,Jul 2022,Multi-Family Permits (2 units),0.0,0.0
+Forsyth,13117,272887,2022-08-01,Aug 2022,Multi-Family Permits (2 units),0.0,0.0
+Forsyth,13117,272887,2022-09-01,Sep 2022,Multi-Family Permits (2 units),0.0,0.0
+Forsyth,13117,272887,2022-10-01,Oct 2022,Multi-Family Permits (2 units),0.0,0.0
+Forsyth,13117,272887,2022-11-01,Nov 2022,Multi-Family Permits (2 units),0.0,0.0
+Forsyth,13117,272887,2022-12-01,Dec 2022,Multi-Family Permits (2 units),0.0,0.0
+Forsyth,13117,272887,2022-01-01,Jan 2022,Multi-Family Permits (3-4 units),4.0,0.1465808191669079
+Forsyth,13117,272887,2022-02-01,Feb 2022,Multi-Family Permits (3-4 units),7.0,0.25651643354208886
+Forsyth,13117,272887,2022-03-01,Mar 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Forsyth,13117,272887,2022-04-01,Apr 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Forsyth,13117,272887,2022-05-01,May 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Forsyth,13117,272887,2022-06-01,Jun 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Forsyth,13117,272887,2022-07-01,Jul 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Forsyth,13117,272887,2022-08-01,Aug 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Forsyth,13117,272887,2022-09-01,Sep 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Forsyth,13117,272887,2022-10-01,Oct 2022,Multi-Family Permits (3-4 units),19.0,0.6962588910428126
+Forsyth,13117,272887,2022-11-01,Nov 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Forsyth,13117,272887,2022-12-01,Dec 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Forsyth,13117,272887,2022-01-01,Jan 2022,Multi-Family Permits (5+ units),0.0,0.0
+Forsyth,13117,272887,2022-02-01,Feb 2022,Multi-Family Permits (5+ units),0.0,0.0
+Forsyth,13117,272887,2022-03-01,Mar 2022,Multi-Family Permits (5+ units),0.0,0.0
+Forsyth,13117,272887,2022-04-01,Apr 2022,Multi-Family Permits (5+ units),698.0,25.57835294462543
+Forsyth,13117,272887,2022-05-01,May 2022,Multi-Family Permits (5+ units),54.0,1.9788410587532568
+Forsyth,13117,272887,2022-06-01,Jun 2022,Multi-Family Permits (5+ units),0.0,0.0
+Forsyth,13117,272887,2022-07-01,Jul 2022,Multi-Family Permits (5+ units),0.0,0.0
+Forsyth,13117,272887,2022-08-01,Aug 2022,Multi-Family Permits (5+ units),310.0,11.360013485435362
+Forsyth,13117,272887,2022-09-01,Sep 2022,Multi-Family Permits (5+ units),5.0,0.18322602395863488
+Forsyth,13117,272887,2022-10-01,Oct 2022,Multi-Family Permits (5+ units),10.0,0.36645204791726976
+Forsyth,13117,272887,2022-11-01,Nov 2022,Multi-Family Permits (5+ units),140.0,5.130328670841777
+Forsyth,13117,272887,2022-12-01,Dec 2022,Multi-Family Permits (5+ units),0.0,0.0
+Forsyth,13117,272887,2023-01-01,Jan 2023,Total Permits,100.0,3.664520479172698
+Forsyth,13117,272887,2023-02-01,Feb 2023,Total Permits,80.0,2.931616383338158
+Forsyth,13117,272887,2023-03-01,Mar 2023,Total Permits,128.0,4.690586213341053
+Forsyth,13117,272887,2023-04-01,Apr 2023,Total Permits,86.0,3.1514876120885202
+Forsyth,13117,272887,2023-05-01,May 2023,Total Permits,107.0,3.921036912714787
+Forsyth,13117,272887,2023-06-01,Jun 2023,Total Permits,152.0,5.570071128342501
+Forsyth,13117,272887,2023-07-01,Jul 2023,Total Permits,95.0,3.481294455214063
+Forsyth,13117,272887,2023-08-01,Aug 2023,Total Permits,201.0,7.365686163137123
+Forsyth,13117,272887,2023-09-01,Sep 2023,Total Permits,125.0,4.580650598965872
+Forsyth,13117,272887,2023-10-01,Oct 2023,Total Permits,111.0,4.067617731881695
+Forsyth,13117,272887,2023-11-01,Nov 2023,Total Permits,85.0,3.114842407296793
+Forsyth,13117,272887,2023-12-01,Dec 2023,Total Permits,101.0,3.7011656839644247
+Forsyth,13117,272887,2023-01-01,Jan 2023,All Single-Family Permits,100.0,3.664520479172698
+Forsyth,13117,272887,2023-02-01,Feb 2023,All Single-Family Permits,80.0,2.931616383338158
+Forsyth,13117,272887,2023-03-01,Mar 2023,All Single-Family Permits,128.0,4.690586213341053
+Forsyth,13117,272887,2023-04-01,Apr 2023,All Single-Family Permits,86.0,3.1514876120885202
+Forsyth,13117,272887,2023-05-01,May 2023,All Single-Family Permits,88.0,3.224778021671974
+Forsyth,13117,272887,2023-06-01,Jun 2023,All Single-Family Permits,96.0,3.5179396600057897
+Forsyth,13117,272887,2023-07-01,Jul 2023,All Single-Family Permits,95.0,3.481294455214063
+Forsyth,13117,272887,2023-08-01,Aug 2023,All Single-Family Permits,82.0,3.0049067929216124
+Forsyth,13117,272887,2023-09-01,Sep 2023,All Single-Family Permits,89.0,3.261423226463701
+Forsyth,13117,272887,2023-10-01,Oct 2023,All Single-Family Permits,107.0,3.921036912714787
+Forsyth,13117,272887,2023-11-01,Nov 2023,All Single-Family Permits,81.0,2.9682615881298853
+Forsyth,13117,272887,2023-12-01,Dec 2023,All Single-Family Permits,89.0,3.261423226463701
+Forsyth,13117,272887,2023-01-01,Jan 2023,All Multi-Family Permits,0.0,0.0
+Forsyth,13117,272887,2023-02-01,Feb 2023,All Multi-Family Permits,0.0,0.0
+Forsyth,13117,272887,2023-03-01,Mar 2023,All Multi-Family Permits,0.0,0.0
+Forsyth,13117,272887,2023-04-01,Apr 2023,All Multi-Family Permits,0.0,0.0
+Forsyth,13117,272887,2023-05-01,May 2023,All Multi-Family Permits,19.0,0.6962588910428126
+Forsyth,13117,272887,2023-06-01,Jun 2023,All Multi-Family Permits,56.0,2.052131468336711
+Forsyth,13117,272887,2023-07-01,Jul 2023,All Multi-Family Permits,0.0,0.0
+Forsyth,13117,272887,2023-08-01,Aug 2023,All Multi-Family Permits,119.0,4.360779370215511
+Forsyth,13117,272887,2023-09-01,Sep 2023,All Multi-Family Permits,36.0,1.3192273725021713
+Forsyth,13117,272887,2023-10-01,Oct 2023,All Multi-Family Permits,4.0,0.1465808191669079
+Forsyth,13117,272887,2023-11-01,Nov 2023,All Multi-Family Permits,4.0,0.1465808191669079
+Forsyth,13117,272887,2023-12-01,Dec 2023,All Multi-Family Permits,12.0,0.4397424575007237
+Forsyth,13117,272887,2023-01-01,Jan 2023,Multi-Family Permits (2 units),0.0,0.0
+Forsyth,13117,272887,2023-02-01,Feb 2023,Multi-Family Permits (2 units),0.0,0.0
+Forsyth,13117,272887,2023-03-01,Mar 2023,Multi-Family Permits (2 units),0.0,0.0
+Forsyth,13117,272887,2023-04-01,Apr 2023,Multi-Family Permits (2 units),0.0,0.0
+Forsyth,13117,272887,2023-05-01,May 2023,Multi-Family Permits (2 units),0.0,0.0
+Forsyth,13117,272887,2023-06-01,Jun 2023,Multi-Family Permits (2 units),0.0,0.0
+Forsyth,13117,272887,2023-07-01,Jul 2023,Multi-Family Permits (2 units),0.0,0.0
+Forsyth,13117,272887,2023-08-01,Aug 2023,Multi-Family Permits (2 units),0.0,0.0
+Forsyth,13117,272887,2023-09-01,Sep 2023,Multi-Family Permits (2 units),0.0,0.0
+Forsyth,13117,272887,2023-10-01,Oct 2023,Multi-Family Permits (2 units),0.0,0.0
+Forsyth,13117,272887,2023-11-01,Nov 2023,Multi-Family Permits (2 units),0.0,0.0
+Forsyth,13117,272887,2023-12-01,Dec 2023,Multi-Family Permits (2 units),0.0,0.0
+Forsyth,13117,272887,2023-01-01,Jan 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Forsyth,13117,272887,2023-02-01,Feb 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Forsyth,13117,272887,2023-03-01,Mar 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Forsyth,13117,272887,2023-04-01,Apr 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Forsyth,13117,272887,2023-05-01,May 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Forsyth,13117,272887,2023-06-01,Jun 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Forsyth,13117,272887,2023-07-01,Jul 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Forsyth,13117,272887,2023-08-01,Aug 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Forsyth,13117,272887,2023-09-01,Sep 2023,Multi-Family Permits (3-4 units),4.0,0.1465808191669079
+Forsyth,13117,272887,2023-10-01,Oct 2023,Multi-Family Permits (3-4 units),4.0,0.1465808191669079
+Forsyth,13117,272887,2023-11-01,Nov 2023,Multi-Family Permits (3-4 units),4.0,0.1465808191669079
+Forsyth,13117,272887,2023-12-01,Dec 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Forsyth,13117,272887,2023-01-01,Jan 2023,Multi-Family Permits (5+ units),0.0,0.0
+Forsyth,13117,272887,2023-02-01,Feb 2023,Multi-Family Permits (5+ units),0.0,0.0
+Forsyth,13117,272887,2023-03-01,Mar 2023,Multi-Family Permits (5+ units),0.0,0.0
+Forsyth,13117,272887,2023-04-01,Apr 2023,Multi-Family Permits (5+ units),0.0,0.0
+Forsyth,13117,272887,2023-05-01,May 2023,Multi-Family Permits (5+ units),19.0,0.6962588910428126
+Forsyth,13117,272887,2023-06-01,Jun 2023,Multi-Family Permits (5+ units),56.0,2.052131468336711
+Forsyth,13117,272887,2023-07-01,Jul 2023,Multi-Family Permits (5+ units),0.0,0.0
+Forsyth,13117,272887,2023-08-01,Aug 2023,Multi-Family Permits (5+ units),119.0,4.360779370215511
+Forsyth,13117,272887,2023-09-01,Sep 2023,Multi-Family Permits (5+ units),32.0,1.1726465533352632
+Forsyth,13117,272887,2023-10-01,Oct 2023,Multi-Family Permits (5+ units),0.0,0.0
+Forsyth,13117,272887,2023-11-01,Nov 2023,Multi-Family Permits (5+ units),0.0,0.0
+Forsyth,13117,272887,2023-12-01,Dec 2023,Multi-Family Permits (5+ units),12.0,0.4397424575007237
+Forsyth,13117,272887,2024-01-01,Jan 2024,Total Permits,149.0,5.46013551396732
+Forsyth,13117,272887,2024-02-01,Feb 2024,Total Permits,179.0,6.5594916577191285
+Forsyth,13117,272887,2024-03-01,Mar 2024,Total Permits,407.0,14.91459835023288
+Forsyth,13117,272887,2024-04-01,Apr 2024,Total Permits,159.0,5.8265875618845895
+Forsyth,13117,272887,2024-05-01,May 2024,Total Permits,151.0,5.533425923550774
+Forsyth,13117,272887,2024-06-01,Jun 2024,Total Permits,100.0,3.664520479172698
+Forsyth,13117,272887,2024-01-01,Jan 2024,All Single-Family Permits,135.0,4.947102646883142
+Forsyth,13117,272887,2024-02-01,Feb 2024,All Single-Family Permits,150.0,5.496780718759047
+Forsyth,13117,272887,2024-03-01,Mar 2024,All Single-Family Permits,140.0,5.130328670841777
+Forsyth,13117,272887,2024-04-01,Apr 2024,All Single-Family Permits,159.0,5.8265875618845895
+Forsyth,13117,272887,2024-05-01,May 2024,All Single-Family Permits,131.0,4.800521827716234
+Forsyth,13117,272887,2024-06-01,Jun 2024,All Single-Family Permits,100.0,3.664520479172698
+Forsyth,13117,272887,2024-01-01,Jan 2024,All Multi-Family Permits,14.0,0.5130328670841777
+Forsyth,13117,272887,2024-02-01,Feb 2024,All Multi-Family Permits,29.0,1.0627109389600824
+Forsyth,13117,272887,2024-03-01,Mar 2024,All Multi-Family Permits,267.0,9.784269679391103
+Forsyth,13117,272887,2024-04-01,Apr 2024,All Multi-Family Permits,0.0,0.0
+Forsyth,13117,272887,2024-05-01,May 2024,All Multi-Family Permits,20.0,0.7329040958345395
+Forsyth,13117,272887,2024-06-01,Jun 2024,All Multi-Family Permits,0.0,0.0
+Forsyth,13117,272887,2024-01-01,Jan 2024,Multi-Family Permits (2 units),0.0,0.0
+Forsyth,13117,272887,2024-02-01,Feb 2024,Multi-Family Permits (2 units),0.0,0.0
+Forsyth,13117,272887,2024-03-01,Mar 2024,Multi-Family Permits (2 units),0.0,0.0
+Forsyth,13117,272887,2024-04-01,Apr 2024,Multi-Family Permits (2 units),0.0,0.0
+Forsyth,13117,272887,2024-05-01,May 2024,Multi-Family Permits (2 units),0.0,0.0
+Forsyth,13117,272887,2024-06-01,Jun 2024,Multi-Family Permits (2 units),0.0,0.0
+Forsyth,13117,272887,2024-01-01,Jan 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Forsyth,13117,272887,2024-02-01,Feb 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Forsyth,13117,272887,2024-03-01,Mar 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Forsyth,13117,272887,2024-04-01,Apr 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Forsyth,13117,272887,2024-05-01,May 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Forsyth,13117,272887,2024-06-01,Jun 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Forsyth,13117,272887,2024-01-01,Jan 2024,Multi-Family Permits (5+ units),14.0,0.5130328670841777
+Forsyth,13117,272887,2024-02-01,Feb 2024,Multi-Family Permits (5+ units),29.0,1.0627109389600824
+Forsyth,13117,272887,2024-03-01,Mar 2024,Multi-Family Permits (5+ units),267.0,9.784269679391103
+Forsyth,13117,272887,2024-04-01,Apr 2024,Multi-Family Permits (5+ units),0.0,0.0
+Forsyth,13117,272887,2024-05-01,May 2024,Multi-Family Permits (5+ units),20.0,0.7329040958345395
+Forsyth,13117,272887,2024-06-01,Jun 2024,Multi-Family Permits (5+ units),0.0,0.0
+Fulton,13121,1079105,2022-01-01,Jan 2022,Total Permits,666.0,6.171781244642551
+Fulton,13121,1079105,2022-02-01,Feb 2022,Total Permits,1467.0,13.594599228063998
+Fulton,13121,1079105,2022-03-01,Mar 2022,Total Permits,734.0,6.801933083434884
+Fulton,13121,1079105,2022-04-01,Apr 2022,Total Permits,1188.0,11.009123301254279
+Fulton,13121,1079105,2022-05-01,May 2022,Total Permits,870.0,8.062236761019548
+Fulton,13121,1079105,2022-06-01,Jun 2022,Total Permits,891.0,8.25684247594071
+Fulton,13121,1079105,2022-07-01,Jul 2022,Total Permits,1790.0,16.587820462327578
+Fulton,13121,1079105,2022-08-01,Aug 2022,Total Permits,1523.0,14.113547801187096
+Fulton,13121,1079105,2022-09-01,Sep 2022,Total Permits,1414.0,13.103451471358209
+Fulton,13121,1079105,2022-10-01,Oct 2022,Total Permits,1590.0,14.734432701173658
+Fulton,13121,1079105,2022-11-01,Nov 2022,Total Permits,1019.0,9.44301064307922
+Fulton,13121,1079105,2022-12-01,Dec 2022,Total Permits,1473.0,13.650200860898616
+Fulton,13121,1079105,2022-01-01,Jan 2022,All Single-Family Permits,295.0,2.7337469477020306
+Fulton,13121,1079105,2022-02-01,Feb 2022,All Single-Family Permits,356.0,3.299030214853976
+Fulton,13121,1079105,2022-03-01,Mar 2022,All Single-Family Permits,372.0,3.4473012357462895
+Fulton,13121,1079105,2022-04-01,Apr 2022,All Single-Family Permits,361.0,3.345364908882824
+Fulton,13121,1079105,2022-05-01,May 2022,All Single-Family Permits,306.0,2.8356832745654965
+Fulton,13121,1079105,2022-06-01,Jun 2022,All Single-Family Permits,414.0,3.836512665588613
+Fulton,13121,1079105,2022-07-01,Jul 2022,All Single-Family Permits,349.0,3.234161643213589
+Fulton,13121,1079105,2022-08-01,Aug 2022,All Single-Family Permits,516.0,4.781740423777111
+Fulton,13121,1079105,2022-09-01,Sep 2022,All Single-Family Permits,489.0,4.531533076021333
+Fulton,13121,1079105,2022-10-01,Oct 2022,All Single-Family Permits,232.0,2.1499298029385465
+Fulton,13121,1079105,2022-11-01,Nov 2022,All Single-Family Permits,124.0,1.14910041191543
+Fulton,13121,1079105,2022-12-01,Dec 2022,All Single-Family Permits,186.0,1.7236506178731448
+Fulton,13121,1079105,2022-01-01,Jan 2022,All Multi-Family Permits,371.0,3.4380342969405198
+Fulton,13121,1079105,2022-02-01,Feb 2022,All Multi-Family Permits,1111.0,10.29556901321002
+Fulton,13121,1079105,2022-03-01,Mar 2022,All Multi-Family Permits,362.0,3.354631847688594
+Fulton,13121,1079105,2022-04-01,Apr 2022,All Multi-Family Permits,827.0,7.663758392371456
+Fulton,13121,1079105,2022-05-01,May 2022,All Multi-Family Permits,564.0,5.226553486454052
+Fulton,13121,1079105,2022-06-01,Jun 2022,All Multi-Family Permits,477.0,4.420329810352097
+Fulton,13121,1079105,2022-07-01,Jul 2022,All Multi-Family Permits,1441.0,13.353658819113988
+Fulton,13121,1079105,2022-08-01,Aug 2022,All Multi-Family Permits,1007.0,9.331807377409984
+Fulton,13121,1079105,2022-09-01,Sep 2022,All Multi-Family Permits,925.0,8.571918395336876
+Fulton,13121,1079105,2022-10-01,Oct 2022,All Multi-Family Permits,1358.0,12.58450289823511
+Fulton,13121,1079105,2022-11-01,Nov 2022,All Multi-Family Permits,895.0,8.293910231163789
+Fulton,13121,1079105,2022-12-01,Dec 2022,All Multi-Family Permits,1287.0,11.92655024302547
+Fulton,13121,1079105,2022-01-01,Jan 2022,Multi-Family Permits (2 units),0.0,0.0
+Fulton,13121,1079105,2022-02-01,Feb 2022,Multi-Family Permits (2 units),4.0,0.03706775522307838
+Fulton,13121,1079105,2022-03-01,Mar 2022,Multi-Family Permits (2 units),2.0,0.01853387761153919
+Fulton,13121,1079105,2022-04-01,Apr 2022,Multi-Family Permits (2 units),2.0,0.01853387761153919
+Fulton,13121,1079105,2022-05-01,May 2022,Multi-Family Permits (2 units),0.0,0.0
+Fulton,13121,1079105,2022-06-01,Jun 2022,Multi-Family Permits (2 units),0.0,0.0
+Fulton,13121,1079105,2022-07-01,Jul 2022,Multi-Family Permits (2 units),0.0,0.0
+Fulton,13121,1079105,2022-08-01,Aug 2022,Multi-Family Permits (2 units),8.0,0.07413551044615677
+Fulton,13121,1079105,2022-09-01,Sep 2022,Multi-Family Permits (2 units),0.0,0.0
+Fulton,13121,1079105,2022-10-01,Oct 2022,Multi-Family Permits (2 units),4.0,0.03706775522307838
+Fulton,13121,1079105,2022-11-01,Nov 2022,Multi-Family Permits (2 units),0.0,0.0
+Fulton,13121,1079105,2022-12-01,Dec 2022,Multi-Family Permits (2 units),0.0,0.0
+Fulton,13121,1079105,2022-01-01,Jan 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Fulton,13121,1079105,2022-02-01,Feb 2022,Multi-Family Permits (3-4 units),16.0,0.14827102089231353
+Fulton,13121,1079105,2022-03-01,Mar 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Fulton,13121,1079105,2022-04-01,Apr 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Fulton,13121,1079105,2022-05-01,May 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Fulton,13121,1079105,2022-06-01,Jun 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Fulton,13121,1079105,2022-07-01,Jul 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Fulton,13121,1079105,2022-08-01,Aug 2022,Multi-Family Permits (3-4 units),3.0,0.02780081641730879
+Fulton,13121,1079105,2022-09-01,Sep 2022,Multi-Family Permits (3-4 units),3.0,0.02780081641730879
+Fulton,13121,1079105,2022-10-01,Oct 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Fulton,13121,1079105,2022-11-01,Nov 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Fulton,13121,1079105,2022-12-01,Dec 2022,Multi-Family Permits (3-4 units),4.0,0.03706775522307838
+Fulton,13121,1079105,2022-01-01,Jan 2022,Multi-Family Permits (5+ units),371.0,3.4380342969405198
+Fulton,13121,1079105,2022-02-01,Feb 2022,Multi-Family Permits (5+ units),1091.0,10.11023023709463
+Fulton,13121,1079105,2022-03-01,Mar 2022,Multi-Family Permits (5+ units),360.0,3.3360979700770543
+Fulton,13121,1079105,2022-04-01,Apr 2022,Multi-Family Permits (5+ units),825.0,7.645224514759917
+Fulton,13121,1079105,2022-05-01,May 2022,Multi-Family Permits (5+ units),564.0,5.226553486454052
+Fulton,13121,1079105,2022-06-01,Jun 2022,Multi-Family Permits (5+ units),477.0,4.420329810352097
+Fulton,13121,1079105,2022-07-01,Jul 2022,Multi-Family Permits (5+ units),1441.0,13.353658819113988
+Fulton,13121,1079105,2022-08-01,Aug 2022,Multi-Family Permits (5+ units),996.0,9.229871050546517
+Fulton,13121,1079105,2022-09-01,Sep 2022,Multi-Family Permits (5+ units),922.0,8.544117578919568
+Fulton,13121,1079105,2022-10-01,Oct 2022,Multi-Family Permits (5+ units),1354.0,12.547435143012034
+Fulton,13121,1079105,2022-11-01,Nov 2022,Multi-Family Permits (5+ units),895.0,8.293910231163789
+Fulton,13121,1079105,2022-12-01,Dec 2022,Multi-Family Permits (5+ units),1283.0,11.889482487802393
+Fulton,13121,1079105,2023-01-01,Jan 2023,Total Permits,1819.0,16.856561687694896
+Fulton,13121,1079105,2023-02-01,Feb 2023,Total Permits,870.0,8.062236761019548
+Fulton,13121,1079105,2023-03-01,Mar 2023,Total Permits,656.0,6.079111856584855
+Fulton,13121,1079105,2023-04-01,Apr 2023,Total Permits,940.0,8.71092247742342
+Fulton,13121,1079105,2023-05-01,May 2023,Total Permits,1001.0,9.276205744575366
+Fulton,13121,1079105,2023-06-01,Jun 2023,Total Permits,918.0,8.507049823696489
+Fulton,13121,1079105,2023-07-01,Jul 2023,Total Permits,1001.0,9.276205744575366
+Fulton,13121,1079105,2023-08-01,Aug 2023,Total Permits,737.0,6.829733899852193
+Fulton,13121,1079105,2023-09-01,Sep 2023,Total Permits,441.0,4.086720013344392
+Fulton,13121,1079105,2023-10-01,Oct 2023,Total Permits,554.0,5.133884098396356
+Fulton,13121,1079105,2023-11-01,Nov 2023,Total Permits,522.0,4.837342056611729
+Fulton,13121,1079105,2023-12-01,Dec 2023,Total Permits,568.0,5.26362124167713
+Fulton,13121,1079105,2023-01-01,Jan 2023,All Single-Family Permits,172.0,1.5939134745923704
+Fulton,13121,1079105,2023-02-01,Feb 2023,All Single-Family Permits,192.0,1.7792522507077626
+Fulton,13121,1079105,2023-03-01,Mar 2023,All Single-Family Permits,253.0,2.344535517859708
+Fulton,13121,1079105,2023-04-01,Apr 2023,All Single-Family Permits,224.0,2.0757942924923896
+Fulton,13121,1079105,2023-05-01,May 2023,All Single-Family Permits,318.0,2.9468865402347317
+Fulton,13121,1079105,2023-06-01,Jun 2023,All Single-Family Permits,197.0,1.8255869447366104
+Fulton,13121,1079105,2023-07-01,Jul 2023,All Single-Family Permits,320.0,2.965420417846271
+Fulton,13121,1079105,2023-08-01,Aug 2023,All Single-Family Permits,319.0,2.956153479040501
+Fulton,13121,1079105,2023-09-01,Sep 2023,All Single-Family Permits,191.0,1.7699853119019928
+Fulton,13121,1079105,2023-10-01,Oct 2023,All Single-Family Permits,188.0,1.7421844954846841
+Fulton,13121,1079105,2023-11-01,Nov 2023,All Single-Family Permits,240.0,2.224065313384703
+Fulton,13121,1079105,2023-12-01,Dec 2023,All Single-Family Permits,217.0,2.0109257208520024
+Fulton,13121,1079105,2023-01-01,Jan 2023,All Multi-Family Permits,1647.0,15.262648213102525
+Fulton,13121,1079105,2023-02-01,Feb 2023,All Multi-Family Permits,678.0,6.2829845103117865
+Fulton,13121,1079105,2023-03-01,Mar 2023,All Multi-Family Permits,403.0,3.734576338725147
+Fulton,13121,1079105,2023-04-01,Apr 2023,All Multi-Family Permits,716.0,6.63512818493103
+Fulton,13121,1079105,2023-05-01,May 2023,All Multi-Family Permits,683.0,6.329319204340634
+Fulton,13121,1079105,2023-06-01,Jun 2023,All Multi-Family Permits,721.0,6.681462878959879
+Fulton,13121,1079105,2023-07-01,Jul 2023,All Multi-Family Permits,681.0,6.3107853267290945
+Fulton,13121,1079105,2023-08-01,Aug 2023,All Multi-Family Permits,418.0,3.8735804208116913
+Fulton,13121,1079105,2023-09-01,Sep 2023,All Multi-Family Permits,250.0,2.316734701442399
+Fulton,13121,1079105,2023-10-01,Oct 2023,All Multi-Family Permits,366.0,3.391699602911672
+Fulton,13121,1079105,2023-11-01,Nov 2023,All Multi-Family Permits,282.0,2.613276743227026
+Fulton,13121,1079105,2023-12-01,Dec 2023,All Multi-Family Permits,351.0,3.2526955208251285
+Fulton,13121,1079105,2023-01-01,Jan 2023,Multi-Family Permits (2 units),0.0,0.0
+Fulton,13121,1079105,2023-02-01,Feb 2023,Multi-Family Permits (2 units),4.0,0.03706775522307838
+Fulton,13121,1079105,2023-03-01,Mar 2023,Multi-Family Permits (2 units),2.0,0.01853387761153919
+Fulton,13121,1079105,2023-04-01,Apr 2023,Multi-Family Permits (2 units),2.0,0.01853387761153919
+Fulton,13121,1079105,2023-05-01,May 2023,Multi-Family Permits (2 units),12.0,0.11120326566923516
+Fulton,13121,1079105,2023-06-01,Jun 2023,Multi-Family Permits (2 units),2.0,0.01853387761153919
+Fulton,13121,1079105,2023-07-01,Jul 2023,Multi-Family Permits (2 units),0.0,0.0
+Fulton,13121,1079105,2023-08-01,Aug 2023,Multi-Family Permits (2 units),4.0,0.03706775522307838
+Fulton,13121,1079105,2023-09-01,Sep 2023,Multi-Family Permits (2 units),2.0,0.01853387761153919
+Fulton,13121,1079105,2023-10-01,Oct 2023,Multi-Family Permits (2 units),4.0,0.03706775522307838
+Fulton,13121,1079105,2023-11-01,Nov 2023,Multi-Family Permits (2 units),4.0,0.03706775522307838
+Fulton,13121,1079105,2023-12-01,Dec 2023,Multi-Family Permits (2 units),0.0,0.0
+Fulton,13121,1079105,2023-01-01,Jan 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Fulton,13121,1079105,2023-02-01,Feb 2023,Multi-Family Permits (3-4 units),4.0,0.03706775522307838
+Fulton,13121,1079105,2023-03-01,Mar 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Fulton,13121,1079105,2023-04-01,Apr 2023,Multi-Family Permits (3-4 units),3.0,0.02780081641730879
+Fulton,13121,1079105,2023-05-01,May 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Fulton,13121,1079105,2023-06-01,Jun 2023,Multi-Family Permits (3-4 units),9.0,0.08340244925192637
+Fulton,13121,1079105,2023-07-01,Jul 2023,Multi-Family Permits (3-4 units),3.0,0.02780081641730879
+Fulton,13121,1079105,2023-08-01,Aug 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Fulton,13121,1079105,2023-09-01,Sep 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Fulton,13121,1079105,2023-10-01,Oct 2023,Multi-Family Permits (3-4 units),16.0,0.14827102089231353
+Fulton,13121,1079105,2023-11-01,Nov 2023,Multi-Family Permits (3-4 units),13.0,0.12047020447500476
+Fulton,13121,1079105,2023-12-01,Dec 2023,Multi-Family Permits (3-4 units),16.0,0.14827102089231353
+Fulton,13121,1079105,2023-01-01,Jan 2023,Multi-Family Permits (5+ units),1647.0,15.262648213102525
+Fulton,13121,1079105,2023-02-01,Feb 2023,Multi-Family Permits (5+ units),670.0,6.20884899986563
+Fulton,13121,1079105,2023-03-01,Mar 2023,Multi-Family Permits (5+ units),401.0,3.7160424611136085
+Fulton,13121,1079105,2023-04-01,Apr 2023,Multi-Family Permits (5+ units),711.0,6.588793490902182
+Fulton,13121,1079105,2023-05-01,May 2023,Multi-Family Permits (5+ units),671.0,6.218115938671399
+Fulton,13121,1079105,2023-06-01,Jun 2023,Multi-Family Permits (5+ units),710.0,6.5795265520964135
+Fulton,13121,1079105,2023-07-01,Jul 2023,Multi-Family Permits (5+ units),678.0,6.2829845103117865
+Fulton,13121,1079105,2023-08-01,Aug 2023,Multi-Family Permits (5+ units),414.0,3.836512665588613
+Fulton,13121,1079105,2023-09-01,Sep 2023,Multi-Family Permits (5+ units),248.0,2.29820082383086
+Fulton,13121,1079105,2023-10-01,Oct 2023,Multi-Family Permits (5+ units),346.0,3.2063608267962804
+Fulton,13121,1079105,2023-11-01,Nov 2023,Multi-Family Permits (5+ units),265.0,2.455738783528943
+Fulton,13121,1079105,2023-12-01,Dec 2023,Multi-Family Permits (5+ units),335.0,3.104424499932815
+Fulton,13121,1079105,2024-01-01,Jan 2024,Total Permits,851.0,7.886164923709926
+Fulton,13121,1079105,2024-02-01,Feb 2024,Total Permits,740.0,6.857534716269502
+Fulton,13121,1079105,2024-03-01,Mar 2024,Total Permits,1105.0,10.239967380375402
+Fulton,13121,1079105,2024-04-01,Apr 2024,Total Permits,779.0,7.218945329694515
+Fulton,13121,1079105,2024-05-01,May 2024,Total Permits,1081.0,10.017560849036933
+Fulton,13121,1079105,2024-06-01,Jun 2024,Total Permits,619.0,5.736235120771379
+Fulton,13121,1079105,2024-01-01,Jan 2024,All Single-Family Permits,272.0,2.5206073551693304
+Fulton,13121,1079105,2024-02-01,Feb 2024,All Single-Family Permits,214.0,1.9831249044346937
+Fulton,13121,1079105,2024-03-01,Mar 2024,All Single-Family Permits,256.0,2.3723363342770165
+Fulton,13121,1079105,2024-04-01,Apr 2024,All Single-Family Permits,249.0,2.3074677626366293
+Fulton,13121,1079105,2024-05-01,May 2024,All Single-Family Permits,257.0,2.3816032730827863
+Fulton,13121,1079105,2024-06-01,Jun 2024,All Single-Family Permits,211.0,1.9553240880173848
+Fulton,13121,1079105,2024-01-01,Jan 2024,All Multi-Family Permits,579.0,5.365557568540597
+Fulton,13121,1079105,2024-02-01,Feb 2024,All Multi-Family Permits,526.0,4.874409811834807
+Fulton,13121,1079105,2024-03-01,Mar 2024,All Multi-Family Permits,849.0,7.867631046098387
+Fulton,13121,1079105,2024-04-01,Apr 2024,All Multi-Family Permits,530.0,4.911477567057886
+Fulton,13121,1079105,2024-05-01,May 2024,All Multi-Family Permits,824.0,7.635957575954147
+Fulton,13121,1079105,2024-06-01,Jun 2024,All Multi-Family Permits,408.0,3.780911032753995
+Fulton,13121,1079105,2024-01-01,Jan 2024,Multi-Family Permits (2 units),10.0,0.09266938805769596
+Fulton,13121,1079105,2024-02-01,Feb 2024,Multi-Family Permits (2 units),12.0,0.11120326566923516
+Fulton,13121,1079105,2024-03-01,Mar 2024,Multi-Family Permits (2 units),2.0,0.01853387761153919
+Fulton,13121,1079105,2024-04-01,Apr 2024,Multi-Family Permits (2 units),6.0,0.05560163283461758
+Fulton,13121,1079105,2024-05-01,May 2024,Multi-Family Permits (2 units),16.0,0.14827102089231353
+Fulton,13121,1079105,2024-06-01,Jun 2024,Multi-Family Permits (2 units),8.0,0.07413551044615677
+Fulton,13121,1079105,2024-01-01,Jan 2024,Multi-Family Permits (3-4 units),9.0,0.08340244925192637
+Fulton,13121,1079105,2024-02-01,Feb 2024,Multi-Family Permits (3-4 units),121.0,1.121299595498121
+Fulton,13121,1079105,2024-03-01,Mar 2024,Multi-Family Permits (3-4 units),25.0,0.23167347014423992
+Fulton,13121,1079105,2024-04-01,Apr 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Fulton,13121,1079105,2024-05-01,May 2024,Multi-Family Permits (3-4 units),42.0,0.38921142984232304
+Fulton,13121,1079105,2024-06-01,Jun 2024,Multi-Family Permits (3-4 units),20.0,0.18533877611539193
+Fulton,13121,1079105,2024-01-01,Jan 2024,Multi-Family Permits (5+ units),560.0,5.189485731230974
+Fulton,13121,1079105,2024-02-01,Feb 2024,Multi-Family Permits (5+ units),393.0,3.641906950667451
+Fulton,13121,1079105,2024-03-01,Mar 2024,Multi-Family Permits (5+ units),822.0,7.617423698342608
+Fulton,13121,1079105,2024-04-01,Apr 2024,Multi-Family Permits (5+ units),524.0,4.855875934223269
+Fulton,13121,1079105,2024-05-01,May 2024,Multi-Family Permits (5+ units),766.0,7.098475125219511
+Fulton,13121,1079105,2024-06-01,Jun 2024,Multi-Family Permits (5+ units),380.0,3.5214367461924465
+Gwinnett,13135,983526,2022-01-01,Jan 2022,Total Permits,411.0,4.178842247180044
+Gwinnett,13135,983526,2022-02-01,Feb 2022,Total Permits,315.0,3.2027623062328803
+Gwinnett,13135,983526,2022-03-01,Mar 2022,Total Permits,471.0,4.788892210272021
+Gwinnett,13135,983526,2022-04-01,Apr 2022,Total Permits,350.0,3.5586247847032
+Gwinnett,13135,983526,2022-05-01,May 2022,Total Permits,445.0,4.5245372262654975
+Gwinnett,13135,983526,2022-06-01,Jun 2022,Total Permits,629.0,6.395357113080895
+Gwinnett,13135,983526,2022-07-01,Jul 2022,Total Permits,950.0,9.659124415622973
+Gwinnett,13135,983526,2022-08-01,Aug 2022,Total Permits,372.0,3.782309771170259
+Gwinnett,13135,983526,2022-09-01,Sep 2022,Total Permits,287.0,2.9180723234566246
+Gwinnett,13135,983526,2022-10-01,Oct 2022,Total Permits,496.0,5.043079694893678
+Gwinnett,13135,983526,2022-11-01,Nov 2022,Total Permits,309.0,3.141757309923683
+Gwinnett,13135,983526,2022-12-01,Dec 2022,Total Permits,324.0,3.294269800696677
+Gwinnett,13135,983526,2022-01-01,Jan 2022,All Single-Family Permits,278.0,2.826564828992828
+Gwinnett,13135,983526,2022-02-01,Feb 2022,All Single-Family Permits,280.0,2.8468998277625603
+Gwinnett,13135,983526,2022-03-01,Mar 2022,All Single-Family Permits,306.0,3.1112548117690837
+Gwinnett,13135,983526,2022-04-01,Apr 2022,All Single-Family Permits,328.0,3.334939798236142
+Gwinnett,13135,983526,2022-05-01,May 2022,All Single-Family Permits,343.0,3.4874522890091364
+Gwinnett,13135,983526,2022-06-01,Jun 2022,All Single-Family Permits,358.0,3.6399647797821304
+Gwinnett,13135,983526,2022-07-01,Jul 2022,All Single-Family Permits,311.0,3.162092308693415
+Gwinnett,13135,983526,2022-08-01,Aug 2022,All Single-Family Permits,361.0,3.67046727793673
+Gwinnett,13135,983526,2022-09-01,Sep 2022,All Single-Family Permits,280.0,2.8468998277625603
+Gwinnett,13135,983526,2022-10-01,Oct 2022,All Single-Family Permits,334.0,3.39594479454534
+Gwinnett,13135,983526,2022-11-01,Nov 2022,All Single-Family Permits,275.0,2.7960623308382293
+Gwinnett,13135,983526,2022-12-01,Dec 2022,All Single-Family Permits,201.0,2.0436673763581235
+Gwinnett,13135,983526,2022-01-01,Jan 2022,All Multi-Family Permits,133.0,1.3522774181872164
+Gwinnett,13135,983526,2022-02-01,Feb 2022,All Multi-Family Permits,35.0,0.35586247847032004
+Gwinnett,13135,983526,2022-03-01,Mar 2022,All Multi-Family Permits,165.0,1.6776373985029374
+Gwinnett,13135,983526,2022-04-01,Apr 2022,All Multi-Family Permits,22.0,0.2236849864670583
+Gwinnett,13135,983526,2022-05-01,May 2022,All Multi-Family Permits,102.0,1.0370849372563613
+Gwinnett,13135,983526,2022-06-01,Jun 2022,All Multi-Family Permits,271.0,2.755392333298764
+Gwinnett,13135,983526,2022-07-01,Jul 2022,All Multi-Family Permits,639.0,6.497032106929558
+Gwinnett,13135,983526,2022-08-01,Aug 2022,All Multi-Family Permits,11.0,0.11184249323352916
+Gwinnett,13135,983526,2022-09-01,Sep 2022,All Multi-Family Permits,7.0,0.07117249569406402
+Gwinnett,13135,983526,2022-10-01,Oct 2022,All Multi-Family Permits,162.0,1.6471349003483384
+Gwinnett,13135,983526,2022-11-01,Nov 2022,All Multi-Family Permits,34.0,0.34569497908545377
+Gwinnett,13135,983526,2022-12-01,Dec 2022,All Multi-Family Permits,123.0,1.2506024243385532
+Gwinnett,13135,983526,2022-01-01,Jan 2022,Multi-Family Permits (2 units),0.0,0.0
+Gwinnett,13135,983526,2022-02-01,Feb 2022,Multi-Family Permits (2 units),0.0,0.0
+Gwinnett,13135,983526,2022-03-01,Mar 2022,Multi-Family Permits (2 units),0.0,0.0
+Gwinnett,13135,983526,2022-04-01,Apr 2022,Multi-Family Permits (2 units),8.0,0.08133999507893029
+Gwinnett,13135,983526,2022-05-01,May 2022,Multi-Family Permits (2 units),0.0,0.0
+Gwinnett,13135,983526,2022-06-01,Jun 2022,Multi-Family Permits (2 units),0.0,0.0
+Gwinnett,13135,983526,2022-07-01,Jul 2022,Multi-Family Permits (2 units),4.0,0.040669997539465146
+Gwinnett,13135,983526,2022-08-01,Aug 2022,Multi-Family Permits (2 units),4.0,0.040669997539465146
+Gwinnett,13135,983526,2022-09-01,Sep 2022,Multi-Family Permits (2 units),0.0,0.0
+Gwinnett,13135,983526,2022-10-01,Oct 2022,Multi-Family Permits (2 units),18.0,0.1830149889275932
+Gwinnett,13135,983526,2022-11-01,Nov 2022,Multi-Family Permits (2 units),28.0,0.28468998277625607
+Gwinnett,13135,983526,2022-12-01,Dec 2022,Multi-Family Permits (2 units),0.0,0.0
+Gwinnett,13135,983526,2022-01-01,Jan 2022,Multi-Family Permits (3-4 units),4.0,0.040669997539465146
+Gwinnett,13135,983526,2022-02-01,Feb 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Gwinnett,13135,983526,2022-03-01,Mar 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Gwinnett,13135,983526,2022-04-01,Apr 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Gwinnett,13135,983526,2022-05-01,May 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Gwinnett,13135,983526,2022-06-01,Jun 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Gwinnett,13135,983526,2022-07-01,Jul 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Gwinnett,13135,983526,2022-08-01,Aug 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Gwinnett,13135,983526,2022-09-01,Sep 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Gwinnett,13135,983526,2022-10-01,Oct 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Gwinnett,13135,983526,2022-11-01,Nov 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Gwinnett,13135,983526,2022-12-01,Dec 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Gwinnett,13135,983526,2022-01-01,Jan 2022,Multi-Family Permits (5+ units),129.0,1.3116074206477513
+Gwinnett,13135,983526,2022-02-01,Feb 2022,Multi-Family Permits (5+ units),35.0,0.35586247847032004
+Gwinnett,13135,983526,2022-03-01,Mar 2022,Multi-Family Permits (5+ units),165.0,1.6776373985029374
+Gwinnett,13135,983526,2022-04-01,Apr 2022,Multi-Family Permits (5+ units),14.0,0.14234499138812803
+Gwinnett,13135,983526,2022-05-01,May 2022,Multi-Family Permits (5+ units),102.0,1.0370849372563613
+Gwinnett,13135,983526,2022-06-01,Jun 2022,Multi-Family Permits (5+ units),271.0,2.755392333298764
+Gwinnett,13135,983526,2022-07-01,Jul 2022,Multi-Family Permits (5+ units),635.0,6.456362109390092
+Gwinnett,13135,983526,2022-08-01,Aug 2022,Multi-Family Permits (5+ units),7.0,0.07117249569406402
+Gwinnett,13135,983526,2022-09-01,Sep 2022,Multi-Family Permits (5+ units),7.0,0.07117249569406402
+Gwinnett,13135,983526,2022-10-01,Oct 2022,Multi-Family Permits (5+ units),144.0,1.4641199114207455
+Gwinnett,13135,983526,2022-11-01,Nov 2022,Multi-Family Permits (5+ units),6.0,0.06100499630919772
+Gwinnett,13135,983526,2022-12-01,Dec 2022,Multi-Family Permits (5+ units),123.0,1.2506024243385532
+Gwinnett,13135,983526,2023-01-01,Jan 2023,Total Permits,553.0,5.622627159831057
+Gwinnett,13135,983526,2023-02-01,Feb 2023,Total Permits,521.0,5.297267179515335
+Gwinnett,13135,983526,2023-03-01,Mar 2023,Total Permits,423.0,4.30085223979844
+Gwinnett,13135,983526,2023-04-01,Apr 2023,Total Permits,452.0,4.595709721959562
+Gwinnett,13135,983526,2023-05-01,May 2023,Total Permits,789.0,8.0221570146595
+Gwinnett,13135,983526,2023-06-01,Jun 2023,Total Permits,328.0,3.334939798236142
+Gwinnett,13135,983526,2023-07-01,Jul 2023,Total Permits,416.0,4.229679744104375
+Gwinnett,13135,983526,2023-08-01,Aug 2023,Total Permits,375.0,3.812812269324858
+Gwinnett,13135,983526,2023-09-01,Sep 2023,Total Permits,275.0,2.7960623308382293
+Gwinnett,13135,983526,2023-10-01,Oct 2023,Total Permits,351.0,3.5687922840880666
+Gwinnett,13135,983526,2023-11-01,Nov 2023,Total Permits,552.0,5.6124596604461905
+Gwinnett,13135,983526,2023-12-01,Dec 2023,Total Permits,388.0,3.9449897613281197
+Gwinnett,13135,983526,2023-01-01,Jan 2023,All Single-Family Permits,265.0,2.6943873369895663
+Gwinnett,13135,983526,2023-02-01,Feb 2023,All Single-Family Permits,241.0,2.450367351752775
+Gwinnett,13135,983526,2023-03-01,Mar 2023,All Single-Family Permits,423.0,4.30085223979844
+Gwinnett,13135,983526,2023-04-01,Apr 2023,All Single-Family Permits,452.0,4.595709721959562
+Gwinnett,13135,983526,2023-05-01,May 2023,All Single-Family Permits,390.0,3.965324760097852
+Gwinnett,13135,983526,2023-06-01,Jun 2023,All Single-Family Permits,328.0,3.334939798236142
+Gwinnett,13135,983526,2023-07-01,Jul 2023,All Single-Family Permits,416.0,4.229679744104375
+Gwinnett,13135,983526,2023-08-01,Aug 2023,All Single-Family Permits,375.0,3.812812269324858
+Gwinnett,13135,983526,2023-09-01,Sep 2023,All Single-Family Permits,275.0,2.7960623308382293
+Gwinnett,13135,983526,2023-10-01,Oct 2023,All Single-Family Permits,264.0,2.6842198376047
+Gwinnett,13135,983526,2023-11-01,Nov 2023,All Single-Family Permits,325.0,3.3044373000815432
+Gwinnett,13135,983526,2023-12-01,Dec 2023,All Single-Family Permits,388.0,3.9449897613281197
+Gwinnett,13135,983526,2023-01-01,Jan 2023,All Multi-Family Permits,288.0,2.928239822841491
+Gwinnett,13135,983526,2023-02-01,Feb 2023,All Multi-Family Permits,280.0,2.8468998277625603
+Gwinnett,13135,983526,2023-03-01,Mar 2023,All Multi-Family Permits,0.0,0.0
+Gwinnett,13135,983526,2023-04-01,Apr 2023,All Multi-Family Permits,0.0,0.0
+Gwinnett,13135,983526,2023-05-01,May 2023,All Multi-Family Permits,399.0,4.056832254561648
+Gwinnett,13135,983526,2023-06-01,Jun 2023,All Multi-Family Permits,0.0,0.0
+Gwinnett,13135,983526,2023-07-01,Jul 2023,All Multi-Family Permits,0.0,0.0
+Gwinnett,13135,983526,2023-08-01,Aug 2023,All Multi-Family Permits,0.0,0.0
+Gwinnett,13135,983526,2023-09-01,Sep 2023,All Multi-Family Permits,0.0,0.0
+Gwinnett,13135,983526,2023-10-01,Oct 2023,All Multi-Family Permits,87.0,0.884572446483367
+Gwinnett,13135,983526,2023-11-01,Nov 2023,All Multi-Family Permits,227.0,2.3080223603646473
+Gwinnett,13135,983526,2023-12-01,Dec 2023,All Multi-Family Permits,0.0,0.0
+Gwinnett,13135,983526,2023-01-01,Jan 2023,Multi-Family Permits (2 units),0.0,0.0
+Gwinnett,13135,983526,2023-02-01,Feb 2023,Multi-Family Permits (2 units),0.0,0.0
+Gwinnett,13135,983526,2023-03-01,Mar 2023,Multi-Family Permits (2 units),0.0,0.0
+Gwinnett,13135,983526,2023-04-01,Apr 2023,Multi-Family Permits (2 units),0.0,0.0
+Gwinnett,13135,983526,2023-05-01,May 2023,Multi-Family Permits (2 units),10.0,0.10167499384866287
+Gwinnett,13135,983526,2023-06-01,Jun 2023,Multi-Family Permits (2 units),0.0,0.0
+Gwinnett,13135,983526,2023-07-01,Jul 2023,Multi-Family Permits (2 units),0.0,0.0
+Gwinnett,13135,983526,2023-08-01,Aug 2023,Multi-Family Permits (2 units),0.0,0.0
+Gwinnett,13135,983526,2023-09-01,Sep 2023,Multi-Family Permits (2 units),0.0,0.0
+Gwinnett,13135,983526,2023-10-01,Oct 2023,Multi-Family Permits (2 units),0.0,0.0
+Gwinnett,13135,983526,2023-11-01,Nov 2023,Multi-Family Permits (2 units),0.0,0.0
+Gwinnett,13135,983526,2023-12-01,Dec 2023,Multi-Family Permits (2 units),0.0,0.0
+Gwinnett,13135,983526,2023-01-01,Jan 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Gwinnett,13135,983526,2023-02-01,Feb 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Gwinnett,13135,983526,2023-03-01,Mar 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Gwinnett,13135,983526,2023-04-01,Apr 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Gwinnett,13135,983526,2023-05-01,May 2023,Multi-Family Permits (3-4 units),18.0,0.1830149889275932
+Gwinnett,13135,983526,2023-06-01,Jun 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Gwinnett,13135,983526,2023-07-01,Jul 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Gwinnett,13135,983526,2023-08-01,Aug 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Gwinnett,13135,983526,2023-09-01,Sep 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Gwinnett,13135,983526,2023-10-01,Oct 2023,Multi-Family Permits (3-4 units),12.0,0.12200999261839544
+Gwinnett,13135,983526,2023-11-01,Nov 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Gwinnett,13135,983526,2023-12-01,Dec 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Gwinnett,13135,983526,2023-01-01,Jan 2023,Multi-Family Permits (5+ units),288.0,2.928239822841491
+Gwinnett,13135,983526,2023-02-01,Feb 2023,Multi-Family Permits (5+ units),280.0,2.8468998277625603
+Gwinnett,13135,983526,2023-03-01,Mar 2023,Multi-Family Permits (5+ units),0.0,0.0
+Gwinnett,13135,983526,2023-04-01,Apr 2023,Multi-Family Permits (5+ units),0.0,0.0
+Gwinnett,13135,983526,2023-05-01,May 2023,Multi-Family Permits (5+ units),371.0,3.772142271785392
+Gwinnett,13135,983526,2023-06-01,Jun 2023,Multi-Family Permits (5+ units),0.0,0.0
+Gwinnett,13135,983526,2023-07-01,Jul 2023,Multi-Family Permits (5+ units),0.0,0.0
+Gwinnett,13135,983526,2023-08-01,Aug 2023,Multi-Family Permits (5+ units),0.0,0.0
+Gwinnett,13135,983526,2023-09-01,Sep 2023,Multi-Family Permits (5+ units),0.0,0.0
+Gwinnett,13135,983526,2023-10-01,Oct 2023,Multi-Family Permits (5+ units),75.0,0.7625624538649716
+Gwinnett,13135,983526,2023-11-01,Nov 2023,Multi-Family Permits (5+ units),227.0,2.3080223603646473
+Gwinnett,13135,983526,2023-12-01,Dec 2023,Multi-Family Permits (5+ units),0.0,0.0
+Gwinnett,13135,983526,2024-01-01,Jan 2024,Total Permits,217.0,2.2063473665159843
+Gwinnett,13135,983526,2024-02-01,Feb 2024,Total Permits,402.0,4.087334752716247
+Gwinnett,13135,983526,2024-03-01,Mar 2024,Total Permits,994.0,10.106494388557088
+Gwinnett,13135,983526,2024-04-01,Apr 2024,Total Permits,473.0,4.809227209041754
+Gwinnett,13135,983526,2024-05-01,May 2024,Total Permits,470.0,4.778724710887155
+Gwinnett,13135,983526,2024-06-01,Jun 2024,Total Permits,402.0,4.087334752716247
+Gwinnett,13135,983526,2024-01-01,Jan 2024,All Single-Family Permits,217.0,2.2063473665159843
+Gwinnett,13135,983526,2024-02-01,Feb 2024,All Single-Family Permits,402.0,4.087334752716247
+Gwinnett,13135,983526,2024-03-01,Mar 2024,All Single-Family Permits,624.0,6.344519616156563
+Gwinnett,13135,983526,2024-04-01,Apr 2024,All Single-Family Permits,473.0,4.809227209041754
+Gwinnett,13135,983526,2024-05-01,May 2024,All Single-Family Permits,470.0,4.778724710887155
+Gwinnett,13135,983526,2024-06-01,Jun 2024,All Single-Family Permits,402.0,4.087334752716247
+Gwinnett,13135,983526,2024-01-01,Jan 2024,All Multi-Family Permits,0.0,0.0
+Gwinnett,13135,983526,2024-02-01,Feb 2024,All Multi-Family Permits,0.0,0.0
+Gwinnett,13135,983526,2024-03-01,Mar 2024,All Multi-Family Permits,370.0,3.7619747724005266
+Gwinnett,13135,983526,2024-04-01,Apr 2024,All Multi-Family Permits,0.0,0.0
+Gwinnett,13135,983526,2024-05-01,May 2024,All Multi-Family Permits,0.0,0.0
+Gwinnett,13135,983526,2024-06-01,Jun 2024,All Multi-Family Permits,0.0,0.0
+Gwinnett,13135,983526,2024-01-01,Jan 2024,Multi-Family Permits (2 units),0.0,0.0
+Gwinnett,13135,983526,2024-02-01,Feb 2024,Multi-Family Permits (2 units),0.0,0.0
+Gwinnett,13135,983526,2024-03-01,Mar 2024,Multi-Family Permits (2 units),0.0,0.0
+Gwinnett,13135,983526,2024-04-01,Apr 2024,Multi-Family Permits (2 units),0.0,0.0
+Gwinnett,13135,983526,2024-05-01,May 2024,Multi-Family Permits (2 units),0.0,0.0
+Gwinnett,13135,983526,2024-06-01,Jun 2024,Multi-Family Permits (2 units),0.0,0.0
+Gwinnett,13135,983526,2024-01-01,Jan 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Gwinnett,13135,983526,2024-02-01,Feb 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Gwinnett,13135,983526,2024-03-01,Mar 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Gwinnett,13135,983526,2024-04-01,Apr 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Gwinnett,13135,983526,2024-05-01,May 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Gwinnett,13135,983526,2024-06-01,Jun 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Gwinnett,13135,983526,2024-01-01,Jan 2024,Multi-Family Permits (5+ units),0.0,0.0
+Gwinnett,13135,983526,2024-02-01,Feb 2024,Multi-Family Permits (5+ units),0.0,0.0
+Gwinnett,13135,983526,2024-03-01,Mar 2024,Multi-Family Permits (5+ units),370.0,3.7619747724005266
+Gwinnett,13135,983526,2024-04-01,Apr 2024,Multi-Family Permits (5+ units),0.0,0.0
+Gwinnett,13135,983526,2024-05-01,May 2024,Multi-Family Permits (5+ units),0.0,0.0
+Gwinnett,13135,983526,2024-06-01,Jun 2024,Multi-Family Permits (5+ units),0.0,0.0
+Henry,13151,254613,2022-01-01,Jan 2022,Total Permits,154.0,6.0483950151799
+Henry,13151,254613,2022-02-01,Feb 2022,Total Permits,116.0,4.5559339075381065
+Henry,13151,254613,2022-03-01,Mar 2022,Total Permits,665.0,26.118069383731388
+Henry,13151,254613,2022-04-01,Apr 2022,Total Permits,235.0,9.229693691995303
+Henry,13151,254613,2022-05-01,May 2022,Total Permits,146.0,5.734192676728996
+Henry,13151,254613,2022-06-01,Jun 2022,Total Permits,225.0,8.836940768931672
+Henry,13151,254613,2022-07-01,Jul 2022,Total Permits,93.0,3.652602184491758
+Henry,13151,254613,2022-08-01,Aug 2022,Total Permits,70.0,2.7492704614454095
+Henry,13151,254613,2022-09-01,Sep 2022,Total Permits,438.0,17.20257803018699
+Henry,13151,254613,2022-10-01,Oct 2022,Total Permits,133.0,5.223613876746278
+Henry,13151,254613,2022-11-01,Nov 2022,Total Permits,121.0,4.752310369069922
+Henry,13151,254613,2022-12-01,Dec 2022,Total Permits,126.0,4.948686830601737
+Henry,13151,254613,2022-01-01,Jan 2022,All Single-Family Permits,154.0,6.0483950151799
+Henry,13151,254613,2022-02-01,Feb 2022,All Single-Family Permits,116.0,4.5559339075381065
+Henry,13151,254613,2022-03-01,Mar 2022,All Single-Family Permits,201.0,7.8943337535789615
+Henry,13151,254613,2022-04-01,Apr 2022,All Single-Family Permits,179.0,7.030277322838975
+Henry,13151,254613,2022-05-01,May 2022,All Single-Family Permits,146.0,5.734192676728996
+Henry,13151,254613,2022-06-01,Jun 2022,All Single-Family Permits,225.0,8.836940768931672
+Henry,13151,254613,2022-07-01,Jul 2022,All Single-Family Permits,93.0,3.652602184491758
+Henry,13151,254613,2022-08-01,Aug 2022,All Single-Family Permits,70.0,2.7492704614454095
+Henry,13151,254613,2022-09-01,Sep 2022,All Single-Family Permits,96.0,3.7704280614108474
+Henry,13151,254613,2022-10-01,Oct 2022,All Single-Family Permits,118.0,4.634484492150833
+Henry,13151,254613,2022-11-01,Nov 2022,All Single-Family Permits,89.0,3.495501015266306
+Henry,13151,254613,2022-12-01,Dec 2022,All Single-Family Permits,93.0,3.652602184491758
+Henry,13151,254613,2022-01-01,Jan 2022,All Multi-Family Permits,0.0,0.0
+Henry,13151,254613,2022-02-01,Feb 2022,All Multi-Family Permits,0.0,0.0
+Henry,13151,254613,2022-03-01,Mar 2022,All Multi-Family Permits,464.0,18.223735630152426
+Henry,13151,254613,2022-04-01,Apr 2022,All Multi-Family Permits,56.0,2.1994163691563275
+Henry,13151,254613,2022-05-01,May 2022,All Multi-Family Permits,0.0,0.0
+Henry,13151,254613,2022-06-01,Jun 2022,All Multi-Family Permits,0.0,0.0
+Henry,13151,254613,2022-07-01,Jul 2022,All Multi-Family Permits,0.0,0.0
+Henry,13151,254613,2022-08-01,Aug 2022,All Multi-Family Permits,0.0,0.0
+Henry,13151,254613,2022-09-01,Sep 2022,All Multi-Family Permits,342.0,13.432149968776143
+Henry,13151,254613,2022-10-01,Oct 2022,All Multi-Family Permits,15.0,0.5891293845954448
+Henry,13151,254613,2022-11-01,Nov 2022,All Multi-Family Permits,32.0,1.2568093538036158
+Henry,13151,254613,2022-12-01,Dec 2022,All Multi-Family Permits,33.0,1.2960846461099786
+Henry,13151,254613,2022-01-01,Jan 2022,Multi-Family Permits (2 units),0.0,0.0
+Henry,13151,254613,2022-02-01,Feb 2022,Multi-Family Permits (2 units),0.0,0.0
+Henry,13151,254613,2022-03-01,Mar 2022,Multi-Family Permits (2 units),6.0,0.23565175383817796
+Henry,13151,254613,2022-04-01,Apr 2022,Multi-Family Permits (2 units),0.0,0.0
+Henry,13151,254613,2022-05-01,May 2022,Multi-Family Permits (2 units),0.0,0.0
+Henry,13151,254613,2022-06-01,Jun 2022,Multi-Family Permits (2 units),0.0,0.0
+Henry,13151,254613,2022-07-01,Jul 2022,Multi-Family Permits (2 units),0.0,0.0
+Henry,13151,254613,2022-08-01,Aug 2022,Multi-Family Permits (2 units),0.0,0.0
+Henry,13151,254613,2022-09-01,Sep 2022,Multi-Family Permits (2 units),0.0,0.0
+Henry,13151,254613,2022-10-01,Oct 2022,Multi-Family Permits (2 units),0.0,0.0
+Henry,13151,254613,2022-11-01,Nov 2022,Multi-Family Permits (2 units),0.0,0.0
+Henry,13151,254613,2022-12-01,Dec 2022,Multi-Family Permits (2 units),0.0,0.0
+Henry,13151,254613,2022-01-01,Jan 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Henry,13151,254613,2022-02-01,Feb 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Henry,13151,254613,2022-03-01,Mar 2022,Multi-Family Permits (3-4 units),49.0,1.9244893230117865
+Henry,13151,254613,2022-04-01,Apr 2022,Multi-Family Permits (3-4 units),18.0,0.7069552615145338
+Henry,13151,254613,2022-05-01,May 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Henry,13151,254613,2022-06-01,Jun 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Henry,13151,254613,2022-07-01,Jul 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Henry,13151,254613,2022-08-01,Aug 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Henry,13151,254613,2022-09-01,Sep 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Henry,13151,254613,2022-10-01,Oct 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Henry,13151,254613,2022-11-01,Nov 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Henry,13151,254613,2022-12-01,Dec 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Henry,13151,254613,2022-01-01,Jan 2022,Multi-Family Permits (5+ units),0.0,0.0
+Henry,13151,254613,2022-02-01,Feb 2022,Multi-Family Permits (5+ units),0.0,0.0
+Henry,13151,254613,2022-03-01,Mar 2022,Multi-Family Permits (5+ units),409.0,16.06359455330246
+Henry,13151,254613,2022-04-01,Apr 2022,Multi-Family Permits (5+ units),38.0,1.4924611076417937
+Henry,13151,254613,2022-05-01,May 2022,Multi-Family Permits (5+ units),0.0,0.0
+Henry,13151,254613,2022-06-01,Jun 2022,Multi-Family Permits (5+ units),0.0,0.0
+Henry,13151,254613,2022-07-01,Jul 2022,Multi-Family Permits (5+ units),0.0,0.0
+Henry,13151,254613,2022-08-01,Aug 2022,Multi-Family Permits (5+ units),0.0,0.0
+Henry,13151,254613,2022-09-01,Sep 2022,Multi-Family Permits (5+ units),342.0,13.432149968776143
+Henry,13151,254613,2022-10-01,Oct 2022,Multi-Family Permits (5+ units),15.0,0.5891293845954448
+Henry,13151,254613,2022-11-01,Nov 2022,Multi-Family Permits (5+ units),32.0,1.2568093538036158
+Henry,13151,254613,2022-12-01,Dec 2022,Multi-Family Permits (5+ units),33.0,1.2960846461099786
+Henry,13151,254613,2023-01-01,Jan 2023,Total Permits,57.0,2.2386916614626906
+Henry,13151,254613,2023-02-01,Feb 2023,Total Permits,133.0,5.223613876746278
+Henry,13151,254613,2023-03-01,Mar 2023,Total Permits,202.0,7.933609045885325
+Henry,13151,254613,2023-04-01,Apr 2023,Total Permits,112.0,4.398832738312655
+Henry,13151,254613,2023-05-01,May 2023,Total Permits,392.0,15.395914584094292
+Henry,13151,254613,2023-06-01,Jun 2023,Total Permits,164.0,6.44114793824353
+Henry,13151,254613,2023-07-01,Jul 2023,Total Permits,286.0,11.232733599619817
+Henry,13151,254613,2023-08-01,Aug 2023,Total Permits,173.0,6.794625569000797
+Henry,13151,254613,2023-09-01,Sep 2023,Total Permits,108.0,4.241731569087203
+Henry,13151,254613,2023-10-01,Oct 2023,Total Permits,151.0,5.930569138260811
+Henry,13151,254613,2023-11-01,Nov 2023,Total Permits,227.0,8.915491353544398
+Henry,13151,254613,2023-12-01,Dec 2023,Total Permits,126.0,4.948686830601737
+Henry,13151,254613,2023-01-01,Jan 2023,All Single-Family Permits,57.0,2.2386916614626906
+Henry,13151,254613,2023-02-01,Feb 2023,All Single-Family Permits,133.0,5.223613876746278
+Henry,13151,254613,2023-03-01,Mar 2023,All Single-Family Permits,202.0,7.933609045885325
+Henry,13151,254613,2023-04-01,Apr 2023,All Single-Family Permits,112.0,4.398832738312655
+Henry,13151,254613,2023-05-01,May 2023,All Single-Family Permits,98.0,3.848978646023573
+Henry,13151,254613,2023-06-01,Jun 2023,All Single-Family Permits,164.0,6.44114793824353
+Henry,13151,254613,2023-07-01,Jul 2023,All Single-Family Permits,202.0,7.933609045885325
+Henry,13151,254613,2023-08-01,Aug 2023,All Single-Family Permits,173.0,6.794625569000797
+Henry,13151,254613,2023-09-01,Sep 2023,All Single-Family Permits,108.0,4.241731569087203
+Henry,13151,254613,2023-10-01,Oct 2023,All Single-Family Permits,151.0,5.930569138260811
+Henry,13151,254613,2023-11-01,Nov 2023,All Single-Family Permits,155.0,6.087670307486264
+Henry,13151,254613,2023-12-01,Dec 2023,All Single-Family Permits,126.0,4.948686830601737
+Henry,13151,254613,2023-01-01,Jan 2023,All Multi-Family Permits,0.0,0.0
+Henry,13151,254613,2023-02-01,Feb 2023,All Multi-Family Permits,0.0,0.0
+Henry,13151,254613,2023-03-01,Mar 2023,All Multi-Family Permits,0.0,0.0
+Henry,13151,254613,2023-04-01,Apr 2023,All Multi-Family Permits,0.0,0.0
+Henry,13151,254613,2023-05-01,May 2023,All Multi-Family Permits,294.0,11.54693593807072
+Henry,13151,254613,2023-06-01,Jun 2023,All Multi-Family Permits,0.0,0.0
+Henry,13151,254613,2023-07-01,Jul 2023,All Multi-Family Permits,84.0,3.299124553734491
+Henry,13151,254613,2023-08-01,Aug 2023,All Multi-Family Permits,0.0,0.0
+Henry,13151,254613,2023-09-01,Sep 2023,All Multi-Family Permits,0.0,0.0
+Henry,13151,254613,2023-10-01,Oct 2023,All Multi-Family Permits,0.0,0.0
+Henry,13151,254613,2023-11-01,Nov 2023,All Multi-Family Permits,72.0,2.8278210460581352
+Henry,13151,254613,2023-12-01,Dec 2023,All Multi-Family Permits,0.0,0.0
+Henry,13151,254613,2023-01-01,Jan 2023,Multi-Family Permits (2 units),0.0,0.0
+Henry,13151,254613,2023-02-01,Feb 2023,Multi-Family Permits (2 units),0.0,0.0
+Henry,13151,254613,2023-03-01,Mar 2023,Multi-Family Permits (2 units),0.0,0.0
+Henry,13151,254613,2023-04-01,Apr 2023,Multi-Family Permits (2 units),0.0,0.0
+Henry,13151,254613,2023-05-01,May 2023,Multi-Family Permits (2 units),0.0,0.0
+Henry,13151,254613,2023-06-01,Jun 2023,Multi-Family Permits (2 units),0.0,0.0
+Henry,13151,254613,2023-07-01,Jul 2023,Multi-Family Permits (2 units),0.0,0.0
+Henry,13151,254613,2023-08-01,Aug 2023,Multi-Family Permits (2 units),0.0,0.0
+Henry,13151,254613,2023-09-01,Sep 2023,Multi-Family Permits (2 units),0.0,0.0
+Henry,13151,254613,2023-10-01,Oct 2023,Multi-Family Permits (2 units),0.0,0.0
+Henry,13151,254613,2023-11-01,Nov 2023,Multi-Family Permits (2 units),0.0,0.0
+Henry,13151,254613,2023-12-01,Dec 2023,Multi-Family Permits (2 units),0.0,0.0
+Henry,13151,254613,2023-01-01,Jan 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Henry,13151,254613,2023-02-01,Feb 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Henry,13151,254613,2023-03-01,Mar 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Henry,13151,254613,2023-04-01,Apr 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Henry,13151,254613,2023-05-01,May 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Henry,13151,254613,2023-06-01,Jun 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Henry,13151,254613,2023-07-01,Jul 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Henry,13151,254613,2023-08-01,Aug 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Henry,13151,254613,2023-09-01,Sep 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Henry,13151,254613,2023-10-01,Oct 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Henry,13151,254613,2023-11-01,Nov 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Henry,13151,254613,2023-12-01,Dec 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Henry,13151,254613,2023-01-01,Jan 2023,Multi-Family Permits (5+ units),0.0,0.0
+Henry,13151,254613,2023-02-01,Feb 2023,Multi-Family Permits (5+ units),0.0,0.0
+Henry,13151,254613,2023-03-01,Mar 2023,Multi-Family Permits (5+ units),0.0,0.0
+Henry,13151,254613,2023-04-01,Apr 2023,Multi-Family Permits (5+ units),0.0,0.0
+Henry,13151,254613,2023-05-01,May 2023,Multi-Family Permits (5+ units),294.0,11.54693593807072
+Henry,13151,254613,2023-06-01,Jun 2023,Multi-Family Permits (5+ units),0.0,0.0
+Henry,13151,254613,2023-07-01,Jul 2023,Multi-Family Permits (5+ units),84.0,3.299124553734491
+Henry,13151,254613,2023-08-01,Aug 2023,Multi-Family Permits (5+ units),0.0,0.0
+Henry,13151,254613,2023-09-01,Sep 2023,Multi-Family Permits (5+ units),0.0,0.0
+Henry,13151,254613,2023-10-01,Oct 2023,Multi-Family Permits (5+ units),0.0,0.0
+Henry,13151,254613,2023-11-01,Nov 2023,Multi-Family Permits (5+ units),72.0,2.8278210460581352
+Henry,13151,254613,2023-12-01,Dec 2023,Multi-Family Permits (5+ units),0.0,0.0
+Henry,13151,254613,2024-01-01,Jan 2024,Total Permits,134.0,5.262889169052641
+Henry,13151,254613,2024-02-01,Feb 2024,Total Permits,149.0,5.852018553648086
+Henry,13151,254613,2024-03-01,Mar 2024,Total Permits,229.0,8.994041938157125
+Henry,13151,254613,2024-04-01,Apr 2024,Total Permits,156.0,6.126945599792626
+Henry,13151,254613,2024-05-01,May 2024,Total Permits,160.0,6.284046769018079
+Henry,13151,254613,2024-06-01,Jun 2024,Total Permits,171.0,6.716074984388071
+Henry,13151,254613,2024-01-01,Jan 2024,All Single-Family Permits,113.0,4.438108030619018
+Henry,13151,254613,2024-02-01,Feb 2024,All Single-Family Permits,132.0,5.184338584439915
+Henry,13151,254613,2024-03-01,Mar 2024,All Single-Family Permits,212.0,8.326361968948953
+Henry,13151,254613,2024-04-01,Apr 2024,All Single-Family Permits,127.0,4.987962122908099
+Henry,13151,254613,2024-05-01,May 2024,All Single-Family Permits,137.0,5.38071504597173
+Henry,13151,254613,2024-06-01,Jun 2024,All Single-Family Permits,145.0,5.6949173844226335
+Henry,13151,254613,2024-01-01,Jan 2024,All Multi-Family Permits,21.0,0.8247811384336228
+Henry,13151,254613,2024-02-01,Feb 2024,All Multi-Family Permits,17.0,0.6676799692081707
+Henry,13151,254613,2024-03-01,Mar 2024,All Multi-Family Permits,17.0,0.6676799692081707
+Henry,13151,254613,2024-04-01,Apr 2024,All Multi-Family Permits,29.0,1.1389834768845266
+Henry,13151,254613,2024-05-01,May 2024,All Multi-Family Permits,23.0,0.9033317230463488
+Henry,13151,254613,2024-06-01,Jun 2024,All Multi-Family Permits,26.0,1.0211575999654376
+Henry,13151,254613,2024-01-01,Jan 2024,Multi-Family Permits (2 units),0.0,0.0
+Henry,13151,254613,2024-02-01,Feb 2024,Multi-Family Permits (2 units),0.0,0.0
+Henry,13151,254613,2024-03-01,Mar 2024,Multi-Family Permits (2 units),0.0,0.0
+Henry,13151,254613,2024-04-01,Apr 2024,Multi-Family Permits (2 units),0.0,0.0
+Henry,13151,254613,2024-05-01,May 2024,Multi-Family Permits (2 units),0.0,0.0
+Henry,13151,254613,2024-06-01,Jun 2024,Multi-Family Permits (2 units),0.0,0.0
+Henry,13151,254613,2024-01-01,Jan 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Henry,13151,254613,2024-02-01,Feb 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Henry,13151,254613,2024-03-01,Mar 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Henry,13151,254613,2024-04-01,Apr 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Henry,13151,254613,2024-05-01,May 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Henry,13151,254613,2024-06-01,Jun 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Henry,13151,254613,2024-01-01,Jan 2024,Multi-Family Permits (5+ units),21.0,0.8247811384336228
+Henry,13151,254613,2024-02-01,Feb 2024,Multi-Family Permits (5+ units),17.0,0.6676799692081707
+Henry,13151,254613,2024-03-01,Mar 2024,Multi-Family Permits (5+ units),17.0,0.6676799692081707
+Henry,13151,254613,2024-04-01,Apr 2024,Multi-Family Permits (5+ units),29.0,1.1389834768845266
+Henry,13151,254613,2024-05-01,May 2024,Multi-Family Permits (5+ units),23.0,0.9033317230463488
+Henry,13151,254613,2024-06-01,Jun 2024,Multi-Family Permits (5+ units),26.0,1.0211575999654376
+Rockdale,13247,95987,2022-01-01,Jan 2022,Total Permits,22.0,2.2919770385573046
+Rockdale,13247,95987,2022-02-01,Feb 2022,Total Permits,27.0,2.8128809109566917
+Rockdale,13247,95987,2022-03-01,Mar 2022,Total Permits,64.0,6.667569566712159
+Rockdale,13247,95987,2022-04-01,Apr 2022,Total Permits,42.0,4.375592528154854
+Rockdale,13247,95987,2022-05-01,May 2022,Total Permits,24.0,2.5003385875170596
+Rockdale,13247,95987,2022-06-01,Jun 2022,Total Permits,23.0,2.396157813037182
+Rockdale,13247,95987,2022-07-01,Jul 2022,Total Permits,345.0,35.94236719555773
+Rockdale,13247,95987,2022-08-01,Aug 2022,Total Permits,43.0,4.479773302634731
+Rockdale,13247,95987,2022-09-01,Sep 2022,Total Permits,343.0,35.73400564659798
+Rockdale,13247,95987,2022-10-01,Oct 2022,Total Permits,40.0,4.167230979195099
+Rockdale,13247,95987,2022-11-01,Nov 2022,Total Permits,22.0,2.2919770385573046
+Rockdale,13247,95987,2022-12-01,Dec 2022,Total Permits,29.0,3.021242459916447
+Rockdale,13247,95987,2022-01-01,Jan 2022,All Single-Family Permits,22.0,2.2919770385573046
+Rockdale,13247,95987,2022-02-01,Feb 2022,All Single-Family Permits,27.0,2.8128809109566917
+Rockdale,13247,95987,2022-03-01,Mar 2022,All Single-Family Permits,64.0,6.667569566712159
+Rockdale,13247,95987,2022-04-01,Apr 2022,All Single-Family Permits,42.0,4.375592528154854
+Rockdale,13247,95987,2022-05-01,May 2022,All Single-Family Permits,24.0,2.5003385875170596
+Rockdale,13247,95987,2022-06-01,Jun 2022,All Single-Family Permits,23.0,2.396157813037182
+Rockdale,13247,95987,2022-07-01,Jul 2022,All Single-Family Permits,45.0,4.688134851594487
+Rockdale,13247,95987,2022-08-01,Aug 2022,All Single-Family Permits,43.0,4.479773302634731
+Rockdale,13247,95987,2022-09-01,Sep 2022,All Single-Family Permits,79.0,8.230281183910321
+Rockdale,13247,95987,2022-10-01,Oct 2022,All Single-Family Permits,40.0,4.167230979195099
+Rockdale,13247,95987,2022-11-01,Nov 2022,All Single-Family Permits,22.0,2.2919770385573046
+Rockdale,13247,95987,2022-12-01,Dec 2022,All Single-Family Permits,29.0,3.021242459916447
+Rockdale,13247,95987,2022-01-01,Jan 2022,All Multi-Family Permits,0.0,0.0
+Rockdale,13247,95987,2022-02-01,Feb 2022,All Multi-Family Permits,0.0,0.0
+Rockdale,13247,95987,2022-03-01,Mar 2022,All Multi-Family Permits,0.0,0.0
+Rockdale,13247,95987,2022-04-01,Apr 2022,All Multi-Family Permits,0.0,0.0
+Rockdale,13247,95987,2022-05-01,May 2022,All Multi-Family Permits,0.0,0.0
+Rockdale,13247,95987,2022-06-01,Jun 2022,All Multi-Family Permits,0.0,0.0
+Rockdale,13247,95987,2022-07-01,Jul 2022,All Multi-Family Permits,300.0,31.254232343963245
+Rockdale,13247,95987,2022-08-01,Aug 2022,All Multi-Family Permits,0.0,0.0
+Rockdale,13247,95987,2022-09-01,Sep 2022,All Multi-Family Permits,264.0,27.503724462687654
+Rockdale,13247,95987,2022-10-01,Oct 2022,All Multi-Family Permits,0.0,0.0
+Rockdale,13247,95987,2022-11-01,Nov 2022,All Multi-Family Permits,0.0,0.0
+Rockdale,13247,95987,2022-12-01,Dec 2022,All Multi-Family Permits,0.0,0.0
+Rockdale,13247,95987,2022-01-01,Jan 2022,Multi-Family Permits (2 units),0.0,0.0
+Rockdale,13247,95987,2022-02-01,Feb 2022,Multi-Family Permits (2 units),0.0,0.0
+Rockdale,13247,95987,2022-03-01,Mar 2022,Multi-Family Permits (2 units),0.0,0.0
+Rockdale,13247,95987,2022-04-01,Apr 2022,Multi-Family Permits (2 units),0.0,0.0
+Rockdale,13247,95987,2022-05-01,May 2022,Multi-Family Permits (2 units),0.0,0.0
+Rockdale,13247,95987,2022-06-01,Jun 2022,Multi-Family Permits (2 units),0.0,0.0
+Rockdale,13247,95987,2022-07-01,Jul 2022,Multi-Family Permits (2 units),0.0,0.0
+Rockdale,13247,95987,2022-08-01,Aug 2022,Multi-Family Permits (2 units),0.0,0.0
+Rockdale,13247,95987,2022-09-01,Sep 2022,Multi-Family Permits (2 units),0.0,0.0
+Rockdale,13247,95987,2022-10-01,Oct 2022,Multi-Family Permits (2 units),0.0,0.0
+Rockdale,13247,95987,2022-11-01,Nov 2022,Multi-Family Permits (2 units),0.0,0.0
+Rockdale,13247,95987,2022-12-01,Dec 2022,Multi-Family Permits (2 units),0.0,0.0
+Rockdale,13247,95987,2022-01-01,Jan 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Rockdale,13247,95987,2022-02-01,Feb 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Rockdale,13247,95987,2022-03-01,Mar 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Rockdale,13247,95987,2022-04-01,Apr 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Rockdale,13247,95987,2022-05-01,May 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Rockdale,13247,95987,2022-06-01,Jun 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Rockdale,13247,95987,2022-07-01,Jul 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Rockdale,13247,95987,2022-08-01,Aug 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Rockdale,13247,95987,2022-09-01,Sep 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Rockdale,13247,95987,2022-10-01,Oct 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Rockdale,13247,95987,2022-11-01,Nov 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Rockdale,13247,95987,2022-12-01,Dec 2022,Multi-Family Permits (3-4 units),0.0,0.0
+Rockdale,13247,95987,2022-01-01,Jan 2022,Multi-Family Permits (5+ units),0.0,0.0
+Rockdale,13247,95987,2022-02-01,Feb 2022,Multi-Family Permits (5+ units),0.0,0.0
+Rockdale,13247,95987,2022-03-01,Mar 2022,Multi-Family Permits (5+ units),0.0,0.0
+Rockdale,13247,95987,2022-04-01,Apr 2022,Multi-Family Permits (5+ units),0.0,0.0
+Rockdale,13247,95987,2022-05-01,May 2022,Multi-Family Permits (5+ units),0.0,0.0
+Rockdale,13247,95987,2022-06-01,Jun 2022,Multi-Family Permits (5+ units),0.0,0.0
+Rockdale,13247,95987,2022-07-01,Jul 2022,Multi-Family Permits (5+ units),300.0,31.254232343963245
+Rockdale,13247,95987,2022-08-01,Aug 2022,Multi-Family Permits (5+ units),0.0,0.0
+Rockdale,13247,95987,2022-09-01,Sep 2022,Multi-Family Permits (5+ units),264.0,27.503724462687654
+Rockdale,13247,95987,2022-10-01,Oct 2022,Multi-Family Permits (5+ units),0.0,0.0
+Rockdale,13247,95987,2022-11-01,Nov 2022,Multi-Family Permits (5+ units),0.0,0.0
+Rockdale,13247,95987,2022-12-01,Dec 2022,Multi-Family Permits (5+ units),0.0,0.0
+Rockdale,13247,95987,2023-01-01,Jan 2023,Total Permits,9.0,0.9376269703188974
+Rockdale,13247,95987,2023-02-01,Feb 2023,Total Permits,15.0,1.5627116171981623
+Rockdale,13247,95987,2023-03-01,Mar 2023,Total Permits,34.0,3.542146332315834
+Rockdale,13247,95987,2023-04-01,Apr 2023,Total Permits,10.0,1.0418077447987748
+Rockdale,13247,95987,2023-05-01,May 2023,Total Permits,43.0,4.479773302634731
+Rockdale,13247,95987,2023-06-01,Jun 2023,Total Permits,84.0,8.751185056309708
+Rockdale,13247,95987,2023-07-01,Jul 2023,Total Permits,62.0,6.459208017752404
+Rockdale,13247,95987,2023-08-01,Aug 2023,Total Permits,17.0,1.771073166157917
+Rockdale,13247,95987,2023-09-01,Sep 2023,Total Permits,95.0,9.89717357558836
+Rockdale,13247,95987,2023-10-01,Oct 2023,Total Permits,8.0,0.8334461958390199
+Rockdale,13247,95987,2023-11-01,Nov 2023,Total Permits,5.0,0.5209038723993874
+Rockdale,13247,95987,2023-12-01,Dec 2023,Total Permits,3.0,0.31254232343963245
+Rockdale,13247,95987,2023-01-01,Jan 2023,All Single-Family Permits,9.0,0.9376269703188974
+Rockdale,13247,95987,2023-02-01,Feb 2023,All Single-Family Permits,15.0,1.5627116171981623
+Rockdale,13247,95987,2023-03-01,Mar 2023,All Single-Family Permits,34.0,3.542146332315834
+Rockdale,13247,95987,2023-04-01,Apr 2023,All Single-Family Permits,10.0,1.0418077447987748
+Rockdale,13247,95987,2023-05-01,May 2023,All Single-Family Permits,43.0,4.479773302634731
+Rockdale,13247,95987,2023-06-01,Jun 2023,All Single-Family Permits,84.0,8.751185056309708
+Rockdale,13247,95987,2023-07-01,Jul 2023,All Single-Family Permits,62.0,6.459208017752404
+Rockdale,13247,95987,2023-08-01,Aug 2023,All Single-Family Permits,17.0,1.771073166157917
+Rockdale,13247,95987,2023-09-01,Sep 2023,All Single-Family Permits,95.0,9.89717357558836
+Rockdale,13247,95987,2023-10-01,Oct 2023,All Single-Family Permits,8.0,0.8334461958390199
+Rockdale,13247,95987,2023-11-01,Nov 2023,All Single-Family Permits,5.0,0.5209038723993874
+Rockdale,13247,95987,2023-12-01,Dec 2023,All Single-Family Permits,3.0,0.31254232343963245
+Rockdale,13247,95987,2023-01-01,Jan 2023,All Multi-Family Permits,0.0,0.0
+Rockdale,13247,95987,2023-02-01,Feb 2023,All Multi-Family Permits,0.0,0.0
+Rockdale,13247,95987,2023-03-01,Mar 2023,All Multi-Family Permits,0.0,0.0
+Rockdale,13247,95987,2023-04-01,Apr 2023,All Multi-Family Permits,0.0,0.0
+Rockdale,13247,95987,2023-05-01,May 2023,All Multi-Family Permits,0.0,0.0
+Rockdale,13247,95987,2023-06-01,Jun 2023,All Multi-Family Permits,0.0,0.0
+Rockdale,13247,95987,2023-07-01,Jul 2023,All Multi-Family Permits,0.0,0.0
+Rockdale,13247,95987,2023-08-01,Aug 2023,All Multi-Family Permits,0.0,0.0
+Rockdale,13247,95987,2023-09-01,Sep 2023,All Multi-Family Permits,0.0,0.0
+Rockdale,13247,95987,2023-10-01,Oct 2023,All Multi-Family Permits,0.0,0.0
+Rockdale,13247,95987,2023-11-01,Nov 2023,All Multi-Family Permits,0.0,0.0
+Rockdale,13247,95987,2023-12-01,Dec 2023,All Multi-Family Permits,0.0,0.0
+Rockdale,13247,95987,2023-01-01,Jan 2023,Multi-Family Permits (2 units),0.0,0.0
+Rockdale,13247,95987,2023-02-01,Feb 2023,Multi-Family Permits (2 units),0.0,0.0
+Rockdale,13247,95987,2023-03-01,Mar 2023,Multi-Family Permits (2 units),0.0,0.0
+Rockdale,13247,95987,2023-04-01,Apr 2023,Multi-Family Permits (2 units),0.0,0.0
+Rockdale,13247,95987,2023-05-01,May 2023,Multi-Family Permits (2 units),0.0,0.0
+Rockdale,13247,95987,2023-06-01,Jun 2023,Multi-Family Permits (2 units),0.0,0.0
+Rockdale,13247,95987,2023-07-01,Jul 2023,Multi-Family Permits (2 units),0.0,0.0
+Rockdale,13247,95987,2023-08-01,Aug 2023,Multi-Family Permits (2 units),0.0,0.0
+Rockdale,13247,95987,2023-09-01,Sep 2023,Multi-Family Permits (2 units),0.0,0.0
+Rockdale,13247,95987,2023-10-01,Oct 2023,Multi-Family Permits (2 units),0.0,0.0
+Rockdale,13247,95987,2023-11-01,Nov 2023,Multi-Family Permits (2 units),0.0,0.0
+Rockdale,13247,95987,2023-12-01,Dec 2023,Multi-Family Permits (2 units),0.0,0.0
+Rockdale,13247,95987,2023-01-01,Jan 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Rockdale,13247,95987,2023-02-01,Feb 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Rockdale,13247,95987,2023-03-01,Mar 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Rockdale,13247,95987,2023-04-01,Apr 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Rockdale,13247,95987,2023-05-01,May 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Rockdale,13247,95987,2023-06-01,Jun 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Rockdale,13247,95987,2023-07-01,Jul 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Rockdale,13247,95987,2023-08-01,Aug 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Rockdale,13247,95987,2023-09-01,Sep 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Rockdale,13247,95987,2023-10-01,Oct 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Rockdale,13247,95987,2023-11-01,Nov 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Rockdale,13247,95987,2023-12-01,Dec 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Rockdale,13247,95987,2023-01-01,Jan 2023,Multi-Family Permits (5+ units),0.0,0.0
+Rockdale,13247,95987,2023-02-01,Feb 2023,Multi-Family Permits (5+ units),0.0,0.0
+Rockdale,13247,95987,2023-03-01,Mar 2023,Multi-Family Permits (5+ units),0.0,0.0
+Rockdale,13247,95987,2023-04-01,Apr 2023,Multi-Family Permits (5+ units),0.0,0.0
+Rockdale,13247,95987,2023-05-01,May 2023,Multi-Family Permits (5+ units),0.0,0.0
+Rockdale,13247,95987,2023-06-01,Jun 2023,Multi-Family Permits (5+ units),0.0,0.0
+Rockdale,13247,95987,2023-07-01,Jul 2023,Multi-Family Permits (5+ units),0.0,0.0
+Rockdale,13247,95987,2023-08-01,Aug 2023,Multi-Family Permits (5+ units),0.0,0.0
+Rockdale,13247,95987,2023-09-01,Sep 2023,Multi-Family Permits (5+ units),0.0,0.0
+Rockdale,13247,95987,2023-10-01,Oct 2023,Multi-Family Permits (5+ units),0.0,0.0
+Rockdale,13247,95987,2023-11-01,Nov 2023,Multi-Family Permits (5+ units),0.0,0.0
+Rockdale,13247,95987,2023-12-01,Dec 2023,Multi-Family Permits (5+ units),0.0,0.0
+Rockdale,13247,95987,2024-01-01,Jan 2024,Total Permits,45.0,4.688134851594487
+Rockdale,13247,95987,2024-02-01,Feb 2024,Total Permits,19.0,1.9794347151176723
+Rockdale,13247,95987,2024-03-01,Mar 2024,Total Permits,44.0,4.583954077114609
+Rockdale,13247,95987,2024-04-01,Apr 2024,Total Permits,57.0,5.938304145353016
+Rockdale,13247,95987,2024-05-01,May 2024,Total Permits,40.0,4.167230979195099
+Rockdale,13247,95987,2024-06-01,Jun 2024,Total Permits,65.0,6.771750341192037
+Rockdale,13247,95987,2024-01-01,Jan 2024,All Single-Family Permits,45.0,4.688134851594487
+Rockdale,13247,95987,2024-02-01,Feb 2024,All Single-Family Permits,19.0,1.9794347151176723
+Rockdale,13247,95987,2024-03-01,Mar 2024,All Single-Family Permits,44.0,4.583954077114609
+Rockdale,13247,95987,2024-04-01,Apr 2024,All Single-Family Permits,57.0,5.938304145353016
+Rockdale,13247,95987,2024-05-01,May 2024,All Single-Family Permits,40.0,4.167230979195099
+Rockdale,13247,95987,2024-06-01,Jun 2024,All Single-Family Permits,65.0,6.771750341192037
+Rockdale,13247,95987,2024-01-01,Jan 2024,All Multi-Family Permits,0.0,0.0
+Rockdale,13247,95987,2024-02-01,Feb 2024,All Multi-Family Permits,0.0,0.0
+Rockdale,13247,95987,2024-03-01,Mar 2024,All Multi-Family Permits,0.0,0.0
+Rockdale,13247,95987,2024-04-01,Apr 2024,All Multi-Family Permits,0.0,0.0
+Rockdale,13247,95987,2024-05-01,May 2024,All Multi-Family Permits,0.0,0.0
+Rockdale,13247,95987,2024-06-01,Jun 2024,All Multi-Family Permits,0.0,0.0
+Rockdale,13247,95987,2024-01-01,Jan 2024,Multi-Family Permits (2 units),0.0,0.0
+Rockdale,13247,95987,2024-02-01,Feb 2024,Multi-Family Permits (2 units),0.0,0.0
+Rockdale,13247,95987,2024-03-01,Mar 2024,Multi-Family Permits (2 units),0.0,0.0
+Rockdale,13247,95987,2024-04-01,Apr 2024,Multi-Family Permits (2 units),0.0,0.0
+Rockdale,13247,95987,2024-05-01,May 2024,Multi-Family Permits (2 units),0.0,0.0
+Rockdale,13247,95987,2024-06-01,Jun 2024,Multi-Family Permits (2 units),0.0,0.0
+Rockdale,13247,95987,2024-01-01,Jan 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Rockdale,13247,95987,2024-02-01,Feb 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Rockdale,13247,95987,2024-03-01,Mar 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Rockdale,13247,95987,2024-04-01,Apr 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Rockdale,13247,95987,2024-05-01,May 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Rockdale,13247,95987,2024-06-01,Jun 2024,Multi-Family Permits (3-4 units),0.0,0.0
+Rockdale,13247,95987,2024-01-01,Jan 2024,Multi-Family Permits (5+ units),0.0,0.0
+Rockdale,13247,95987,2024-02-01,Feb 2024,Multi-Family Permits (5+ units),0.0,0.0
+Rockdale,13247,95987,2024-03-01,Mar 2024,Multi-Family Permits (5+ units),0.0,0.0
+Rockdale,13247,95987,2024-04-01,Apr 2024,Multi-Family Permits (5+ units),0.0,0.0
+Rockdale,13247,95987,2024-05-01,May 2024,Multi-Family Permits (5+ units),0.0,0.0
+Rockdale,13247,95987,2024-06-01,Jun 2024,Multi-Family Permits (5+ units),0.0,0.0
+Metro,n/a,5083266,2022-01-01,Jan 2022,All Multi-Family Permits,639.0,1.2570658312982244
+Metro,n/a,5083266,2022-01-01,Jan 2022,All Single-Family Permits,1459.0,2.8702019528389817
+Metro,n/a,5083266,2022-01-01,Jan 2022,Multi-Family Permits (2 units),6.0,0.011803435035664079
+Metro,n/a,5083266,2022-01-01,Jan 2022,Multi-Family Permits (3-4 units),15.0,0.029508587589160196
+Metro,n/a,5083266,2022-01-01,Jan 2022,Multi-Family Permits (5+ units),618.0,1.2157538086734
+Metro,n/a,5083266,2022-01-01,Jan 2022,Total Permits,2098.0,4.1272677841372065
+Metro,n/a,5083266,2022-02-01,Feb 2022,All Multi-Family Permits,1313.0,2.5829850336378226
+Metro,n/a,5083266,2022-02-01,Feb 2022,All Single-Family Permits,1648.0,3.2420101564624004
+Metro,n/a,5083266,2022-02-01,Feb 2022,Multi-Family Permits (2 units),4.0,0.00786895669044272
+Metro,n/a,5083266,2022-02-01,Feb 2022,Multi-Family Permits (3-4 units),27.0,0.053115457660488356
+Metro,n/a,5083266,2022-02-01,Feb 2022,Multi-Family Permits (5+ units),1282.0,2.522000619286892
+Metro,n/a,5083266,2022-02-01,Feb 2022,Total Permits,2961.0,5.824995190100223
+Metro,n/a,5083266,2022-03-01,Mar 2022,All Multi-Family Permits,1352.0,2.659707361369639
+Metro,n/a,5083266,2022-03-01,Mar 2022,All Single-Family Permits,1924.0,3.7849681681029477
+Metro,n/a,5083266,2022-03-01,Mar 2022,Multi-Family Permits (2 units),20.0,0.039344783452213594
+Metro,n/a,5083266,2022-03-01,Mar 2022,Multi-Family Permits (3-4 units),49.0,0.0963947194579233
+Metro,n/a,5083266,2022-03-01,Mar 2022,Multi-Family Permits (5+ units),1283.0,2.523967858459502
+Metro,n/a,5083266,2022-03-01,Mar 2022,Total Permits,3276.0,6.444675529472588
+Metro,n/a,5083266,2022-04-01,Apr 2022,All Multi-Family Permits,1666.0,3.2774204615693927
+Metro,n/a,5083266,2022-04-01,Apr 2022,All Single-Family Permits,1693.0,3.330535919229881
+Metro,n/a,5083266,2022-04-01,Apr 2022,Multi-Family Permits (2 units),18.0,0.03541030510699224
+Metro,n/a,5083266,2022-04-01,Apr 2022,Multi-Family Permits (3-4 units),18.0,0.03541030510699224
+Metro,n/a,5083266,2022-04-01,Apr 2022,Multi-Family Permits (5+ units),1630.0,3.2065998513554077
+Metro,n/a,5083266,2022-04-01,Apr 2022,Total Permits,3359.0,6.607956380799274
+Metro,n/a,5083266,2022-05-01,May 2022,All Multi-Family Permits,761.0,1.4970690103567275
+Metro,n/a,5083266,2022-05-01,May 2022,All Single-Family Permits,1657.0,3.259715309015897
+Metro,n/a,5083266,2022-05-01,May 2022,Multi-Family Permits (2 units),8.0,0.01573791338088544
+Metro,n/a,5083266,2022-05-01,May 2022,Multi-Family Permits (3-4 units),4.0,0.00786895669044272
+Metro,n/a,5083266,2022-05-01,May 2022,Multi-Family Permits (5+ units),749.0,1.4734621402853991
+Metro,n/a,5083266,2022-05-01,May 2022,Total Permits,2418.0,4.756784319372624
+Metro,n/a,5083266,2022-06-01,Jun 2022,All Multi-Family Permits,1139.0,2.240685417603564
+Metro,n/a,5083266,2022-06-01,Jun 2022,All Single-Family Permits,1752.0,3.4466030304139115
+Metro,n/a,5083266,2022-06-01,Jun 2022,Multi-Family Permits (2 units),4.0,0.00786895669044272
+Metro,n/a,5083266,2022-06-01,Jun 2022,Multi-Family Permits (3-4 units),3.0,0.005901717517832039
+Metro,n/a,5083266,2022-06-01,Jun 2022,Multi-Family Permits (5+ units),1132.0,2.2269147433952896
+Metro,n/a,5083266,2022-06-01,Jun 2022,Total Permits,2891.0,5.687288448017475
+Metro,n/a,5083266,2022-07-01,Jul 2022,All Multi-Family Permits,2447.0,4.8138342553783335
+Metro,n/a,5083266,2022-07-01,Jul 2022,All Single-Family Permits,1357.0,2.669543557232693
+Metro,n/a,5083266,2022-07-01,Jul 2022,Multi-Family Permits (2 units),8.0,0.01573791338088544
+Metro,n/a,5083266,2022-07-01,Jul 2022,Multi-Family Permits (3-4 units),12.0,0.023606870071328157
+Metro,n/a,5083266,2022-07-01,Jul 2022,Multi-Family Permits (5+ units),2427.0,4.77448947192612
+Metro,n/a,5083266,2022-07-01,Jul 2022,Total Permits,3804.0,7.483377812611026
+Metro,n/a,5083266,2022-08-01,Aug 2022,All Multi-Family Permits,2324.0,4.5718638371472196
+Metro,n/a,5083266,2022-08-01,Aug 2022,All Single-Family Permits,1520.0,2.9902035423682336
+Metro,n/a,5083266,2022-08-01,Aug 2022,Multi-Family Permits (2 units),22.0,0.04327926179743496
+Metro,n/a,5083266,2022-08-01,Aug 2022,Multi-Family Permits (3-4 units),21.0,0.04131202262482428
+Metro,n/a,5083266,2022-08-01,Aug 2022,Multi-Family Permits (5+ units),2281.0,4.487272552724961
+Metro,n/a,5083266,2022-08-01,Aug 2022,Total Permits,3844.0,7.562067379515453
+Metro,n/a,5083266,2022-09-01,Sep 2022,All Multi-Family Permits,1970.0,3.8754611700430392
+Metro,n/a,5083266,2022-09-01,Sep 2022,All Single-Family Permits,1340.0,2.6361004912983113
+Metro,n/a,5083266,2022-09-01,Sep 2022,Multi-Family Permits (2 units),4.0,0.00786895669044272
+Metro,n/a,5083266,2022-09-01,Sep 2022,Multi-Family Permits (3-4 units),17.0,0.03344306593438156
+Metro,n/a,5083266,2022-09-01,Sep 2022,Multi-Family Permits (5+ units),1949.0,3.834149147418215
+Metro,n/a,5083266,2022-09-01,Sep 2022,Total Permits,3310.0,6.511561661341351
+Metro,n/a,5083266,2022-10-01,Oct 2022,All Multi-Family Permits,1793.0,3.527259836490949
+Metro,n/a,5083266,2022-10-01,Oct 2022,All Single-Family Permits,1265.0,2.4885575533525097
+Metro,n/a,5083266,2022-10-01,Oct 2022,Multi-Family Permits (2 units),30.0,0.05901717517832039
+Metro,n/a,5083266,2022-10-01,Oct 2022,Multi-Family Permits (3-4 units),31.0,0.06098441435093107
+Metro,n/a,5083266,2022-10-01,Oct 2022,Multi-Family Permits (5+ units),1732.0,3.4072582469616974
+Metro,n/a,5083266,2022-10-01,Oct 2022,Total Permits,3058.0,6.015817389843458
+Metro,n/a,5083266,2022-11-01,Nov 2022,All Multi-Family Permits,1621.0,3.1888946988019122
+Metro,n/a,5083266,2022-11-01,Nov 2022,All Single-Family Permits,951.0,1.8708444531527566
+Metro,n/a,5083266,2022-11-01,Nov 2022,Multi-Family Permits (2 units),30.0,0.05901717517832039
+Metro,n/a,5083266,2022-11-01,Nov 2022,Multi-Family Permits (3-4 units),12.0,0.023606870071328157
+Metro,n/a,5083266,2022-11-01,Nov 2022,Multi-Family Permits (5+ units),1579.0,3.1062706535522633
+Metro,n/a,5083266,2022-11-01,Nov 2022,Total Permits,2572.0,5.059739151954669
+Metro,n/a,5083266,2022-12-01,Dec 2022,All Multi-Family Permits,1649.0,3.243977395635011
+Metro,n/a,5083266,2022-12-01,Dec 2022,All Single-Family Permits,837.0,1.646579187475139
+Metro,n/a,5083266,2022-12-01,Dec 2022,Multi-Family Permits (2 units),8.0,0.01573791338088544
+Metro,n/a,5083266,2022-12-01,Dec 2022,Multi-Family Permits (3-4 units),16.0,0.03147582676177088
+Metro,n/a,5083266,2022-12-01,Dec 2022,Multi-Family Permits (5+ units),1625.0,3.196763655492355
+Metro,n/a,5083266,2022-12-01,Dec 2022,Total Permits,2486.0,4.8905565831101505
+Metro,n/a,5083266,2023-01-01,Jan 2023,All Multi-Family Permits,2279.0,4.4833380743797395
+Metro,n/a,5083266,2023-01-01,Jan 2023,All Single-Family Permits,898.0,1.7665807770043904
+Metro,n/a,5083266,2023-01-01,Jan 2023,Multi-Family Permits (2 units),4.0,0.00786895669044272
+Metro,n/a,5083266,2023-01-01,Jan 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Metro,n/a,5083266,2023-01-01,Jan 2023,Multi-Family Permits (5+ units),2275.0,4.475469117689297
+Metro,n/a,5083266,2023-01-01,Jan 2023,Total Permits,3177.0,6.2499188513841295
+Metro,n/a,5083266,2023-02-01,Feb 2023,All Multi-Family Permits,1966.0,3.8675922133525966
+Metro,n/a,5083266,2023-02-01,Feb 2023,All Single-Family Permits,998.0,1.9633046942654586
+Metro,n/a,5083266,2023-02-01,Feb 2023,Multi-Family Permits (2 units),10.0,0.019672391726106797
+Metro,n/a,5083266,2023-02-01,Feb 2023,Multi-Family Permits (3-4 units),11.0,0.02163963089871748
+Metro,n/a,5083266,2023-02-01,Feb 2023,Multi-Family Permits (5+ units),1945.0,3.8262801907277724
+Metro,n/a,5083266,2023-02-01,Feb 2023,Total Permits,2964.0,5.830896907618055
+Metro,n/a,5083266,2023-03-01,Mar 2023,All Multi-Family Permits,427.0,0.8400111267047603
+Metro,n/a,5083266,2023-03-01,Mar 2023,All Single-Family Permits,1470.0,2.8918415837376994
+Metro,n/a,5083266,2023-03-01,Mar 2023,Multi-Family Permits (2 units),10.0,0.019672391726106797
+Metro,n/a,5083266,2023-03-01,Mar 2023,Multi-Family Permits (3-4 units),0.0,0.0
+Metro,n/a,5083266,2023-03-01,Mar 2023,Multi-Family Permits (5+ units),417.0,0.8203387349786535
+Metro,n/a,5083266,2023-03-01,Mar 2023,Total Permits,1897.0,3.7318527104424595
+Metro,n/a,5083266,2023-04-01,Apr 2023,All Multi-Family Permits,849.0,1.6701860575464673
+Metro,n/a,5083266,2023-04-01,Apr 2023,All Single-Family Permits,1363.0,2.681346992268357
+Metro,n/a,5083266,2023-04-01,Apr 2023,Multi-Family Permits (2 units),8.0,0.01573791338088544
+Metro,n/a,5083266,2023-04-01,Apr 2023,Multi-Family Permits (3-4 units),21.0,0.04131202262482428
+Metro,n/a,5083266,2023-04-01,Apr 2023,Multi-Family Permits (5+ units),820.0,1.6131361215407576
+Metro,n/a,5083266,2023-04-01,Apr 2023,Total Permits,2212.0,4.351533049814823
+Metro,n/a,5083266,2023-05-01,May 2023,All Multi-Family Permits,2379.0,4.680061991640807
+Metro,n/a,5083266,2023-05-01,May 2023,All Single-Family Permits,1541.0,3.031515564993058
+Metro,n/a,5083266,2023-05-01,May 2023,Multi-Family Permits (2 units),32.0,0.06295165352354176
+Metro,n/a,5083266,2023-05-01,May 2023,Multi-Family Permits (3-4 units),38.0,0.07475508855920583
+Metro,n/a,5083266,2023-05-01,May 2023,Multi-Family Permits (5+ units),2309.0,4.54235524955806
+Metro,n/a,5083266,2023-05-01,May 2023,Total Permits,3920.0,7.711577556633865
+Metro,n/a,5083266,2023-06-01,Jun 2023,All Multi-Family Permits,953.0,1.874778931497978
+Metro,n/a,5083266,2023-06-01,Jun 2023,All Single-Family Permits,1459.0,2.8702019528389817
+Metro,n/a,5083266,2023-06-01,Jun 2023,Multi-Family Permits (2 units),4.0,0.00786895669044272
+Metro,n/a,5083266,2023-06-01,Jun 2023,Multi-Family Permits (3-4 units),19.0,0.037377544279602916
+Metro,n/a,5083266,2023-06-01,Jun 2023,Multi-Family Permits (5+ units),930.0,1.8295324305279321
+Metro,n/a,5083266,2023-06-01,Jun 2023,Total Permits,2412.0,4.74498088433696
+Metro,n/a,5083266,2023-07-01,Jul 2023,All Multi-Family Permits,1148.0,2.2583905701570606
+Metro,n/a,5083266,2023-07-01,Jul 2023,All Single-Family Permits,1622.0,3.1908619379745224
+Metro,n/a,5083266,2023-07-01,Jul 2023,Multi-Family Permits (2 units),0.0,0.0
+Metro,n/a,5083266,2023-07-01,Jul 2023,Multi-Family Permits (3-4 units),3.0,0.005901717517832039
+Metro,n/a,5083266,2023-07-01,Jul 2023,Multi-Family Permits (5+ units),1145.0,2.2524888526392286
+Metro,n/a,5083266,2023-07-01,Jul 2023,Total Permits,2770.0,5.4492525081315835
+Metro,n/a,5083266,2023-08-01,Aug 2023,All Multi-Family Permits,621.0,1.221655526191232
+Metro,n/a,5083266,2023-08-01,Aug 2023,All Single-Family Permits,1466.0,2.8839726270472568
+Metro,n/a,5083266,2023-08-01,Aug 2023,Multi-Family Permits (2 units),16.0,0.03147582676177088
+Metro,n/a,5083266,2023-08-01,Aug 2023,Multi-Family Permits (3-4 units),27.0,0.053115457660488356
+Metro,n/a,5083266,2023-08-01,Aug 2023,Multi-Family Permits (5+ units),578.0,1.137064241768973
+Metro,n/a,5083266,2023-08-01,Aug 2023,Total Permits,2087.0,4.105628153238489
+Metro,n/a,5083266,2023-09-01,Sep 2023,All Multi-Family Permits,315.0,0.6196803393723642
+Metro,n/a,5083266,2023-09-01,Sep 2023,All Single-Family Permits,1142.0,2.2465871351213966
+Metro,n/a,5083266,2023-09-01,Sep 2023,Multi-Family Permits (2 units),2.0,0.00393447834522136
+Metro,n/a,5083266,2023-09-01,Sep 2023,Multi-Family Permits (3-4 units),15.0,0.029508587589160196
+Metro,n/a,5083266,2023-09-01,Sep 2023,Multi-Family Permits (5+ units),298.0,0.5862372734379826
+Metro,n/a,5083266,2023-09-01,Sep 2023,Total Permits,1457.0,2.8662674744937604
+Metro,n/a,5083266,2023-10-01,Oct 2023,All Multi-Family Permits,1112.0,2.187569959943076
+Metro,n/a,5083266,2023-10-01,Oct 2023,All Single-Family Permits,1110.0,2.1836354815978547
+Metro,n/a,5083266,2023-10-01,Oct 2023,Multi-Family Permits (2 units),6.0,0.011803435035664079
+Metro,n/a,5083266,2023-10-01,Oct 2023,Multi-Family Permits (3-4 units),40.0,0.07868956690442719
+Metro,n/a,5083266,2023-10-01,Oct 2023,Multi-Family Permits (5+ units),1066.0,2.0970769580029844
+Metro,n/a,5083266,2023-10-01,Oct 2023,Total Permits,2222.0,4.371205441540931
+Metro,n/a,5083266,2023-11-01,Nov 2023,All Multi-Family Permits,614.0,1.2078848519829573
+Metro,n/a,5083266,2023-11-01,Nov 2023,All Single-Family Permits,1211.0,2.3823266380315333
+Metro,n/a,5083266,2023-11-01,Nov 2023,Multi-Family Permits (2 units),10.0,0.019672391726106797
+Metro,n/a,5083266,2023-11-01,Nov 2023,Multi-Family Permits (3-4 units),17.0,0.03344306593438156
+Metro,n/a,5083266,2023-11-01,Nov 2023,Multi-Family Permits (5+ units),587.0,1.154769394322469
+Metro,n/a,5083266,2023-11-01,Nov 2023,Total Permits,1825.0,3.590211490014491
+Metro,n/a,5083266,2023-12-01,Dec 2023,All Multi-Family Permits,422.0,0.8301749308417068
+Metro,n/a,5083266,2023-12-01,Dec 2023,All Single-Family Permits,1168.0,2.2977353536092737
+Metro,n/a,5083266,2023-12-01,Dec 2023,Multi-Family Permits (2 units),2.0,0.00393447834522136
+Metro,n/a,5083266,2023-12-01,Dec 2023,Multi-Family Permits (3-4 units),20.0,0.039344783452213594
+Metro,n/a,5083266,2023-12-01,Dec 2023,Multi-Family Permits (5+ units),400.0,0.7868956690442719
+Metro,n/a,5083266,2023-12-01,Dec 2023,Total Permits,1590.0,3.127910284450981
+Metro,n/a,5083266,2024-01-01,Jan 2024,All Multi-Family Permits,698.0,1.3731329424822545
+Metro,n/a,5083266,2024-01-01,Jan 2024,All Single-Family Permits,1301.0,2.5593781635664947
+Metro,n/a,5083266,2024-01-01,Jan 2024,Multi-Family Permits (2 units),10.0,0.019672391726106797
+Metro,n/a,5083266,2024-01-01,Jan 2024,Multi-Family Permits (3-4 units),35.0,0.06885337104137379
+Metro,n/a,5083266,2024-01-01,Jan 2024,Multi-Family Permits (5+ units),653.0,1.2846071797147738
+Metro,n/a,5083266,2024-01-01,Jan 2024,Total Permits,1999.0,3.9325111060487488
+Metro,n/a,5083266,2024-02-01,Feb 2024,All Multi-Family Permits,1040.0,2.045928739515107
+Metro,n/a,5083266,2024-02-01,Feb 2024,All Single-Family Permits,1342.0,2.6400349696435326
+Metro,n/a,5083266,2024-02-01,Feb 2024,Multi-Family Permits (2 units),12.0,0.023606870071328157
+Metro,n/a,5083266,2024-02-01,Feb 2024,Multi-Family Permits (3-4 units),136.0,0.2675445274750525
+Metro,n/a,5083266,2024-02-01,Feb 2024,Multi-Family Permits (5+ units),892.0,1.7547773419687265
+Metro,n/a,5083266,2024-02-01,Feb 2024,Total Permits,2382.0,4.6859637091586395
+Metro,n/a,5083266,2024-03-01,Mar 2024,All Multi-Family Permits,1625.0,3.196763655492355
+Metro,n/a,5083266,2024-03-01,Mar 2024,All Single-Family Permits,1785.0,3.5115219231100636
+Metro,n/a,5083266,2024-03-01,Mar 2024,Multi-Family Permits (2 units),4.0,0.00786895669044272
+Metro,n/a,5083266,2024-03-01,Mar 2024,Multi-Family Permits (3-4 units),37.0,0.07278784938659515
+Metro,n/a,5083266,2024-03-01,Mar 2024,Multi-Family Permits (5+ units),1584.0,3.116106849415317
+Metro,n/a,5083266,2024-03-01,Mar 2024,Total Permits,3410.0,6.708285578602418
+Metro,n/a,5083266,2024-04-01,Apr 2024,All Multi-Family Permits,1087.0,2.138388980627809
+Metro,n/a,5083266,2024-04-01,Apr 2024,All Single-Family Permits,1519.0,2.9882363031956225
+Metro,n/a,5083266,2024-04-01,Apr 2024,Multi-Family Permits (2 units),10.0,0.019672391726106797
+Metro,n/a,5083266,2024-04-01,Apr 2024,Multi-Family Permits (3-4 units),13.0,0.02557410924393884
+Metro,n/a,5083266,2024-04-01,Apr 2024,Multi-Family Permits (5+ units),1064.0,2.093142479657763
+Metro,n/a,5083266,2024-04-01,Apr 2024,Total Permits,2606.0,5.126625283823432
+Metro,n/a,5083266,2024-05-01,May 2024,All Multi-Family Permits,1277.0,2.512164423423838
+Metro,n/a,5083266,2024-05-01,May 2024,All Single-Family Permits,1503.0,2.956760476433852
+Metro,n/a,5083266,2024-05-01,May 2024,Multi-Family Permits (2 units),16.0,0.03147582676177088
+Metro,n/a,5083266,2024-05-01,May 2024,Multi-Family Permits (3-4 units),42.0,0.08262404524964856
+Metro,n/a,5083266,2024-05-01,May 2024,Multi-Family Permits (5+ units),1219.0,2.3980645514124186
+Metro,n/a,5083266,2024-05-01,May 2024,Total Permits,2780.0,5.46892489985769
+Metro,n/a,5083266,2024-06-01,Jun 2024,All Multi-Family Permits,452.0,0.8891921060200272
+Metro,n/a,5083266,2024-06-01,Jun 2024,All Single-Family Permits,1362.0,2.6793797530957457
+Metro,n/a,5083266,2024-06-01,Jun 2024,Multi-Family Permits (2 units),10.0,0.019672391726106797
+Metro,n/a,5083266,2024-06-01,Jun 2024,Multi-Family Permits (3-4 units),31.0,0.06098441435093107
+Metro,n/a,5083266,2024-06-01,Jun 2024,Multi-Family Permits (5+ units),411.0,0.8085352999429894
+Metro,n/a,5083266,2024-06-01,Jun 2024,Total Permits,1814.0,3.5685718591157736
